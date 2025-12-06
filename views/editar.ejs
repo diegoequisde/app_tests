@@ -1,0 +1,8 @@
+<h1>Editar</h1>
+
+<form action="/preguntas/editar/<%= pregunta.id %>" method="POST">
+  <input type="text" name="enunciado" value="<%= pregunta.enunciado %>" required>
+  <textarea name="opciones"><%= pregunta.opciones %></textarea>
+  <input type="text" name="respuestaCorrecta" value="<%= pregunta.respuestaCorrecta %>" required>
+  <button>Guardar cambios</button>
+</form>

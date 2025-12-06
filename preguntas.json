@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1765048647274,
+    "enunciado": "aaaaa",
+    "opciones": "aaaa, bbb, cc",
+    "respuestaCorrecta": "cc"
+  },
+  {
+    "id": 1765048959749,
+    "enunciado": "bbbbbb",
+    "opciones": "aaa, 2222, 444",
+    "respuestaCorrecta": "444"
+  }
+]

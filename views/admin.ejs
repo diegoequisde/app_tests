@@ -1,0 +1,15 @@
+<h1>Preguntas</h1>
+
+<a href="/preguntas/crear">Añadir pregunta</a>
+
+<ul>
+  <% preguntas.forEach(p => { %>
+    <li>
+      <strong><%= p.enunciado %></strong>
+      <form action="/preguntas/eliminar/<%= p.id %>" method="POST" style="display:inline;">
+        <button>Eliminar</button>
+      </form>
+      <a href="/preguntas/editar/<%= p.id %>">Editar</a>
+    </li>
+  <% }) %>
+</ul>

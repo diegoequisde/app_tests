@@ -1,22 +1,4 @@
-// 1. Define las preguntas en un array de objetos
-const questions = [
-    {
-        question: "¿Cuál es la capital de España?",
-        options: ["Sevilla", "Madrid", "Barcelona", "Valencia"],
-        answer: "Madrid"
-    },
-    {
-        question: "¿Qué lenguaje se usa para dar estilos a las páginas web?",
-        options: ["JavaScript", "Python", "HTML", "CSS"],
-        answer: "CSS"
-    },
-    {
-        question: "¿Qué etiqueta se usa para enlazar JavaScript en HTML?",
-        options: ["<js>", "<script>", "<javascript>", "<link>"],
-        answer: "<script>"
-    }
-];
-
+let questions = []; // antes estaba hardcoded
 let currentQuestionIndex = 0;
 let score = 0;
 
@@ -25,7 +7,27 @@ const optionsContainer = document.getElementById('options-container');
 const submitBtn = document.getElementById('submit-btn');
 const resultContainer = document.getElementById('result-container');
 
-// Función para cargar la pregunta actual
+// 🔥 1. Cargar preguntas desde tu API
+async function loadQuestionsFromServer() {
+    try {
+        const res = await fetch('/preguntas/api/listado');
+        const data = await res.json();
+
+        // Adaptar el formato a tu estructura actual
+        questions = data.map(p => ({
+            question: p.enunciado,
+            options: p.opciones.split(',').map(o => o.trim()),
+            answer: p.respuestaCorrecta
+        }));
+
+        loadQuestion();
+    } catch (error) {
+        console.error("Error cargando preguntas:", error);
+        questionContainer.innerHTML = "<p>Error cargando preguntas.</p>";
+    }
+}
+
+// 🔥 2. Cargar una pregunta
 function loadQuestion() {
     if (currentQuestionIndex < questions.length) {
         const currentQuestion = questions[currentQuestionIndex];
@@ -39,44 +41,47 @@ function loadQuestion() {
             optionElement.addEventListener('click', () => selectOption(optionElement, option));
             optionsContainer.appendChild(optionElement);
         });
+
     } else {
         showResults();
     }
 }
 
-// Función para manejar la selección de opciones
+// 🔥 3. Selección de opción (mantiene tus clases CSS)
 function selectOption(element, option) {
-    // Deselecciona opciones anteriores
-    document.querySelectorAll('.option').forEach(opt => {
-        opt.classList.remove('selected');
-    });
+    document.querySelectorAll('.option').forEach(opt => opt.classList.remove('selected'));
     element.classList.add('selected');
-    // Almacena la opción seleccionada temporalmente
-    submitBtn.dataset.selectedAnswer = option; 
+
+    submitBtn.dataset.selectedAnswer = option;
 }
 
-// Función para comprobar la respuesta
+// 🔥 4. Comprobar la respuesta
 submitBtn.addEventListener('click', () => {
     const selectedAnswer = submitBtn.dataset.selectedAnswer;
+
     if (selectedAnswer) {
         if (selectedAnswer === questions[currentQuestionIndex].answer) {
             score++;
         }
         currentQuestionIndex++;
-        submitBtn.dataset.selectedAnswer = ''; // Limpiar selección
+        submitBtn.dataset.selectedAnswer = '';
         loadQuestion();
     } else {
         alert("Por favor, selecciona una opción.");
     }
 });
 
-// Función para mostrar los resultados finales
+// 🔥 5. Mostrar resultados finales
 function showResults() {
     questionContainer.style.display = 'none';
     optionsContainer.style.display = 'none';
     submitBtn.style.display = 'none';
-    resultContainer.innerHTML = `<h2>Quiz Completado</h2><p>Tu puntuación es: ${score} de ${questions.length}</p>`;
+
+    resultContainer.innerHTML = `
+        <h2>Quiz Completado</h2>
+        <p>Tu puntuación es: ${score} de ${questions.length}</p>
+    `;
 }
 
-// Cargar la primera pregunta al iniciar
-loadQuestion();
+// 🔥 6. Iniciar → cargar desde el servidor
+loadQuestionsFromServer();
