@@ -1,8 +1,44 @@
 <h1>Nueva pregunta</h1>
 
 <form action="/preguntas/crear" method="POST">
+
   <input type="text" name="enunciado" placeholder="Enunciado" required>
-  <textarea name="opciones" placeholder="Opciones (separadas por comas)" required></textarea>
+
+  <div id="opciones-container">
+    <h3>Opciones:</h3>
+
+    <div class="opcion">
+      <input type="text" name="opciones[]" placeholder="Opción 1" required>
+    </div>
+
+    <div class="opcion">
+      <input type="text" name="opciones[]" placeholder="Opción 2" required>
+    </div>
+  </div>
+
+  <button type="button" id="add-option">Añadir opción</button>
+
   <input type="text" name="respuestaCorrecta" placeholder="Respuesta correcta" required>
-  <button>Guardar</button>
+
+  <button type="submit">Guardar</button>
 </form>
+
+<script>
+document.getElementById("add-option").addEventListener("click", () => {
+    const cont = document.getElementById("opciones-container");
+
+    const div = document.createElement("div");
+    div.classList.add("opcion");
+
+    div.innerHTML = `
+        <input type="text" name="opciones[]" placeholder="Nueva opción" required>
+        <button type="button" class="remove-option">X</button>
+    `;
+
+    cont.appendChild(div);
+
+    div.querySelector(".remove-option").addEventListener("click", () => {
+        div.remove();
+    });
+});
+</script>

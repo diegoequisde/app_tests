@@ -14,14 +14,17 @@ router.get('/crear', (req, res) => {
 });
 
 // CREAR
-router.post('/crear', (req, res) => {
-  const preguntas = loadPreguntas();
-  const nueva = {
-    id: Date.now(),
-    enunciado: req.body.enunciado,
-    opciones: req.body.opciones,
-    respuestaCorrecta: req.body.respuestaCorrecta
-  };
+router.post('/preguntas/crear', (req, res) => {
+    let { enunciado, opciones, respuestaCorrecta } = req.body;
+
+    const preguntas = loadPreguntas();
+
+       const nueva = {
+        id: Date.now(),
+        enunciado,
+        opciones,
+        respuestaCorrecta
+    };
   preguntas.push(nueva);
   savePreguntas(preguntas);
   res.redirect('/preguntas');
@@ -35,20 +38,19 @@ router.get('/editar/:id', (req, res) => {
 });
 
 // EDITAR
-router.post('/editar/:id', (req, res) => {
-  let preguntas = loadPreguntas();
-  const id = Number(req.params.id);
+router.post('/preguntas/editar/:id', (req, res) => {
+    const id = Number(req.params.id);
+    let { enunciado, opciones, respuestaCorrecta } = req.body;
 
-  preguntas = preguntas.map(p =>
-    p.id === id
-      ? {
-          ...p,
-          enunciado: req.body.enunciado,
-          opciones: req.body.opciones,
-          respuestaCorrecta: req.body.respuestaCorrecta
-        }
-      : p
-  );
+    const preguntas = loadPreguntas();
+    const index = preguntas.findIndex(p => p.id === id);
+
+    preguntas[index] = {
+        id,
+        enunciado,
+        opciones,
+        respuestaCorrecta
+    };
 
   savePreguntas(preguntas);
   res.redirect('/preguntas');

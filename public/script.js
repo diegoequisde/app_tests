@@ -7,16 +7,15 @@ const optionsContainer = document.getElementById('options-container');
 const submitBtn = document.getElementById('submit-btn');
 const resultContainer = document.getElementById('result-container');
 
-// 🔥 1. Cargar preguntas desde tu API
+// 1. Cargar preguntas desde API
 async function loadQuestionsFromServer() {
     try {
         const res = await fetch('/preguntas/api/listado');
         const data = await res.json();
 
-        // Adaptar el formato a tu estructura actual
         questions = data.map(p => ({
             question: p.enunciado,
-            options: p.opciones.split(',').map(o => o.trim()),
+            options: p.opciones,
             answer: p.respuestaCorrecta
         }));
 
@@ -27,7 +26,7 @@ async function loadQuestionsFromServer() {
     }
 }
 
-// 🔥 2. Cargar una pregunta
+// 2. Cargar una pregunta
 function loadQuestion() {
     if (currentQuestionIndex < questions.length) {
         const currentQuestion = questions[currentQuestionIndex];
@@ -47,7 +46,7 @@ function loadQuestion() {
     }
 }
 
-// 🔥 3. Selección de opción (mantiene tus clases CSS)
+// 3. Selección de opción
 function selectOption(element, option) {
     document.querySelectorAll('.option').forEach(opt => opt.classList.remove('selected'));
     element.classList.add('selected');
@@ -55,7 +54,7 @@ function selectOption(element, option) {
     submitBtn.dataset.selectedAnswer = option;
 }
 
-// 🔥 4. Comprobar la respuesta
+// 4. Comprobar la respuesta
 submitBtn.addEventListener('click', () => {
     const selectedAnswer = submitBtn.dataset.selectedAnswer;
 
@@ -71,7 +70,7 @@ submitBtn.addEventListener('click', () => {
     }
 });
 
-// 🔥 5. Mostrar resultados finales
+// 5. Mostrar resultados finales
 function showResults() {
     questionContainer.style.display = 'none';
     optionsContainer.style.display = 'none';
@@ -83,5 +82,5 @@ function showResults() {
     `;
 }
 
-// 🔥 6. Iniciar → cargar desde el servidor
+// 6. Iniciar → cargar desde el servidor
 loadQuestionsFromServer();

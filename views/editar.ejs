@@ -1,8 +1,51 @@
-<h1>Editar</h1>
+<h1>Editar pregunta</h1>
 
 <form action="/preguntas/editar/<%= pregunta.id %>" method="POST">
+
   <input type="text" name="enunciado" value="<%= pregunta.enunciado %>" required>
-  <textarea name="opciones"><%= pregunta.opciones %></textarea>
-  <input type="text" name="respuestaCorrecta" value="<%= pregunta.respuestaCorrecta %>" required>
-  <button>Guardar cambios</button>
+
+  <div id="opciones-container">
+    <h3>Opciones:</h3>
+
+    <% pregunta.opciones.forEach((op, i) => { %>
+      <div class="opcion">
+        <input type="text" name="opciones[]" value="<%= op %>" required>
+        <button type="button" class="remove-option">X</button>
+      </div>
+    <% }) %>
+  </div>
+
+  <button type="button" id="add-option">Añadir opción</button>
+
+  <input type="text" name="respuestaCorrecta"
+         value="<%= pregunta.respuestaCorrecta %>" required>
+
+  <button type="submit">Guardar cambios</button>
 </form>
+
+<script>
+document.getElementById("add-option").addEventListener("click", () => {
+    const cont = document.getElementById("opciones-container");
+
+    const div = document.createElement("div");
+    div.classList.add("opcion");
+
+    div.innerHTML = `
+        <input type="text" name="opciones[]" placeholder="Nueva opción" required>
+        <button type="button" class="remove-option">X</button>
+    `;
+
+    cont.appendChild(div);
+
+    div.querySelector(".remove-option").addEventListener("click", () => {
+        div.remove();
+    });
+});
+
+// activar delete en los existentes
+document.querySelectorAll(".remove-option").forEach(btn => {
+    btn.addEventListener("click", () => {
+        btn.parentElement.remove();
+    });
+});
+</script>
