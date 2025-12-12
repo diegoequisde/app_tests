@@ -1,59 +1,139 @@
-body {
-    font-family: sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f4f4f4;
+/* ---------- Reset básico ---------- */
+* {
+    box-sizing: border-box;
     margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
 }
 
-.quiz-container {
-    background-color: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 80%;
-    max-width: 500px;
-}
-
-#question-container h2 {
+/* ---------- Body ---------- */
+body {
+    background-color: #f5f5f5;
     color: #333;
+    padding: 20px;
 }
 
-.option {
-    margin: 10px 0;
+/* ---------- Contenedor principal ---------- */
+.container {
+    max-width: 600px;
+    margin: 30px auto;
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* ---------- Títulos ---------- */
+h1 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #222;
+}
+
+h2 {
+    margin-bottom: 15px;
+    color: #444;
+}
+
+/* ---------- Formulario ---------- */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form input[type="text"],
+form input[type="number"],
+form textarea,
+form select {
     padding: 10px;
-    background-color: #e9e9e9;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
     border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
+    font-size: 1rem;
 }
 
-.option:hover {
-    background-color: #d4d4d4;
+form textarea {
+    resize: vertical;
 }
 
-.option.selected {
-    background-color: #007bff;
-    color: white;
-}
-
-#submit-btn {
-    margin-top: 20px;
+/* ---------- Botones ---------- */
+button {
     padding: 10px 15px;
-    background-color: #007bff;
-    color: white;
     border: none;
     border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 1rem;
     cursor: pointer;
+    transition: background-color 0.2s;
+    margin-bottom: 10px;
 }
 
-#submit-btn:hover {
+button:hover {
     background-color: #0056b3;
 }
 
-#result-container {
-    margin-top: 20px;
-    font-weight: bold;
+/* ---------- Opciones dinámicas ---------- */
+.opcion {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.opcion input[type="text"] {
+    flex: 1;
+}
+
+.opcion button.remove-option {
+    margin-left: 10px;
+    background-color: #dc3545;
+}
+
+.opcion button.remove-option:hover {
+    background-color: #a71d2a;
+}
+
+/* ---------- Select y input de cantidad en inicio ---------- */
+#tema, #cantidad {
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+}
+
+/* ---------- Botones especiales en inicio ---------- */
+#btn-nuevo-tema,
+#start-btn {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+/* ---------- Quiz container ---------- */
+.quiz-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+#options-container .option {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#options-container .option:hover {
+    background-color: #e0e0e0;
+}
+
+#options-container .option.selected {
+    background-color: #007bff;
+    color: #fff;
+}
+
+#options-container .option.correct {
+    background-color: #28a745;
+    color: #fff;
 }

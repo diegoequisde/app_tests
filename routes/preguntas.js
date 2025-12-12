@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const { loadPreguntas, savePreguntas } = require('../utils/storage');
+const { loadPreguntas, savePreguntas, loadTemas, saveTemas } = require('../utils/storage');
 
 // LISTADO
 router.get('/', (req, res) => {
@@ -10,50 +10,57 @@ router.get('/', (req, res) => {
 
 // FORM NUEVA PREGUNTA
 router.get('/crear', (req, res) => {
-  res.render('crear');
+  const temas = loadTemas(); 
+  res.render('crear', { temas });
 });
 
 // CREAR
-router.post('/preguntas/crear', (req, res) => {
-    let { enunciado, opciones, respuestaCorrecta } = req.body;
+router.post('/crear', (req, res) => {
+    let { enunciado, opciones, respuestaCorrecta, tema } = req.body;
 
     const preguntas = loadPreguntas();
 
-       const nueva = {
+    const nueva = {
         id: Date.now(),
         enunciado,
         opciones,
-        respuestaCorrecta
+        respuestaCorrecta,
+        tema
     };
-  preguntas.push(nueva);
-  savePreguntas(preguntas);
-  res.redirect('/preguntas');
+
+    preguntas.push(nueva);
+    savePreguntas(preguntas);
+
+    res.redirect('/preguntas');
 });
 
 // FORM EDITAR
 router.get('/editar/:id', (req, res) => {
-  const preguntas = loadPreguntas();
-  const pregunta = preguntas.find(p => p.id == req.params.id);
-  res.render('editar', { pregunta });
+    const preguntas = loadPreguntas();
+    const pregunta = preguntas.find(p => p.id == req.params.id);
+    const temas = loadTemas();
+    res.render('editar', { pregunta, temas });
 });
 
+
 // EDITAR
-router.post('/preguntas/editar/:id', (req, res) => {
+router.post('/editar/:id', (req, res) => {
     const id = Number(req.params.id);
-    let { enunciado, opciones, respuestaCorrecta } = req.body;
+    let { enunciado, opciones, respuestaCorrecta, tema } = req.body;
 
     const preguntas = loadPreguntas();
     const index = preguntas.findIndex(p => p.id === id);
 
     preguntas[index] = {
         id,
+        tema,
         enunciado,
         opciones,
         respuestaCorrecta
     };
 
-  savePreguntas(preguntas);
-  res.redirect('/preguntas');
+    savePreguntas(preguntas);
+    res.redirect('/preguntas');
 });
 
 // ELIMINAR
@@ -67,12 +74,47 @@ router.post('/eliminar/:id', (req, res) => {
   res.redirect('/preguntas');
 });
 
+// API: crear tema nuevo
+router.post('/api/temas/nuevo', (req, res) => {
+    const { tema } = req.body;
+    if (!tema || tema.trim() === "") return res.status(400).send("Tema vacío");
 
-// API: devolver preguntas como JSON para el frontend del quiz
+    const temas = loadTemas();
+    if (!temas.includes(tema)) {
+        temas.push(tema);
+        saveTemas(temas);
+    }
+    res.sendStatus(200);
+});
+
+
+// API: devolver todos los temas
+router.get('/api/temas', (req, res) => {
+    const temas = loadTemas();
+    res.json(temas);
+});
+
+// API: listado completo
 router.get('/api/listado', (req, res) => {
   const preguntas = loadPreguntas();
   res.json(preguntas);
 });
+
+// API: generar test por tema
+router.get('/api/test', (req, res) => {
+  const { tema, cantidad } = req.query;
+
+  let preguntas = loadPreguntas().filter(p => p.tema === tema);
+
+  // mezclar
+  preguntas = preguntas.sort(() => Math.random() - 0.5);
+
+  // limitar
+  preguntas = preguntas.slice(0, Number(cantidad));
+
+  res.json(preguntas);
+});
+
 
 
 module.exports = router;

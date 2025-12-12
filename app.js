@@ -1,25 +1,27 @@
-// 1. Importar express
 const express = require('express');
-
-// 2. Crear una instancia de la aplicación
 const app = express();
-const port = 3000; // Puedes elegir otro puerto si lo prefieres
+const port = 3000;
 const preguntasRoutes = require('./routes/preguntas');
 
-
-// Configurar Express para servir archivos estáticos desde la carpeta 'public'
+// Servir archivos estáticos
 app.use(express.static('public'));
 
+// Middleware para parsear formularios HTML
 app.use(express.urlencoded({ extended: true }));
+
+// Middleware para parsear JSON
+app.use(express.json());
 
 app.set('view engine', 'ejs');
 
+// Rutas
 app.use('/preguntas', preguntasRoutes);
 
+app.get('/', (req, res) => {
+    res.render('index');
+});
 
-// 4. Iniciar el servidor
+// Iniciar servidor
 app.listen(port, () => {
   console.log(`Servidor escuchando en http://localhost:${port}`);
 });
-
-

@@ -1,12 +1,12 @@
+<%- include('partials/header', { title: 'Editar Pregunta' }) %>
+
 <h1>Editar pregunta</h1>
 
 <form action="/preguntas/editar/<%= pregunta.id %>" method="POST">
-
   <input type="text" name="enunciado" value="<%= pregunta.enunciado %>" required>
 
   <div id="opciones-container">
     <h3>Opciones:</h3>
-
     <% pregunta.opciones.forEach((op, i) => { %>
       <div class="opcion">
         <input type="text" name="opciones[]" value="<%= op %>" required>
@@ -16,36 +16,39 @@
   </div>
 
   <button type="button" id="add-option">Añadir opción</button>
-
-  <input type="text" name="respuestaCorrecta"
-         value="<%= pregunta.respuestaCorrecta %>" required>
-
+  
+  <div>
+    <label>Tema:</label>
+    <select name="tema" id="tema-select" required>
+      <% temas.forEach(t => { %>
+        <option value="<%= t %>" <%= t === pregunta.tema ? 'selected' : '' %>><%= t %></option>
+      <% }) %>
+    </select>
+  </div>
+  <div>
+    <label>Respuesta Correcta:</label>
+    <input type="text" name="respuestaCorrecta" value="<%= pregunta.respuestaCorrecta %>" placeholder="respuesta correcta" required>
+  </div>
   <button type="submit">Guardar cambios</button>
 </form>
 
 <script>
-document.getElementById("add-option").addEventListener("click", () => {
+  // Añadir nueva opción
+  document.getElementById("add-option").addEventListener("click", () => {
     const cont = document.getElementById("opciones-container");
-
     const div = document.createElement("div");
     div.classList.add("opcion");
-
     div.innerHTML = `
-        <input type="text" name="opciones[]" placeholder="Nueva opción" required>
-        <button type="button" class="remove-option">X</button>
+      <input type="text" name="opciones[]" placeholder="Nueva opción" required>
+      <button type="button" class="remove-option">X</button>
     `;
-
     cont.appendChild(div);
+    div.querySelector(".remove-option").addEventListener("click", () => div.remove());
+  });
 
-    div.querySelector(".remove-option").addEventListener("click", () => {
-        div.remove();
-    });
-});
+  // Activar eliminar opciones existentes
+  document.querySelectorAll(".remove-option").forEach(btn => {
+    btn.addEventListener("click", () => btn.parentElement.remove());
+  });
 
-// activar delete en los existentes
-document.querySelectorAll(".remove-option").forEach(btn => {
-    btn.addEventListener("click", () => {
-        btn.parentElement.remove();
-    });
-});
 </script>

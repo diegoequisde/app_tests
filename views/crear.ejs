@@ -1,7 +1,7 @@
+<%- include('partials/header', { title: 'Crear Pregunta' }) %>
 <h1>Nueva pregunta</h1>
 
 <form action="/preguntas/crear" method="POST">
-
   <input type="text" name="enunciado" placeholder="Enunciado" required>
 
   <div id="opciones-container">
@@ -15,30 +15,50 @@
       <input type="text" name="opciones[]" placeholder="Opción 2" required>
     </div>
   </div>
-
+  
   <button type="button" id="add-option">Añadir opción</button>
 
-  <input type="text" name="respuestaCorrecta" placeholder="Respuesta correcta" required>
+  <div>
+    <label>Tema:</label>
+    <select name="tema" id="tema-select" required>
+      <% temas.forEach(t => { %>
+        <option value="<%= t %>"><%= t %></option>
+      <% }) %>
+    </select>
+  </div>
+
+  <div>
+    <label>Respuesta Correcta:</label>
+    <input type="text" name="respuestaCorrecta" placeholder="Respuesta correcta" required>
+  </div>
 
   <button type="submit">Guardar</button>
 </form>
 
 <script>
-document.getElementById("add-option").addEventListener("click", () => {
+  // Añadir nueva opción
+  document.getElementById("add-option").addEventListener("click", () => {
     const cont = document.getElementById("opciones-container");
-
     const div = document.createElement("div");
     div.classList.add("opcion");
-
     div.innerHTML = `
-        <input type="text" name="opciones[]" placeholder="Nueva opción" required>
-        <button type="button" class="remove-option">X</button>
+      <input type="text" name="opciones[]" placeholder="Nueva opción" required>
+      <button type="button" class="remove-option">X</button>
     `;
-
     cont.appendChild(div);
+    div.querySelector(".remove-option").addEventListener("click", () => div.remove());
+  });
 
-    div.querySelector(".remove-option").addEventListener("click", () => {
-        div.remove();
-    });
-});
+  // Crear nuevo tema
+  document.getElementById("btn-nuevo-tema").addEventListener("click", () => {
+    const nuevo = prompt("Introduce el nombre del nuevo tema:");
+    if (nuevo && nuevo.trim() !== "") {
+      const select = document.getElementById("tema-select");
+      const option = document.createElement("option");
+      option.value = nuevo.trim();
+      option.textContent = nuevo.trim();
+      option.selected = true;
+      select.appendChild(option);
+    }
+  });
 </script>
