@@ -1,54 +1,158 @@
 [
   {
-    "id": 1765138915915,
-    "enunciado": "asasasasasaaaaaaa",
+    "id": 1765617714982,
+    "enunciado": "Indica la opción correcta del artículo 6",
     "opciones": [
-      "aaa",
-      "aaa",
-      "aaaaa",
-      "xxxx"
+      "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación interna. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
+      "Los partidos políticos expresan el individualismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
+      "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
+      "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser monárquicos."
     ],
-    "respuestaCorrecta": "xxxxa"
+    "respuestaCorrecta": "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
+    "tema": "Tema 1"
   },
   {
-    "id": 1765528780693,
-    "tema": "HTML",
-    "enunciado": "aaaa",
+    "id": 1765617761816,
+    "enunciado": "Que artículo indica lo siguiente? Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución.",
     "opciones": [
-      "aaaaaa",
-      "aaa"
+      "7",
+      "9",
+      "6",
+      "8"
     ],
-    "respuestaCorrecta": "aaa"
+    "respuestaCorrecta": "8",
+    "tema": "Tema 1"
   },
   {
-    "id": 1765528815593,
-    "tema": "HTML",
-    "enunciado": "cc",
+    "id": 1765617856123,
+    "enunciado": "Escoge la opción correcta.",
     "opciones": [
-      "cccc",
-      "cc"
+      "Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
+      "Los sindicatos y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
+      "Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y al Rey. Su estructura interna y funcionamiento deberán ser democráticos.",
+      "Los sindicatos y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y culturales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos."
     ],
-    "respuestaCorrecta": "cc"
+    "respuestaCorrecta": "Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
+    "tema": "Tema 1"
   },
   {
-    "id": 1765531775173,
-    "enunciado": "s",
+    "id": 1765617950754,
+    "enunciado": "Artículo 1, marca cual opción es incorrecta",
     "opciones": [
-      "c",
-      "v"
+      "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Gobierno. ",
+      "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político. ",
+      "La forma política del Estado español es la Monarquía parlamentaria.",
+      "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado. "
     ],
-    "respuestaCorrecta": "v",
-    "tema": "javascript"
+    "respuestaCorrecta": "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Gobierno. ",
+    "tema": "Tema 1"
   },
   {
-    "id": 1765531940658,
-    "tema": "javascript",
-    "enunciado": "111",
+    "id": 1765618025529,
+    "enunciado": "Fecha Constitución española Sancionada popr S.M el Rey",
+    "opciones": [
+      "27 de diciembre de 1977",
+      "27 diciembre de 1978",
+      "26 de diciembre de 1978",
+      "26 de diciembre de 1977"
+    ],
+    "respuestaCorrecta": "27 diciembre de 1978",
+    "tema": "Tema 1"
+  },
+  {
+    "id": 1765618075640,
+    "enunciado": "El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección. Que artículo de la Constitución es?",
+    "opciones": [
+      "art. 2",
+      "art. 7",
+      "art. 3",
+      "art. 9"
+    ],
+    "respuestaCorrecta": "art. 3",
+    "tema": "Tema 1"
+  },
+  {
+    "id": 1765618148824,
+    "tema": "Tema 1",
+    "enunciado": "Cual es el artículo 2 de la Constitución?",
+    "opciones": [
+      "El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.",
+      "La Constitución se fundamenta en la disoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+      "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+      "La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección."
+    ],
+    "respuestaCorrecta": "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas."
+  },
+  {
+    "id": 1765618289698,
+    "enunciado": "Indica la opción correcta del artículo 9",
+    "opciones": [
+      "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos políticos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+      "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+      "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; promover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+      "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento legal. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+    ],
+    "respuestaCorrecta": "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+    "tema": "Tema 1"
+  },
+  {
+    "id": 1765618349970,
+    "enunciado": "Fecha del referéndum sobre la Constitución española",
+    "opciones": [
+      "6 de diciembre de 1978",
+      "31 de octubre de 1978",
+      "27 de diciembre de 1978",
+      "29 de diciembre de 1978"
+    ],
+    "respuestaCorrecta": "6 de diciembre de 1978",
+    "tema": "Tema 1"
+  },
+  {
+    "id": 1765618390129,
+    "enunciado": "Cual artículo indica lo siguiente? Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales. ",
     "opciones": [
       "2",
       "3",
-      "222"
+      "7",
+      "4"
     ],
-    "respuestaCorrecta": "2"
+    "respuestaCorrecta": "4",
+    "tema": "Tema 1"
+  },
+  {
+    "id": 1765618443779,
+    "enunciado": "Indica cual es el artículo 5 correcto",
+    "opciones": [
+      "La capital del Estado es la ciudad de Madrid.",
+      "ninguna es correcta",
+      "La capital del Estado es la villa de Madrid.",
+      "La capital del Estado es Madrid."
+    ],
+    "respuestaCorrecta": "La capital del Estado es la villa de Madrid.",
+    "tema": "Tema 1"
+  },
+  {
+    "id": 1765619478194,
+    "enunciado": "Por que están constituídas las Fuerzas armadas según el art 8?",
+    "opciones": [
+      "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Marina y el Ejército del Aire",
+      "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, Ejército del Mar y el Ejército del Aire",
+      "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire",
+      "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y Aviación"
+    ],
+    "respuestaCorrecta": "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire",
+    "tema": "Tema 1"
+  },
+  {
+    "id": 1765619542155,
+    "enunciado": "La Constitución española ha sido aprobada popr las Cortes en fecha",
+    "opciones": [
+      "31 de octubre de 1978",
+      "27 de diciembre de 1978",
+      "31 de octubre de 1977",
+      "6 de diciembre de 1978"
+    ],
+    "respuestaCorrecta": "31 de octubre de 1978",
+    "tema": "Tema 1"
   }
 ]

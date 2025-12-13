@@ -73,6 +73,14 @@ button:hover {
     background-color: #0056b3;
 }
 
+button.eliminar {
+    background-color: #a72828;
+}
+
+button.inicio{
+    background-color: #800091;    
+}
+
 /* ---------- Opciones dinámicas ---------- */
 .opcion {
     display: flex;
