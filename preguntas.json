@@ -154,5 +154,788 @@
     ],
     "respuestaCorrecta": "31 de octubre de 1978",
     "tema": "Tema 1"
+  },
+  {
+    "id": 1765619542156,
+    "enunciado": "A teor da regulación contida no artigo 4 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, cal dos seguintes supostos non encaixa coa definición de interesado?:",
+    "opciones": [
+      "O que promova o procedemento como titular de dereitos ou intereses lexítimos individuais ou colectivos.",
+      "O que, sen iniciar o procedemento, teña dereitos que poidan resultar afectados pola decisión que nel se adopte.",
+      "O que, sen iniciar o procedemento, teña calquera tipo de interese nel.",
+      "Aqueles cuxos intereses lexítimos, individuais ou colectivos, poidan ser afectados pola resolución e comparecer no procedemento mentres non exista, resolución definitiva."
+    ],
+    "respuestaCorrecta": "O que, sen iniciar o procedemento, teña calquera tipo de interese nel.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765619542157,
+    "enunciado": "Sinala o artigo 6 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas que os poderes inscritos no rexistro terán unha validez determinada máxima de:",
+    "opciones": [
+      "Cinco anos contados desde a data de inscrición.",
+      "Dous anos contados desde a data de inscrición.",
+      "Tres anos contados desde a data de presentación das solicitudes de inscrición do poder.",
+      "Dous anos contados desde a data de presentación."
+    ],
+    "respuestaCorrecta": "Cinco anos contados desde a data de inscrición.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733402144,
+    "enunciado": "Administración xeral do Estado, as comunidades autónomas e as entidades locais manterán actualizado un rexistro, ou outro sistema equivalente, onde constarán os funcionarios habilitados para a identificación ou sinatura regulada no artigo 12 da Lei 39/2015, do 1 de outubro, de procedemento administrativo común. Estes rexistros ou sistemas deberán ser plenamente interoperables e estar interconectados cos das restantes administracións públicas (artigo 12 da LPAC):",
+    "opciones": [
+      "Para os efectos de comprobar a validez das citadas habilitacións.",
+      "Para os efectos de axilizar a tramitación dos procedementos administrativos.",
+      "Para os efectos de garantir os principios de transparencia e proximidade ao cidadán.",
+      "Para os efectos de garantir a unificación dos sistemas de rexistros."
+    ],
+    "respuestaCorrecta": "Para os efectos de comprobar a validez das citadas habilitacións.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733494025,
+    "enunciado": "A Administración está obrigada a ditar resolución expresa e a notificala en todos os procedementos calquera que sexa a súa forma de iniciación, excepto (artigo 21 da LPAC):",
+    "opciones": [
+      "Os supostos de terminación do procedemento por pacto ou convenio.",
+      "Os procedementos de responsabilidade patrimonial.",
+      "Os procedementos sancionadores.",
+      "Nos casos de renuncia do dereito."
+    ],
+    "respuestaCorrecta": "Os supostos de terminación do procedemento por pacto ou convenio.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733567965,
+    "enunciado": "O prazo establecido no artigo 24 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas para que a Administración expida un certificado acreditativo do silencio producido é de:",
+    "opciones": [
+      "Quince días contados desde que se solicitou.",
+      "Dez días desde que expire o prazo máximo para resolver o procedemento.",
+      "Quince días desde que expire o prazo máximo para resolver o procedemento.",
+      "Dez días desde que expire o prazo para resolver o procedemento."
+    ],
+    "respuestaCorrecta": "Quince días desde que expire o prazo máximo para resolver o procedemento.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733632271,
+    "enunciado": "En ausencia de oposición do interesado, as administracións públicas deberán solicitar os documentos electronicamente a través das súas redes corporativas ou mediante consulta ás plataformas de intermediación de datos ou outros sistemas electrónicos habilitados para o efecto. Cando se trate de informes preceptivos xa elaborados por un órgano administrativo distinto ao que tramita o procedemento, estes deberán ser remitidos no prazo (artigo 28 da LPAC):",
+    "opciones": [
+      "De quince días contados desde a súa solicitude.",
+      "Que determine o órgano que o solicite, que en ningún caso poderá ser superior a dez días.",
+      "De dez días contados desde a súa solicitude.",
+      "De vinte dias contados dende a súa solicitude."
+    ],
+    "respuestaCorrecta": "De dez días contados desde a súa solicitude.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733679185,
+    "enunciado": "Sinala o artigo 30 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas que os prazos expresados en días se contarán a partir:",
+    "opciones": [
+      "Do día en que teña lugar a notificación ou publicación do acto de que se trate.",
+      "Do día seguinte a aquel en que teña lugar a notificación ou publicación do acto de que se trate.",
+      "Do día en que se dite o acto de que se trate.",
+      "Do día en que se asine o acto de que se trate."
+    ],
+    "respuestaCorrecta": "Do día seguinte a aquel en que teña lugar a notificación ou publicación do acto de que se trate.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733727253,
+    "enunciado": "Establece o artigo 32 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común que a Administración poderá conceder, de oficio ou a petición dos interesados, unha ampliación dos prazos establecidos:",
+    "opciones": [
+      "Que non exceda da metade destes.",
+      "Por un prazo máximo idéntico aos orixinais.",
+      "Unicamente naqueles supostos taxados pola propia lei.",
+      "Que non exceda do dobre destes."
+    ],
+    "respuestaCorrecta": "Que non exceda da metade destes.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733763430,
+    "enunciado": "Segundo o artigo 36 da Lei 39/2015, do 1 de outubro, de procedemento administrativo común das administracións públicas, nos casos en que os órganos administrativos exerzan a súa competencia de forma verbal, a constancia escrita do acto, cando sexa necesaria, será efectuada e asinada:",
+    "opciones": [
+      "Polo titular da competencia.",
+      "Polo titular do órgano inferior ou funcionario que a reciba oralmente.",
+      "Pola persoa en quen se delegou a competencia.",
+      "Polo órgano superior que a reciba oralmente."
+    ],
+    "respuestaCorrecta": "Polo titular do órgano inferior ou funcionario que a reciba oralmente.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733808278,
+    "enunciado": "De acordo co artigo 41 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, cando o interesado fose notificado por distintas vías tomarase como data de notificación:",
+    "opciones": [
+      "A daquela que se producise a través de medios electrónicos.",
+      "A daquela que se producise en primeiro lugar.",
+      "A daquela que se producise en último lugar.",
+      "A daquela pola que opte o interesado."
+    ],
+    "respuestaCorrecta": "A daquela que se producise en primeiro lugar.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733844877,
+    "enunciado": "Cal dos seguintes actos das administracións públicas non serán en todo caso nulos de pleno dereito, segundo o disposto polo artigo 47 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas?:",
+    "opciones": [
+      "Os que sexan constitutivos de infracción penal.",
+      "Os actos expresos ou presuntos contrarios ao ordenamento xurídico.",
+      "Os ditados prescindindo total e absolutamente das normas que conteñen as regras esenciais para a formación da vontade dos órganos colexiados.",
+      "Calquera outro que se estableza expresamente nunha disposición con rango de regulamento."
+    ],
+    "respuestaCorrecta": "Calquera outro que se estableza expresamente nunha disposición con rango de regulamento.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733889342,
+    "enunciado": "Establece o artigo 48 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, que o defecto de forma só determinará a anulabilidade:",
+    "opciones": [
+      "Cando así o impoña a natureza do defecto.",
+      "Cando o acto dea lugar á indefensión dos interesados.",
+      "Cando o acto careza de calquera requisito formal para alcanzar o seu fin.",
+      "Cando así o dispoña unha norma con rango de Lei Orgánica."
+    ],
+    "respuestaCorrecta": "Cando o acto dea lugar á indefensión dos interesados.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733932440,
+    "enunciado": "Os actos nulos ou anulables que, con todo, conteñan os elementos constitutivos doutro distinto producirán os efectos deste en virtude do principio de (artigo 50 de LPAC):",
+    "opciones": [
+      "Conservación de actos e trámites.",
+      "Validación.",
+      "Conversión de actos viciados.",
+      "Revogación."
+    ],
+    "respuestaCorrecta": "Conversión de actos viciados.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765733975461,
+    "enunciado": "Segundo o artigo 52 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, a Administración poderá validar:",
+    "opciones": [
+      "Os actos anulables.",
+      "Os actos expresos.",
+      "Os actos nulos de pleno dereito.",
+      "Todos os seus actos."
+    ],
+    "respuestaCorrecta": "Os actos anulables.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734008397,
+    "enunciado": "Conforme ao disposto no artigo 2 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, teñen a consideración de administracións públicas:",
+    "opciones": [
+      "As administracións das comunidades autónomas.",
+      "As entidades de dereito privado vinculadas ou dependentes das administracións públicas.",
+      "As universidades privadas.",
+      "As mancomunidades de montes veciñais."
+    ],
+    "respuestaCorrecta": "As administracións das comunidades autónomas.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734043381,
+    "enunciado": "Conforme ao disposto no artigo 3 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, cada unha das administracións públicas actúa para o cumprimento dos seus fins con personalidade xurídica:",
+    "opciones": [
+      "Propia.",
+      "As administracións públicas carecen de personalidade xurídica.",
+      "Única.",
+      "Plena."
+    ],
+    "respuestaCorrecta": "Única.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734079294,
+    "enunciado": "Conforme ao disposto no artigo 6 de a Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, o incumprimento das instrucións ou ordes de servizo:",
+    "opciones": [
+      "É causa de nulidade de pleno dereito dos actos ditados polos órganos administrativos.",
+      "É causa de anulabilidade dos actos ditados polos órganos administrativos.",
+      "Non afecta por si só á validez dos actos ditados polos órganos administrativos.",
+      "É causa de nulidade ou anulabilidade dos actos ditados polos órganos adminstrativos."
+    ],
+    "respuestaCorrecta": "Non afecta por si só á validez dos actos ditados polos órganos administrativos.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734115053,
+    "enunciado": "Conforme ao disposto no artigo 8 de a Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, a delegación de competencias, a encomenda de xestión, a delegación de firma e a suplencia:",
+    "opciones": [
+      "Supoñen alteración da titularidade da competencia e dos elementos determinantes do seu exercicio que se prevén en cada caso.",
+      "Non supoñen alteración da titularidade da competencia, aínda que si dos elementos determinantes do seu exercicio que en cada caso se prevén.",
+      "Non supoñen alteración da titularidade da competencia, nin tampouco dos elementos determinantes do seu exercicio que en cada caso se prevén.",
+      "Supoñen alteración da competencia e dos elementos concretos do seu exercicio."
+    ],
+    "respuestaCorrecta": "Non supoñen alteración da titularidade da competencia, aínda que si dos elementos determinantes do seu exercicio que en cada caso se prevén.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734149079,
+    "enunciado": "Conforme ao disposto no artigo 9 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, a resolución de recursos nos órganos administrativos que diten os actos obxecto de recurso:",
+    "opciones": [
+      "En todo caso poderá ser obxecto de delegación.",
+      "En ningún caso poderá ser obxecto de delegación.",
+      "Deberá ser aprobada polo superior xerárquico común.",
+      "Poderán ser obxecto de delegación cando unha norma o determine."
+    ],
+    "respuestaCorrecta": "En ningún caso poderá ser obxecto de delegación.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734192831,
+    "enunciado": "Conforme ao disposto no artigo 11 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, a encomenda de xestión non poderá ter por obxecto:",
+    "opciones": [
+      "A realización de actividades de carácter material.",
+      "A realización de actividades de carácter técnico.",
+      "Prestacións propias dos contratos regulados na lexislación de contratos do sector público.",
+      "A realización de actividades de carácter material ou inmaterial."
+    ],
+    "respuestaCorrecta": "Prestacións propias dos contratos regulados na lexislación de contratos do sector público.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734227133,
+    "enunciado": "Conforme ao disposto no artigo 12 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, para a validez da delegación de sinatura:",
+    "opciones": [
+      "Non será necesaria a súa publicación.",
+      "Publicarase no Diario Oficial de Galicia.",
+      "Publicarase no Boletín Oficial do Estado.",
+      "Publicarase no Diario Oficial de Galicia, Boletín Oficial do Estado e no Diario Oficial da Unión Europea."
+    ],
+    "respuestaCorrecta": "Non será necesaria a súa publicación.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734263622,
+    "enunciado": "Conforme ao disposto no artigo 14 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, o órgano administrativo que se estime incompetente para a resolución dun asunto remitirá directamente as actuacións ao órgano que considere competente:",
+    "opciones": [
+      "E deberá notificarlles esta circunstancia aos interesados.",
+      "Non é necesario notificarlles esta circunstancia aos interesados.",
+      "O órgano administrativo decidirá en cada caso se notifica ou non.",
+      "Poderá dirixirse esta circunstancia aos interesados."
+    ],
+    "respuestaCorrecta": "E deberá notificarlles esta circunstancia aos interesados.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734300582,
+    "enunciado": "Conforme ao disposto no artigo 15 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, deberán ser publicados no boletín ou diario oficial da Administración pública na que se integran o acordo de creación e as normas de funcionamento dos órganos colexiados:",
+    "opciones": [
+      "Que diten resolucións que teñan efectos xurídicos fronte a terceiros.",
+      "En ningún caso será necesaria a publicación das normas de funcionamento.",
+      "De todos os órganos colexiados que creen as administracións públicas.",
+      "Sempre que diten ordes que teñan efectos xurídicos ante a administración."
+    ],
+    "respuestaCorrecta": "Que diten resolucións que teñan efectos xurídicos fronte a terceiros.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734339998,
+    "enunciado": "Conforme ao disposto no artigo 17 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, os órganos colexiados poderanse constituír, convocar, celebrar as súas sesións, adoptar acordos e remitir actas de forma:",
+    "opciones": [
+      "Presencial, en todo caso.",
+      "Presencial ou a distancia.",
+      "En ningún caso a distancia.",
+      "A distancia, salvo que o seu regulamento recolla o contrario."
+    ],
+    "respuestaCorrecta": "Presencial ou a distancia.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734373581,
+    "enunciado": "Conforme ao disposto nos artigos 23 e 24 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, ter intervido como perito ou como testemuña no procedemento de que se trate é causa de:",
+    "opciones": [
+      "Abstención, unicamente.",
+      "Recusación, unicamente.",
+      "Abstención e recusación.",
+      "Sanción administrativa."
+    ],
+    "respuestaCorrecta": "Abstención e recusación.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734420217
+  },
+  {
+    "id": 1765734510743,
+    "enunciado": "Conforme ao disposto no artigo 24 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, a recusación exporase:",
+    "opciones": [
+      "Por escrito, no que se expresará a causa ou causas en que se funda.",
+      "Verbalmente.",
+      "Verbalmente ou por medios electrónicos.",
+      "Electrónicamente."
+    ],
+    "respuestaCorrecta": "Por escrito, no que se expresará a causa ou causas en que se funda.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734546183,
+    "enunciado": "Con base no recollido no artigo 4 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, esta lei non se aplica ao persoal funcionario ao servizo das seguintes administracións públicas:",
+    "opciones": [
+      "Entidades locais galegas.",
+      "Entidades públicas instrumentais vinculadas ou dependentes das entidades locais galegas.",
+      "Delegacións ministeriais na Comunidade Autónoma de Galicia.",
+      "As universidades públicas galegas."
+    ],
+    "respuestaCorrecta": "Delegacións ministeriais na Comunidade Autónoma de Galicia.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734576255,
+    "enunciado": "Cal dos seguintes tipos de empregados non figura recollido na clasificación do artigo 20 da Lei 2/2015, do 29 de abril, do emprego público de Galicia?:",
+    "opciones": [
+      "Persoal funcionario interino.",
+      "Persoal laboral indefinido.",
+      "Persoal eventual.",
+      "Persoal laboral."
+    ],
+    "respuestaCorrecta": "Persoal laboral indefinido.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734607480,
+    "enunciado": "De acordo co establecido no artigo 22 da Lei 2/2015, de 29 abril, do emprego público de Galicia, os postos que teñan atribuídas funcións que impliquen a realización de tarefas de contabilidade e tesourería serán reservados necesariamente nas relacións de postos de traballo a:",
+    "opciones": [
+      "O persoal funcionario interino.",
+      "O persoal funcionario.",
+      "O persoal laboral.",
+      "O persoal directivo."
+    ],
+    "respuestaCorrecta": "O persoal funcionario.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734643311,
+    "enunciado": "Segundo o recollido no artigo 26 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, poden ser desempeñados por persoal laboral:",
+    "opciones": [
+      "Os postos de natureza non permanente.",
+      "Os postos que teñan atribuídas funcións de inscrición e anotación de datos nos rexistros administrativos.",
+      "Os postos que teñan atribuídas funcións de cancelación de datos nos rexistros administrativos.",
+      "Os postos que teñan atribuídas funcións inspectoras."
+    ],
+    "respuestaCorrecta": "Os postos de natureza non permanente.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734683357,
+    "enunciado": "Conforme ao recollido no artigo 27.4 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o tempo de servizos prestados en réxime de persoal laboral temporal computarase nos supostos de:",
+    "opciones": [
+      "Concurso ou de oposición.",
+      "Oposición.",
+      "Concurso-oposición ou de concurso.",
+      "Exclusivamente de concurso."
+    ],
+    "respuestaCorrecta": "Concurso-oposición ou de concurso.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734717031,
+    "enunciado": "De acordo co establecido no artigo 33 da Lei 2/2015, de 29 abril, do emprego público de Galicia, o réxime xurídico específico do persoal directivo incluído no ámbito de aplicación desta lei será establecido por:",
+    "opciones": [
+      "Lei do Parlamento de Galicia.",
+      "Decreto do Consello da Xunta.",
+      "Orde do conselleiro de Facenda.",
+      "Resolución do Consello da Xunta."
+    ],
+    "respuestaCorrecta": "Decreto do Consello da Xunta.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734754246,
+    "enunciado": "Conforme ao disposto no artigo 50 da Lei 2/2015, de 29 abril, do emprego público de Galicia, é un requisito xeral para a participación nos procesos selectivos o seguinte:",
+    "opciones": [
+      "Estar en posesión da titulación esixida ou estar en condicións de obtela.",
+      "Ter cumpridos os catorce anos.",
+      "Non ser sancionado mediante expediente disciplinario en ningunha Administración pública.",
+      "Posuír aptitudes físicas ou capacidades psíquicas que sexan necesarias para o desemprego das correspondentes funcións ou tarefas."
+    ],
+    "respuestaCorrecta": "Estar en posesión da titulación esixida ou estar en condicións de obtela.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734790150,
+    "enunciado": "Conforme ao disposto no artigo 56 da Lei 2/2015, de 29 abril, do emprego público de Galicia, a superación das probas teóricas e/ou prácticas que se establezan na convocatoria, as cales deberán permitir determinar a capacidade das persoas aspirantes e establecer a orde de prelación entre elas, denomínase:",
+    "opciones": [
+      "Oposición.",
+      "Concurso.",
+      "Concurso-oposición.",
+      "Estabilización."
+    ],
+    "respuestaCorrecta": "Oposición.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734821341,
+    "enunciado": "Conforme ao disposto no artigo 107 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a realización de todas as funcións dun posto de traballo ou dalgunha delas fóra das dependencias da Administración pública na que está destinado un empregado público, mediante o emprego das novas tecnoloxías, denomínase:",
+    "opciones": [
+      "Teletraballo.",
+      "Traballo a distancia.",
+      "Horario flexible.",
+      "Teleasistencia."
+    ],
+    "respuestaCorrecta": "Teletraballo.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734855473,
+    "enunciado": "Conforme ao disposto no artigo 116 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, nos casos de accidente ou enfermidade moi graves da parella de feito, o persoal funcionario ten dereito a un permiso para atender ao coidado desas persoas cunha duración máxima de:",
+    "opciones": [
+      "Non ten dereito a ningún permiso por esta causa.",
+      "Noventa días naturais.",
+      "Trinta días naturais.",
+      "Trinta días hábiles."
+    ],
+    "respuestaCorrecta": "Trinta días naturais.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734890334,
+    "enunciado": "Conforme ao disposto no artigo 130 da Lei 2/2015, de 29 abril, do emprego público de Galicia:",
+    "opciones": [
+      "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a seis meses.",
+      "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a doce meses.",
+      "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a dezaoito meses.",
+      "Poden concederse permisos ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a nove meses."
+    ],
+    "respuestaCorrecta": "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a seis meses.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734925086,
+    "enunciado": "Conforme ao disposto no artigo 132 da Lei 2/2015, de 29 abril, do emprego público de Galicia, o persoal funcionario ten dereito, por ano completo de servizos, a vacacións retribuídas de, como mínimo:",
+    "opciones": [
+      "Trinta días naturais anuais ou dos días que correspondan proporcionalmente ao tempo de servizos efectivos.",
+      "Trinta días hábiles anuais ou dos días que correspondan proporcionalmente ao tempo de servizos efectivos.",
+      "Vinte e dous días hábiles anuais ou dos días que correspondan proporcionalmente ao tempo de servizos efectivos.",
+      "Vinte días hábiles anuais ou dos días que correspondan proporcionalmente ao tempo de servizos efectivos."
+    ],
+    "respuestaCorrecta": "Vinte e dous días hábiles anuais ou dos días que correspondan proporcionalmente ao tempo de servizos efectivos.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734963254,
+    "enunciado": "En base ao artigo 1 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, esta norma ten por obxecto a garantía de dereitos das persoas con discapacidade conforme a:",
+    "opciones": [
+      "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e o Tratado da Unión Europea.",
+      "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e os acordos internacionais ratificados por España.",
+      "Os artigos 9.2, 10, 14 e 49 da Constitución española e a Convención Internacional sobre os Dereitos das Persoas con Discapacidade.",
+      "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e a Organización Mundial do Traballo."
+    ],
+    "respuestaCorrecta": "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e os acordos internacionais ratificados por España.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765734999823,
+    "enunciado": "De acordo co artigo 2 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, a discriminación directa é:",
+    "opciones": [
+      "A situación en que se atopa unha persoa con discapacidade cando é tratada de maneira menos favorable ca outra en situación análoga por motivo ou por razón da súa discapacidade.",
+      "A situación na que a persoa con discapacidade non exerce o poder de decisión sobre a súa propia existencia.",
+      "A situación dunha persoa ou grupo en que se integra cando é obxecto dun trato discriminatorio debido á súa relación con outra por motivo ou por razón de discapacidade.",
+      "A situación en que se atopa unha persoa con discapacidade cando é tratada de maneira mais favorable ca outra por motivo ou por razón da súa discapacidade."
+    ],
+    "respuestaCorrecta": "A situación en que se atopa unha persoa con discapacidade cando é tratada de maneira menos favorable ca outra en situación análoga por motivo ou por razón da súa discapacidade.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735038338,
+    "enunciado": "En base ao artigo 3 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, non son principios desta lei:",
+    "opciones": [
+      "A vida independente.",
+      "A normalización.",
+      "O dereito á educación.",
+      "A igualdade de oportunidades."
+    ],
+    "respuestaCorrecta": "O dereito á educación.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735092366,
+    "enunciado": "En base ao artigo 5 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, as medidas específicas para garantir a igualdade de oportunidades, a non discriminación e a accesibilidade universal aplicaranse, ademais de aos dereitos regulados no título I, a:",
+    "opciones": [
+      "A educación.",
+      "A protección da saúde.",
+      "A Administración de xustiza.",
+      "A protección social."
+    ],
+    "respuestaCorrecta": "A Administración de xustiza.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735120455,
+    "enunciado": "De acordo co artigo 26 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, as normas técnicas sobre edificación incluirán previsións relativas ás condicións mínimas que deberán reunir:",
+    "opciones": [
+      "Os edificios públicos e as instalacións administrativas para permitir a accesibilidade das persoas con discapacidade.",
+      "Os edificios e as vías públicas para permitir a accesibilidade das persoas con discapacidade.",
+      "Os edificios de calquera tipo para permitir a accesibilidade das persoas con discapacidade.",
+      "Os edificios e infraestruturas públicas para permitir a accesibilidade das persoas con discapacidade."
+    ],
+    "respuestaCorrecta": "Os edificios de calquera tipo para permitir a accesibilidade das persoas con discapacidade.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735149051,
+    "enunciado": "De acordo co artigo 30 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, adoptarán as medidas adecuadas para facilitar o estacionamento dos vehículos automóbiles pertencentes a persoas con problemas graves de mobilidade, por razón da súa discapacidade:",
+    "opciones": [
+      "Os concellos.",
+      "As comunidades autónomas.",
+      "As comunidades autónomas, sen prexuízo das competencias atribuídas ás entidades locais.",
+      "As mancomunidades de concellos."
+    ],
+    "respuestaCorrecta": "Os concellos.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735184464,
+    "enunciado": "En base ao artigo 35 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, as persoas con discapacidade teñen dereito ao traballo:",
+    "opciones": [
+      "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación.",
+      "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación directa.",
+      "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación indirecta.",
+      "En condicións que garantan a aplicación dos principios de equidade de trato e non discriminación."
+    ],
+    "respuestaCorrecta": "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735213165,
+    "enunciado": "Segundo o establecido no artigo 2 da Lei 1/2016 do 18 de xaneiro, de transparencia e bo goberno, entre os seus principios reitores atópase:",
+    "opciones": [
+      "Principio de accesibilidade universal da información pública, principio de responsabilidade patrimonial e principio de reutilización da información.",
+      "Principio de accesibilidade universal da información pública e principio de non discriminación tecnolóxica nin lingüística.",
+      "Principio de accesibilidade universal da información pública, principio de responsabilidade e principio de utilización lexítima da información.",
+      "Principio de accesibilidade da información e reutilización dos procesos tecnolóxicos."
+    ],
+    "respuestaCorrecta": "Principio de accesibilidade universal da información pública e principio de non discriminación tecnolóxica nin lingüística.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735242660,
+    "enunciado": "De acordo co artigo 5 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, a Xunta de Galicia fará público no Portal de transparencia un informe aprobado pola Comisión Interdepartamental de Información e Avaliación:",
+    "opciones": [
+      "Mensualmente.",
+      "Semestralmente.",
+      "Anualmente.",
+      "Trimestralmente."
+    ],
+    "respuestaCorrecta": "Anualmente.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735274913,
+    "enunciado": "De conformidade co establecido no artigo 6.1 da Lei 1/2016 do 18 de xaneiro, de transparencia e bo goberno, sobre a publicidade activa:",
+    "opciones": [
+      "Os suxeitos comprendidos nesta norma comprométense a publicar de forma periódica, actualizada e obxectiva toda a información relativa ao seu funcionamento.",
+      "Os suxeitos comprendidos nesta norma comprométense a publicar, a iniciativa propia e de forma periódica, actualizada, clara, veraz, obxectiva e 19/26 facilmente accesible, toda aquela información relevante relativa ao seu funcionamento.",
+      "Os suxeitos comprendidos nesta norma teñen a obrigación de publicar, a iniciativa propia e de forma periódica, actualizada e facilmente accesible, toda aquela información relativa ao seu funcionamento.",
+      "Os suxeitos comprendidos nesta norma teñen a deber de publicar, a iniciativa propia e de forma semestral, actualizada e accesible, toda aquela información relativa ao seu funcionamento."
+    ],
+    "respuestaCorrecta": "Os suxeitos comprendidos nesta norma comprométense a publicar, a iniciativa propia e de forma periódica, actualizada, clara, veraz, obxectiva e 19/26 facilmente accesible, toda aquela información relevante relativa ao seu funcionamento.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735308716,
+    "enunciado": "En base ao artigo 10 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, atendendo ás obrigas específicas de información en materia de persoal, publicaranse:",
+    "opciones": [
+      "A relación de contratos de alta dirección, con indicación das retribucións anuais e as indemnizacións previstas ao final do contrato.",
+      "A relación de contratos de alta dirección, sen que poidan indicarse as retribucións anuais e as indemnizacións previstas ao final do contrato.",
+      "A relación de contratos de alta dirección, con indicación das retribucións anuais, sen incluír as indemnizacións previstas ao final do contrato.",
+      "A relación de contratos de dirección, con indicación das retribucións mensuais e as indemnizacións previstas ao final do contrato."
+    ],
+    "respuestaCorrecta": "A relación de contratos de alta dirección, con indicación das retribucións anuais e as indemnizacións previstas ao final do contrato.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735338646,
+    "enunciado": "De conformidade co establecido no artigo 21.1 da Lei 1/2016 do 18 de xaneiro, de transparencia e bo goberno, en relación á reutilización da información do sector público autonómico:",
+    "opciones": [
+      "Promoverase a reutilización, con fins comerciais ou non comerciais.",
+      "Promoverase a reutilización, con fins non comerciais.",
+      "Non se reutilizará a información do sector público, salvo que o autorice unha norma con rango de lei.",
+      "Non se reutilizará a información do sector público, salvo que o autorice unha norma con rango de lei."
+    ],
+    "respuestaCorrecta": "Promoverase a reutilización, con fins comerciais ou non comerciais.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735374513,
+    "enunciado": "Non se reutilizará a información do sector público, salvo que o autorice unha norma con rango de lei.",
+    "opciones": [
+      "O procedemento para o exercicio do dereito de acceso iniciarase coa presentación da correspondente solicitude, que deberá dirixirse á persoa titular do órgano administrativo ou entidade que posúa a información.",
+      "O procedemento para o exercicio do dereito de acceso iniciarase coa entrada da correspondente solicitude no órgano administrativo ou entidade que posúa a información.",
+      "O procedemento para o exercicio do dereito de acceso iniciarase coa entrada da correspondente solicitude, para o que se empregará o modelo aprobado para iso.",
+      "O procedemento para o exercicio do dereito de acceso iniciarase coa presentación da correspondente solicitude, que deberá dirixirse a calquera administración."
+    ],
+    "respuestaCorrecta": "O procedemento para o exercicio do dereito de acceso iniciarase coa presentación da correspondente solicitude, que deberá dirixirse á persoa titular do órgano administrativo ou entidade que posúa a información.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735404382,
+    "enunciado": "De conformidade co establecido no artigo 28.1 da Lei 1/2016 do 18 de xaneiro, de transparencia e bo goberno, en relación á solicitude de acceso á información pública:",
+    "opciones": [
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse o recurso administrativo que corresponda.",
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso poderá interpoñerse unha reclamación ante o Valedor do Pobo ou un recurso contencioso-administrativo.",
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo.",
+      "Contra a resolución expresa do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso extraordinario de revisión."
+    ],
+    "respuestaCorrecta": "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735439864,
+    "enunciado": "Segundo o disposto no artigo 1 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, a Comunidade Autónoma de Galicia reforza o seu compromiso na eliminación da discriminación entre mulleres e de homes e na promoción da igualdade, atribuíndolle a maior efectividade posible, no seu campo de competencias, ao principio constitucional de:",
+    "opciones": [
+      "Igualdade de oportunidades entre as persoas de ambos os sexos.",
+      "Participación desequilibrada dos homes na toma de decisións.",
+      "Garantía da dignidade das mulleres.",
+      "A busca e a eliminación das discriminacións por razóns de xénero."
+    ],
+    "respuestaCorrecta": "Igualdade de oportunidades entre as persoas de ambos os sexos.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735475399,
+    "enunciado": "De acordo co artigo 2 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, para os efectos desta norma, o concepto de discriminación incluirá:",
+    "opciones": [
+      "O acoso ou acoso moral por razón de xénero e o acoso sexual.",
+      "Unicamente o acoso sexual.",
+      "O acoso moral por razón de xénero non se distingue do acoso sexual.",
+      "Só o acoso por razón de xénero."
+    ],
+    "respuestaCorrecta": "O acoso ou acoso moral por razón de xénero e o acoso sexual.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735522568,
+    "enunciado": "Conforme ao disposto no artigo 5 de Decreto lexislativo 2/2015, do 12 febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, a conciliación do emprego e da vida familiar das mulleres e homes e o fomento da individualización dos dereitos tendentes a esa conciliación considérase:",
+    "opciones": [
+      "Un criterio de actuación da Xunta de Galicia.",
+      "Unha función da Comisión Interdepartamental de Igualdade.",
+      "Unha función do Consello Galego das Mulleres.",
+      "Unha función da Secretaría Xeral para a Igualdade."
+    ],
+    "respuestaCorrecta": "Un criterio de actuación da Xunta de Galicia.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735557151,
+    "enunciado": "Segundo o disposto no artigo 6 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, o Consello Galego das Mulleres é o órgano colexiado e institucional de Galicia ao que lle corresponden, entre outras, a función de:",
+    "opciones": [
+      "A colaboración coa Comisión Consultiva Autonómica para a Igualdade entre Mulleres e Homes na Negociación Colectiva.",
+      "O seguimento da aplicación dos plans para a igualdade de oportunidades e de loita contra a violencia de xénero.",
+      "A emisión de informes sobre o impacto de xénero dos regulamentos autonómicos.",
+      "Comunicar e informar das políticas de igualdade aos distintos organísmos administrativos dos programas de igualdade."
+    ],
+    "respuestaCorrecta": "A colaboración coa Comisión Consultiva Autonómica para a Igualdade entre Mulleres e Homes na Negociación Colectiva.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735593993,
+    "enunciado": "Segundo o disposto no artigo 10 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, a Xunta de Galicia no seu ámbito de competencias promoverá e levará a cabo accións dirixidas a conseguir os seguintes obxectivos, en relación coa información, asesoramento e orientación para as mulleres:",
+    "opciones": [
+      "Erradicación, en todas as formas de expresión oral ou escrita, do uso sexista da linguaxe no campo institucional.",
+      "Garantir o uso non sexista da linguaxe.",
+      "Garantir o funcionamento de centros e servizos de información e asesoramento ás mulleres en número e dotacións suficientes.",
+      "Apoiar as entidades de Servizos Sociais en materia de igualdade."
+    ],
+    "respuestaCorrecta": "Garantir o funcionamento de centros e servizos de información e asesoramento ás mulleres en número e dotacións suficientes.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735628862,
+    "enunciado": "Conforme ao disposto no artigo 47 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, no acceso ao emprego público galego analizarase se os requisitos esixidos ás persoas aspirantes determinan un prexuízo para as mulleres ou para un colectivo predominantemente feminino:",
+    "opciones": [
+      "Con anterioridade a calquera oferta de emprego público.",
+      "Con anterioridade á convocatoria do proceso selectivo.",
+      "Unha vez finalizado o proceso selectivo.",
+      "Na presentación das propostas de Relación de Postos de Traballo."
+    ],
+    "respuestaCorrecta": "Con anterioridade a calquera oferta de emprego público.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735674375,
+    "enunciado": "Conforme ao disposto no artigo 52 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, cando no corpo, escala, grupo ou categoría exista unha diferenza porcentual de polo menos vinte puntos entre o número de mulleres e o número de homes denomínase:",
+    "opciones": [
+      "Desigualdade. ",
+      "Predominancia.",
+      "Discriminación.",
+      "Desequilibrio."
+    ],
+    "respuestaCorrecta": "Predominancia.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735699872,
+    "enunciado": "60. Conforme ao disposto no artigo 55 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, o establecemento dun procedemento informal de solución establecerase para:",
+    "opciones": [
+      "Previr o acoso sexual.",
+      "O exercicio dos dereitos de conciliación.",
+      "A valoración excepcional do esforzo físico nas probas selectivas.",
+      "Para rexistrar a incidencia dentro do ámbito administrativo destas condutas."
+    ],
+    "respuestaCorrecta": "Previr o acoso sexual.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735731615,
+    "enunciado": "Comunicaráselles a tramitación dun procedemento ás persoas que sexan titulares de dereitos ou intereses lexítimos e directos cuxa identificación resulte do expediente e que poidan resultar afectados pola resolución que se dite (artigo 8 da LPAC):",
+    "opciones": [
+      "En calquera momento anterior ao trámite de audiencia.",
+      "Durante a instrución dun procedemento que non tivese publicidade.",
+      "Durante a tramitación de calquera clase de procedemento.",
+      "Durante o proceso de cualificación do procedemento."
+    ],
+    "respuestaCorrecta": "Durante a instrución dun procedemento que non tivese publicidade.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735763321,
+    "enunciado": "A teor do artigo 48 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, son anulables os actos da Administración:",
+    "opciones": [
+      "Que lesionen dereitos susceptibles de amparo constitucional.",
+      "Que incorran en desviación de poder.",
+      "Que teñan un contido imposible.",
+      "Os que lesionen os dereitos e liberdades susceptibles de amparo constitucional."
+    ],
+    "respuestaCorrecta": "Que incorran en desviación de poder.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735806839,
+    "enunciado": "Conforme ao disposto no artigo 1 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, esta lei establece e regula:",
+    "opciones": [
+      "Os principios do sistema de responsabilidade das administracións públicas.",
+      "O réxime disciplinario dos empregados públicos.",
+      "O procedemento administrativo común.",
+      "O réxime estatutario do persoal ao servizo da administración pública."
+    ],
+    "respuestaCorrecta": "Os principios do sistema de responsabilidade das administracións públicas.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735848287,
+    "enunciado": "Conforme ao disposto no artigo 24 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, se o recusado nega a causa de recusación, o superior resolverá no prazo de:",
+    "opciones": [
+      "3 Meses.",
+      "20 días.",
+      "3 días.",
+      "15 días."
+    ],
+    "respuestaCorrecta": "3 días.",
+    "tema": "Examen 2024"
+  },
+  {
+    "id": 1765735881223,
+    "enunciado": "Conforme ao disposto no artigo 20 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as persoas que desempeñan funcións retribuídas ao servizo dos intereses xerais nas administracións públicas incluídas no ámbito de aplicación desta lei denomínanse:",
+    "opciones": [
+      "Traballadores.",
+      "Autónomos.",
+      "Empregados públicos.",
+      "Asalariados."
+    ],
+    "respuestaCorrecta": "Empregados públicos.",
+    "tema": "Examen 2024"
   }
 ]
