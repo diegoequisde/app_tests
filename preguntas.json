@@ -937,5 +937,720 @@
     ],
     "respuestaCorrecta": "Empregados públicos.",
     "tema": "Examen 2024"
+  },
+  {
+    "id": 1765789251041,
+    "enunciado": "A teor da regulación contida no artigo 4 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, cal dos seguintes supostos non encaixa coa definición de interesado?:",
+    "opciones": [
+      "O que promova o procedemento como titular de dereitos ou intereses lexítimos individuais ou colectivos.",
+      "O que, sen iniciar o procedemento, teña dereitos que poidan resultar afectados pola decisión que nel se adopte.",
+      "O que, sen iniciar o procedemento, teña calquera tipo de interese nel."
+    ],
+    "respuestaCorrecta": "O que, sen iniciar o procedemento, teña calquera tipo de interese nel.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789286633,
+    "enunciado": "Conforme ao artigo 5 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común, quen poderá actuar en representación doutra persoa ante as administracións públicas?:",
+    "opciones": [
+      "As persoas xurídicas en todo caso.",
+      "As persoas físicas en todo caso.",
+      "As persoas físicas con capacidade de obrar."
+    ],
+    "respuestaCorrecta": "As persoas físicas con capacidade de obrar.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789315557,
+    "enunciado": "Segundo o artigo 10 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, os interesados poderán asinar a través de calquera medio que permita acreditar:",
+    "opciones": [
+      "A autenticidade da expresión da súa vontade e consentimento, aínda que non acredite a integridade e a inalterabilidade do documento.",
+      "A autenticidade da expresión da súa vontade ou a integridade.",
+      "A autenticidade da expresión da súa vontade e consentimento, así como a integridade e inalterabilidade do documento."
+    ],
+    "respuestaCorrecta": "A autenticidade da expresión da súa vontade e consentimento, así como a integridade e inalterabilidade do documento.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789347246,
+    "enunciado": "Un dos dereitos recoñecidos a quen ten capacidade de obrar ante as administracións públicas no artigo 13 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas é o de comunicarse coas administracións públicas a través de:",
+    "opciones": [
+      "Un punto de contacto electrónico da Administración.",
+      "Un punto de acceso xeral electrónico da Administración.",
+      "Un punto de comunicación electrónico da Administración."
+    ],
+    "respuestaCorrecta": "Un punto de acceso xeral electrónico da Administración.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789392125,
+    "enunciado": "Segundo o artigo 15 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, se concorresen varios interesados no procedemento e existise discrepancia en canto á lingua, o procedemento tramitarase en:",
+    "opciones": [
+      "Galego.",
+      "Castelán.",
+      "En ambas as dúas por duplicado."
+    ],
+    "respuestaCorrecta": "Castelán.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789416902,
+    "enunciado": "Os documentos electrónicos deberán conservarse nun formato que permita garantir a autenticidade, integridade e conservación do documento, así como a súa consulta, con independencia do tempo transcorrido desde a súa emisión. A eliminación dos devanditos documentos (artigo 17 da LPAC):",
+    "opciones": [
+      "Deberá ser autorizada de acordo co disposto na normativa aplicable.",
+      "Deberá ser comunicada de acordo co disposto na normativa aplicable.",
+      "Deberá ser xustificada de acordo co disposto na normativa aplicable."
+    ],
+    "respuestaCorrecta": "Deberá ser autorizada de acordo co disposto na normativa aplicable.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789459309,
+    "enunciado": "Aclara o artigo 19 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas que as administracións públicas lle entregarán ao interesado certificación acreditativa da comparecencia:",
+    "opciones": [
+      "Cando así o solicite.",
+      "Unicamente cando esta comparecencia fose presencial.",
+      "En todo caso."
+    ],
+    "respuestaCorrecta": "Cando así o solicite.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789489758,
+    "enunciado": "En todo caso, as administracións públicas informarán os interesados do prazo máximo establecido para a resolución dos procedementos e para a notificación dos actos que lles poñan termo, así como dos efectos que poida producir o silencio administrativo. A dita mención incluirase na notificación ou publicación do acordo de iniciación de oficio ou na comunicación que se dirixirá para o efecto ao interesado (artigo 21 da LPAC):",
+    "opciones": [
+      "Dentro dos dez días seguintes á presentación da solicitude iniciadora do procedemento no rexistro do órgano competente para resolver.",
+      "Dentro dos dez días seguintes á recepción da solicitude iniciadora do procedemento no rexistro electrónico da Administración ou organismo competente para a súa tramitación.",
+      "Dentro dos dez días seguintes á presentación da solicitude iniciadora do procedemento no rexistro da Administración á que pertenza o órgano competente ou organismo para a súa tramitación."
+    ],
+    "respuestaCorrecta": "Dentro dos dez días seguintes á recepción da solicitude iniciadora do procedemento no rexistro electrónico da Administración ou organismo competente para a súa tramitación.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789515504,
+    "enunciado": "Excepcionalmente, cando se esgoten os medios persoais e materiais dispoñibles, o órgano competente para resolver poderá acordar de maneira motivada a ampliación do prazo máximo de resolución e notificación, sen que poida ser este con carácter xeral (artigo 23 da LPAC):",
+    "opciones": [
+      "Superior ao establecido para a tramitación do procedemento.",
+      "Superior a tres meses.",
+      "Superior a seis meses."
+    ],
+    "respuestaCorrecta": "Superior ao establecido para a tramitación do procedemento.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789550784,
+    "enunciado": "Respecto dos documentos electrónicos emitidos polas administracións públicas que se publiquen con carácter meramente informativo, sinala o artigo 26 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas que:",
+    "opciones": [
+      "Requiren de sinatura electrónica.",
+      "Será necesario identificar a súa orixe.",
+      "Será necesario identificar o seu destino."
+    ],
+    "respuestaCorrecta": "Será necesario identificar a súa orixe.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789579501,
+    "enunciado": "En cal dos seguintes casos poderán as administracións solicitar de maneira motivada o cotexo das copias achegadas polo interesado? (artigo 28 da LPAC):",
+    "opciones": [
+      "Cando se trate de documentos de carácter preceptivo.",
+      "Cando o documento achegado polo interesado estivese en formato papel.",
+      "Cando existan dúbidas derivadas da calidade da copia."
+    ],
+    "respuestaCorrecta": "Cando existan dúbidas derivadas da calidade da copia.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789620854,
+    "enunciado": "Sinala o artigo 30 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas que os prazos expresados en días se contarán a partir:",
+    "opciones": [
+      "Do día en que teña lugar a notificación ou publicación do acto de que se trate.",
+      "Do día seguinte a aquel en que teña lugar a notificación ou publicación do acto de que se trate.",
+      "Do día en que se dite o acto de que se trate."
+    ],
+    "respuestaCorrecta": "Do día seguinte a aquel en que teña lugar a notificación ou publicación do acto de que se trate.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789651152,
+    "enunciado": "Respecto dos actos que poñan fin aos procedementos selectivos e de concorrencia competitiva, sinala o artigo 35 da Lei 39/2015, do 1 de outubro, de procedemento administrativo común das administracións públicas que:",
+    "opciones": [
+      "Serán motivados, con sucinta referencia de feitos e fundamentos de dereito.",
+      "Se exceptúan da necesidade de motivación.",
+      "Serán motivados, de conformidade co que dispoñan as normas que regulen as súas convocatorias."
+    ],
+    "respuestaCorrecta": "Serán motivados, de conformidade co que dispoñan as normas que regulen as súas convocatorias.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789694489,
+    "enunciado": "No caso de que o primeiro intento de notificación se realizase antes das quince horas, o segundo intento deberá realizarse despois das quince horas, e viceversa, e deixarase en todo caso polo menos unha marxe de diferenza entre ambos os intentos de notificación de (artigo 42 da LPAC):",
+    "opciones": [
+      "Cinco horas.",
+      "Dúas horas.",
+      "Tres horas."
+    ],
+    "respuestaCorrecta": "Tres horas.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789714517,
+    "enunciado": "Segundo o sinalado polo artigo 47 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, os actos ditados por órgano manifestamente incompetente por razón da materia ou do territorio determinarán:",
+    "opciones": [
+      "A súa invalidez.",
+      "A súa nulidade de pleno dereito.",
+      "A súa anulabilidade."
+    ],
+    "respuestaCorrecta": "A súa nulidade de pleno dereito.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789747766,
+    "enunciado": "Conforme ao disposto no artigo 2 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, os organismos públicos e entidades de dereito público vinculados ou dependentes das administracións públicas intégranse en:",
+    "opciones": [
+      "As universidades públicas.",
+      "Entidades de dereito privado.",
+      "O sector público institucional."
+    ],
+    "respuestaCorrecta": "O sector público institucional.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789779470,
+    "enunciado": "Segundo o artigo 3 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, ¿cal dos seguintes principios deberán respectar na súa actuación e relacións as administracións públicas?:",
+    "opciones": [
+      "Servizo eficiente aos cidadáns.",
+      "Planificación e dirección por resultados e control da xestión e avaliación dos medios das políticas públicas.",
+      "Eficacia no cumprimento dos obxectivos fixados."
+    ],
+    "respuestaCorrecta": "Eficacia no cumprimento dos obxectivos fixados.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789810055,
+    "enunciado": "Conforme ao disposto no artigo 5 da lei 40/2015, de 1 outubro, de réxime xurídico do sector público, a creación de calquera órgano administrativo esixirá o cumprimento dos seguintes requisitos:",
+    "opciones": [
+      "Dotación do persoal necesario para a súa posta en marcha e funcionamento.",
+      "Dotación dos créditos necesarios para a súa posta en marcha e funcionamento.",
+      "Delimitación dos seus órganos superiores."
+    ],
+    "respuestaCorrecta": "Dotación dos créditos necesarios para a súa posta en marcha e funcionamento.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789842752,
+    "enunciado": "Conforme ao disposto no artigo 6 de a Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, o incumprimento das instrucións ou ordes de servizo:",
+    "opciones": [
+      "É causa de nulidade de pleno dereito dos actos ditados polos órganos administrativos.",
+      "É causa de anulabilidade dos actos ditados polos órganos administrativos.",
+      "Non afecta por si só á validez dos actos ditados polos órganos administrativos."
+    ],
+    "respuestaCorrecta": "Non afecta por si só á validez dos actos ditados polos órganos administrativos.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789872767,
+    "enunciado": "Conforme ao disposto no artigo 8 de a Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, a delegación de competencias, a encomenda de xestión, a delegación de firma e a suplencia:",
+    "opciones": [
+      "Supoñen alteración da titularidade da competencia e dos elementos determinantes do seu exercicio que se prevén en cada caso.",
+      "Non supoñen alteración da titularidade da competencia, aínda que si dos elementos determinantes do seu exercicio que en cada caso se prevén.",
+      "Non supoñen alteración da titularidade da competencia, nin tampouco dos elementos determinantes do seu exercicio que en cada caso se prevén."
+    ],
+    "respuestaCorrecta": "Non supoñen alteración da titularidade da competencia, aínda que si dos elementos determinantes do seu exercicio que en cada caso se prevén.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789911694,
+    "enunciado": "Conforme ao disposto no artigo 9 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, as delegacións de competencias e a súa revogación deberán publicarse:",
+    "opciones": [
+      "En ningún caso.",
+      "No Boletín Oficial do Estado, no da comunidade autónoma ou no da provincia, segundo a Administración a que pertenza o órgano delegante e o ámbito territorial de competencia deste.",
+      "No Boletín Oficial do Estado en todo caso. 22."
+    ],
+    "respuestaCorrecta": "No Boletín Oficial do Estado, no da comunidade autónoma ou no da provincia, segundo a Administración a que pertenza o órgano delegante e o ámbito territorial de competencia deste.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789941746,
+    "enunciado": "Segundo o artigo 10 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, o acordo motivado mediante o cal se realice a avocación:",
+    "opciones": [
+      "Deberá ser notificado aos interesados no procedemento, se os houber, sempre con anterioridade á resolución final que se dite.",
+      "Deberá ser notificado aos interesados no procedemento, se os houber, con anterioridade ou simultaneamente á resolución final que se dite.",
+      "Deberá ser notificado aos interesados no procedemento, se os houber, con anterioridade ou simultaneamente á proposta de resolución que se dite."
+    ],
+    "respuestaCorrecta": "Deberá ser notificado aos interesados no procedemento, se os houber, con anterioridade ou simultaneamente á resolución final que se dite.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765789973665,
+    "enunciado": "Conforme ao disposto no artigo 12 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, para a validez da delegación de sinatura:",
+    "opciones": [
+      "Non será necesaria a súa publicación.",
+      "Publicarase no Diario Oficial de Galicia.",
+      "Publicarase no Boletín Oficial do Estado."
+    ],
+    "respuestaCorrecta": "Non será necesaria a súa publicación.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790006800,
+    "enunciado": "Conforme ao disposto no artigo 13 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, a suplencia non implicará alteración da competencia e para a súa validez:",
+    "opciones": [
+      "Será necesaria a súa publicación.",
+      "Non será necesaria a súa publicación.",
+      "Formalizarase mediante a sinatura do correspondente convenio."
+    ],
+    "respuestaCorrecta": "Non será necesaria a súa publicación.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790033574,
+    "enunciado": "Conforme ao disposto no artigo 14 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, o órgano administrativo que se estime incompetente para a resolución dun asunto remitirá directamente as actuacións ao órgano que considere competente:",
+    "opciones": [
+      "E deberá notificarlles esta circunstancia aos interesados.",
+      "Non é necesario notificarlles esta circunstancia aos interesados.",
+      "O órgano administrativo decidirá en cada caso se notifica ou non."
+    ],
+    "respuestaCorrecta": "E deberá notificarlles esta circunstancia aos interesados.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790066274,
+    "enunciado": "Conforme ao disposto no artigo 16 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, corresponde velar pola legalidade formal e material das actuacións do órgano colexiado ao:",
+    "opciones": [
+      "Presidente.",
+      "Interventor delegado.",
+      "Secretario."
+    ],
+    "respuestaCorrecta": "Secretario.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790092286,
+    "enunciado": "Conforme ao disposto no artigo 17 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, quedarán exentos da responsabilidade que, se é o caso, poida derivarse dos acordos que adopten os órganos colexiados:",
+    "opciones": [
+      "Os membros do órgano que emitan o seu voto a través de medios electrónicos.",
+      "Os membros do órgano que voten a favor.",
+      "Os membros do órgano que voten en contra ou que se absteñan."
+    ],
+    "respuestaCorrecta": "Os membros do órgano que voten en contra ou que se absteñan.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790118894,
+    "enunciado": "Conforme ao disposto nos artigos 23 e 24 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, ter intervido como perito ou como testemuña no procedemento de que se trate é causa de:",
+    "opciones": [
+      "Abstención, unicamente.",
+      "Recusación, unicamente.",
+      "Abstención e recusación."
+    ],
+    "respuestaCorrecta": "Abstención e recusación.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790146015,
+    "enunciado": "Conforme ao disposto no artigo 24 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, a recusación exporase:",
+    "opciones": [
+      "Por escrito, no que se expresará a causa ou causas en que se funda.",
+      "Verbalmente.",
+      "Verbalmente ou por medios electrónicos."
+    ],
+    "respuestaCorrecta": "Por escrito, no que se expresará a causa ou causas en que se funda.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790172261,
+    "enunciado": "Conforme ao disposto no artigo 2 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a potestade que faculta a Comunidade Autónoma de Galicia para estruturar, establecer o réxime xurídico e dirixir e fixar os obxectivos da función pública galega denomínase:",
+    "opciones": [
+      "Potestade de programación.",
+      "Potestade regulamentaria.",
+      "Potestade de autoorganización."
+    ],
+    "respuestaCorrecta": "Potestade de autoorganización.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790201399,
+    "enunciado": "De acordo co establecido no artigo 3 da Lei 2/2015, de 29 abril, do emprego público de Galicia, as administracións públicas incluídas no ámbito de aplicación da citada lei xeneralizarán a xestión de todos os procesos e procedementos administrativos derivados desta:",
+    "opciones": [
+      "Por medios electrónicos.",
+      "Por medios manuscritos.",
+      "Por medios mecanografados."
+    ],
+    "respuestaCorrecta": "Por medios electrónicos.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790228089,
+    "enunciado": "Conforme ao disposto no artigo 7 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal funcionario ao servizo das entidades locais galegas réxese por:",
+    "opciones": [
+      "A lexislación básica estatal que lle resulte de aplicación e pola Lei 2/2015, do 29 de abril, do emprego público de Galicia, coas especialidades reguladas no seu título X.",
+      "A lexislación xeral de forzas e corpos de seguridade e pola súa lexislación específica.",
+      "A lexislación orgánica de universidades e as súas disposicións de desenvolvemento."
+    ],
+    "respuestaCorrecta": "A lexislación básica estatal que lle resulte de aplicación e pola Lei 2/2015, do 29 de abril, do emprego público de Galicia, coas especialidades reguladas no seu título X.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790258866,
+    "enunciado": "Conforme ao disposto no artigo 21 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as persoas que, en virtude de nomeamento legal, están vinculadas á Administración pública por unha relación estatutaria regulada polo dereito administrativo para o desempeño de servizos profesionais retribuídos de carácter permanente denomínanse:",
+    "opciones": [
+      "Persoal funcionario de carreira.",
+      "Persoal eventual.",
+      "Persoal laboral"
+    ],
+    "respuestaCorrecta": "Persoal funcionario de carreira.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790291505,
+    "enunciado": "Conforme ao disposto no artigo 24 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o cesamento do persoal funcionario interino producirase por:",
+    "opciones": [
+      "Cumprimento dos requisitos esixidos para o desempeño do posto.",
+      "Cesamento da autoridade que efectuou o nomeamento.",
+      "Amortización do posto que ocupe."
+    ],
+    "respuestaCorrecta": "Amortización do posto que ocupe.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790318282,
+    "enunciado": "De acordo co establecido no artigo 25 da Lei 2/2015, de 29 abril, do emprego público de Galicia, a prestación de servizos en réxime interino:",
+    "opciones": [
+      "Constitúe mérito preferente para a adquisición da condición de persoal funcionario de carreira.",
+      "Non constitúe mérito preferente para a adquisición da condición de persoal funcionario de carreira.",
+      "Constitúe mérito preferente para a adquisición da condición de persoal eventual."
+    ],
+    "respuestaCorrecta": "Non constitúe mérito preferente para a adquisición da condición de persoal funcionario de carreira.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790345224,
+    "enunciado": "Segundo o recollido no artigo 26 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, poden ser desempeñados por persoal laboral:",
+    "opciones": [
+      "Os postos de natureza non permanente.",
+      "Os postos que teñan atribuídas funcións de inscrición e anotación de datos nos rexistros administrativos.",
+      "Os postos que teñan atribuídas funcións de cancelación de datos nos rexistros administrativos."
+    ],
+    "respuestaCorrecta": "Os postos de natureza non permanente.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790374438,
+    "enunciado": "Con base no sinalado no artigo 28 da Lei 2/2015, do 29 de abril, de emprego público de Galicia, cando unha sentenza xudicial firme recoñeza unha situación laboral de carácter indefinido e a persoa afectada poida ser adscrita a un posto de traballo vacante:",
+    "opciones": [
+      "Será necesario realizar unha modificación da correspondente relación de postos de traballo.",
+      "Non será necesario realizar unha modificación da correspondente relación de postos de traballo.",
+      "Será necesario realizar unha modificación da correspondente relación de postos de traballo. A proposta da modificación deberá efectuarse no prazo máximo de tres meses."
+    ],
+    "respuestaCorrecta": "Non será necesario realizar unha modificación da correspondente relación de postos de traballo.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790401967,
+    "enunciado": "De acordo co establecido no artigo 30 da Lei 2/2015, de 29 abril, do emprego público de Galicia, o cesamento da autoridade que efectuou o nomeamento produce necesariamente:",
+    "opciones": [
+      "O cesamento do persoal eventual ao que esta nomease.",
+      "O cesamento do persoal laboral temporal ao que esta nomease.",
+      "O cesamento do persoal funcionario interino de devandita unidade administrativa."
+    ],
+    "respuestaCorrecta": "O cesamento do persoal eventual ao que esta nomease.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790428184,
+    "enunciado": "Conforme ao disposto no artigo 51 da Lei 2/2015, de 29 abril, do emprego público de Galicia:",
+    "opciones": [
+      "As administracións públicas garantirán os dereitos constitucionais e lingüísticos das persoas respecto ao galego, como única lingua oficial de Galicia.",
+      "As administracións públicas garantirán os dereitos constitucionais e lingüísticos das persoas respecto ao castelán, como única lingua oficial de Galicia.",
+      "As administracións públicas garantirán os dereitos constitucionais e lingüísticos das persoas tanto respecto ao galego, como lingua propia e oficial de Galicia, como ao castelán, lingua oficial en Galicia."
+    ],
+    "respuestaCorrecta": "As administracións públicas garantirán os dereitos constitucionais e lingüísticos das persoas tanto respecto ao galego, como lingua propia e oficial de Galicia, como ao castelán, lingua oficial en Galicia.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790460935,
+    "enunciado": "Conforme ao disposto no artigo 56 da Lei 2/2015, de 29 abril, do emprego público de Galicia, a superación das probas teóricas e/ou prácticas que se establezan na convocatoria, as cales deberán permitir determinar a capacidade das persoas aspirantes e establecer a orde de prelación entre elas, denomínase:",
+    "opciones": [
+      "Oposición.",
+      "Concurso.",
+      "Concurso-oposición."
+    ],
+    "respuestaCorrecta": "Oposición.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790485174,
+    "enunciado": "Conforme ao disposto no artigo 106 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal funcionario ten dereito á redución da xornada de traballo diaria, coa percepción íntegra das súas retribucións:",
+    "opciones": [
+      "Para atender ao coidado dun familiar de terceiro grao de afinidade por razóns de enfermidade moi grave.",
+      "Para atender ao coidado dun familiar de segundo grao de consanguinidade por razóns de enfermidade moi grave.",
+      "Para atender ao coidado dun familiar de primeiro grao de consanguinidade ou afinidade por razóns de enfermidade moi grave."
+    ],
+    "respuestaCorrecta": "Para atender ao coidado dun familiar de primeiro grao de consanguinidade ou afinidade por razóns de enfermidade moi grave.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790514402,
+    "enunciado": "Conforme ao disposto no artigo 116 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, nos casos de accidente ou enfermidade moi graves da parella de feito, o persoal funcionario ten dereito a un permiso para atender ao coidado desas persoas cunha duración máxima de:",
+    "opciones": [
+      "Non ten dereito a ningún permiso por esta causa.",
+      "Noventa días naturais.",
+      "Trinta días naturais."
+    ],
+    "respuestaCorrecta": "Trinta días naturais.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790547894,
+    "enunciado": "Conforme ao disposto no artigo 121 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, nos casos de parto, a nai funcionaria ten dereito a un permiso retribuído de:",
+    "opciones": [
+      "Vinte e dúas semanas ininterrompidas.",
+      "Dezaseis semanas ininterrompidas.",
+      "Trinta días naturais ininterrompidos."
+    ],
+    "respuestaCorrecta": "Vinte e dúas semanas ininterrompidas.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790571046,
+    "enunciado": "Conforme ao disposto no artigo 130 da Lei 2/2015, de 29 abril, do emprego público de Galicia:",
+    "opciones": [
+      "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a seis meses.",
+      "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a doce meses.",
+      "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a dezaoito meses."
+    ],
+    "respuestaCorrecta": "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a seis meses.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790599153,
+    "enunciado": "De acordo co artigo 2 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, a discapacidade é:",
+    "opciones": [
+      "A situación en que se atopa unha persoa cando é tratada de maneira menos favorable ca outra.",
+      "Unha situación que resulta da interacción entre as persoas con deficiencias previsiblemente permanentes e calquera tipo de barreira que limite ou impida a súa participación plena e efectiva na sociedade, en igualdade de condicións coas demais.",
+      "A situación dunha persoa ou grupo en que se integra cando é obxecto dun trato discriminatorio debido á súa relación con outra por motivo ou por razón de discapacidade."
+    ],
+    "respuestaCorrecta": "Unha situación que resulta da interacción entre as persoas con deficiencias previsiblemente permanentes e calquera tipo de barreira que limite ou impida a súa participación plena e efectiva na sociedade, en igualdade de condicións coas demais.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790628702,
+    "enunciado": "En base ao artigo 5 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, as medidas específicas para garantir a igualdade de oportunidades, a non discriminación e a accesibilidade universal aplicaranse, ademais de aos dereitos regulados no título I, a:",
+    "opciones": [
+      "A educación.",
+      "A protección da saúde.",
+      "A Administración de xustiza."
+    ],
+    "respuestaCorrecta": "A Administración de xustiza.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790666351,
+    "enunciado": "En base ao artigo 12 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, os equipos multiprofesionais de atención á discapacidade:",
+    "opciones": [
+      "Son os órganos encargados de establecer os criterios para o recoñecemento da incapacidade permanente no grao de total.",
+      "Son unidades da Administración xeral do Estado que actúan no ámbito de todo o territorio nacional, encargados da rehabilitación profesional.",
+      "Son os órganos encargados de valorar e cualificar as situacións de discapacidade para o seu recoñecemento oficial polo órgano administrativo competente."
+    ],
+    "respuestaCorrecta": "Son os órganos encargados de valorar e cualificar as situacións de discapacidade para o seu recoñecemento oficial polo órgano administrativo competente.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790684639,
+    "enunciado": "De acordo co artigo 30 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, adoptarán as medidas adecuadas para facilitar o estacionamento dos vehículos automóbiles pertencentes a persoas con problemas graves de mobilidade, por razón da súa discapacidade:",
+    "opciones": [
+      "Os concellos.",
+      "As comunidades autónomas.",
+      "As comunidades autónomas, sen prexuízo das competencias atribuídas ás entidades locais."
+    ],
+    "respuestaCorrecta": "Os concellos.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790723386,
+    "enunciado": "En base ao o artigo 35 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, as persoas con discapacidade teñen dereito ao traballo:",
+    "opciones": [
+      "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación.",
+      "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación directa.",
+      "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación indirecta."
+    ],
+    "respuestaCorrecta": "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790760350,
+    "enunciado": "En base ao artigo 3 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, as disposicións do título I, titulado “Transparencia da actividade pública”, serán de aplicación:",
+    "opciones": [
+      "Aos partidos políticos.",
+      "Ás organizacións sindicais.",
+      "Ao Parlamento de Galicia."
+    ],
+    "respuestaCorrecta": "Ao Parlamento de Galicia.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790784648,
+    "enunciado": "De acordo co artigo 5 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, a Xunta de Galicia fará público no Portal de transparencia un informe aprobado pola Comisión Interdepartamental de Información e Avaliación:",
+    "opciones": [
+      "Mensualmente.",
+      "Semestralmente.",
+      "Anualmente."
+    ],
+    "respuestaCorrecta": "Anualmente.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790808966,
+    "enunciado": "En base ao artigo 9 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, atendendo ás obrigas específicas de información de relevancia xurídica, publicaranse:",
+    "opciones": [
+      "Os textos das resolucións xudiciais firmes que afecten os intereses da comunidade autónoma.",
+      "Os textos das resolucións xudiciais firmes que afecten as ofertas públicas de emprego e os procesos selectivos.",
+      "Os textos das resolucións xudiciais firmes que afecten a vixencia ou interpretación das normas ditadas pola Administración pública competente."
+    ],
+    "respuestaCorrecta": "Os textos das resolucións xudiciais firmes que afecten a vixencia ou interpretación das normas ditadas pola Administración pública competente.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790835967,
+    "enunciado": "De conformidade co establecido no artigo 14 da Lei 1/2016 do 18 de xaneiro, de transparencia e bo goberno, sobre as obrigacións específicas de información de servizos públicos, facilitarase información sobre:",
+    "opciones": [
+      "O servizo público obxecto da concesión administrativa, o concesionario e a identificación da persoa responsable do contrato.",
+      "O servizo público obxecto da concesión administrativa, a identificación do concesionario, a identificación da persoa responsable do contrato e o persoal adscrito á prestación do servizo.",
+      "O servizo público obxecto da concesión administrativa, o concesionario e o persoal adscrito á prestación do servizo."
+    ],
+    "respuestaCorrecta": "O servizo público obxecto da concesión administrativa, a identificación do concesionario, a identificación da persoa responsable do contrato e o persoal adscrito á prestación do servizo.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790867479,
+    "enunciado": "De conformidade co establecido no artigo 22.2 da Lei 1/2016 do 18 de xaneiro, de transparencia e bo goberno, en relación á reutilización da información do sector público autonómico:",
+    "opciones": [
+      "A Administración deberá de manter a produción dun determinado tipo de documento con vistas á súa reutilización por unha entidade pública ou privada.",
+      "A Administración non deberá de manter a produción dun determinado tipo de documento con vistas á súa reutilización por unha entidade pública ou privada.",
+      "A Administración deberá de manter a produción da información de acceso público para a súa reutilización por unha entidade pública ou privada."
+    ],
+    "respuestaCorrecta": "A Administración non deberá de manter a produción dun determinado tipo de documento con vistas á súa reutilización por unha entidade pública ou privada.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790893431,
+    "enunciado": "De conformidade co establecido no artigo 25.1 da Lei 1/2016 do 18 de xaneiro, de transparencia e bo goberno, en relación co dereito de acceso á información pública:",
+    "opciones": [
+      "O dereito de acceso á información pública non poderá ser limitado ou denegado.",
+      "O dereito de acceso á información pública só poderá ser limitado ou denegado nos supostos previstos na normativa básica.",
+      "O dereito de acceso á información pública poderá ser denegado se se acorda polo órgano administrativo competente."
+    ],
+    "respuestaCorrecta": "O dereito de acceso á información pública só poderá ser limitado ou denegado nos supostos previstos na normativa básica.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790926744,
+    "enunciado": "Segundo o disposto no artigo 1 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, a Comunidade Autónoma de Galicia reforza o seu compromiso na eliminación da discriminación entre mulleres e de homes e na promoción da igualdade, atribuíndolle a maior efectividade posible, no seu campo de competencias, ao principio constitucional de:",
+    "opciones": [
+      "Igualdade de oportunidades entre as persoas de ambos os sexos.",
+      "Participación desequilibrada dos homes na toma de decisións.",
+      "Garantía da dignidade das mulleres."
+    ],
+    "respuestaCorrecta": "Igualdade de oportunidades entre as persoas de ambos os sexos.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790954798,
+    "enunciado": "De acordo co artigo 2 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, para os efectos desta norma, o concepto de discriminación incluirá:",
+    "opciones": [
+      "O acoso ou acoso moral por razón de xénero e o acoso sexual.",
+      "Unicamente o acoso sexual.",
+      "O acoso moral por razón de xénero non se distingue do acoso sexual."
+    ],
+    "respuestaCorrecta": "O acoso ou acoso moral por razón de xénero e o acoso sexual.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765790983864,
+    "enunciado": "De acordo co artigo 4 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o Texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, as medidas especiais encamiñadas a acelerar a igualdade entre mulleres e homes:",
+    "opciones": [
+      "Considéranse medidas discriminatorias.",
+      "Non se considerarán discriminatorias.",
+      "Terán carácter permanente."
+    ],
+    "respuestaCorrecta": "Non se considerarán discriminatorias.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765791017334,
+    "enunciado": "Segundo o disposto no artigo 10 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, a Xunta de Galicia no seu ámbito de competencias promoverá e levará a cabo accións dirixidas a conseguir os seguintes obxectivos, en relación coa información, asesoramento e orientación para as mulleres:",
+    "opciones": [
+      "Erradicación, en todas as formas de expresión oral ou escrita, do uso sexista da linguaxe no campo institucional.",
+      "Garantir o uso non sexista da linguaxe.",
+      "Garantir o funcionamento de centros e servizos de información e asesoramento ás mulleres en número e dotacións suficientes."
+    ],
+    "respuestaCorrecta": "Garantir o funcionamento de centros e servizos de información e asesoramento ás mulleres en número e dotacións suficientes.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765791047447,
+    "enunciado": "Conforme ao disposto no artigo 55 do Decreto lexislativo 2/2015, do 12 de febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, o establecemento dun procedemento informal de solución establecerase para:",
+    "opciones": [
+      "Previr o acoso sexual.",
+      "O exercicio dos dereitos de conciliación.",
+      "A valoración excepcional do esforzo físico nas probas selectivas."
+    ],
+    "respuestaCorrecta": "Previr o acoso sexual.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765791072153,
+    "enunciado": "Sinala o artigo 6 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas que os poderes inscritos no rexistro terán unha validez determinada máxima de:",
+    "opciones": [
+      "Cinco anos contados desde a data de inscrición.",
+      "Dous anos contados desde a data de inscrición.",
+      "Tres anos contados desde a data de presentación das solicitudes de inscrición do poder."
+    ],
+    "respuestaCorrecta": "Cinco anos contados desde a data de inscrición.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765791099935,
+    "enunciado": "Conforme ao disposto no artigo 9 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, a resolución de recursos nos órganos administrativos que diten os actos obxecto de recurso:",
+    "opciones": [
+      "En todo caso poderá ser obxecto de delegación.",
+      "En ningún caso poderá ser obxecto de delegación.",
+      "Deberá ser aprobada polo superior xerárquico común."
+    ],
+    "respuestaCorrecta": "En ningún caso poderá ser obxecto de delegación.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765791127261,
+    "enunciado": "De acordo co establecido no artigo 22 da Lei 2/2015, de 29 abril, do emprego público de Galicia, os postos que teñan atribuídas funcións que impliquen a realización de tarefas de inspección, fiscalización ou control serán reservados necesariamente nas relacións de postos de traballo a:",
+    "opciones": [
+      "O persoal laboral.",
+      "O persoal funcionario.",
+      "O persoal eventual."
+    ],
+    "respuestaCorrecta": "O persoal funcionario.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765791154888,
+    "enunciado": "En base ao artigo 1 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, esta norma ten por obxecto a garantía de dereitos das persoas con discapacidade conforme a:",
+    "opciones": [
+      "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e o Tratado da Unión Europea.",
+      "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e os acordos internacionais ratificados por España.",
+      "Os artigos 9.2, 10, 14 e 49 da Constitución española e a Convención Internacional sobre os Dereitos das Persoas con Discapacidade."
+    ],
+    "respuestaCorrecta": "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e os acordos internacionais ratificados por España.",
+    "tema": "Examen 2023"
+  },
+  {
+    "id": 1765791181758,
+    "enunciado": "De conformidade co establecido no artigo 28.1 da Lei 1/2016 do 18 de xaneiro, de transparencia e bo goberno, en relación á solicitude de acceso á información pública:",
+    "opciones": [
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse o recurso administrativo que corresponda.",
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso poderá interpoñerse unha reclamación ante o Valedor do Pobo ou un recurso contencioso-administrativo.",
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo."
+    ],
+    "respuestaCorrecta": "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo.",
+    "tema": "Examen 2023"
   }
 ]

@@ -2,9 +2,9 @@
 
 <h1>Preguntas</h1>
 
-<form action="/preguntas/crear" method="POST" style="display:inline;">
-  <button>Añadir pregunta</button>
-</form>
+
+<button type="button" onclick="location.href='/preguntas/crear'"> Añadir pregunta </button>
+
 
 <ul>
   <% preguntas.forEach(p => { %>
@@ -13,9 +13,8 @@
       <form action="/preguntas/eliminar/<%= p.id %>" method="POST" style="display:inline;">
         <button class="eliminar">Eliminar</button>
       </form>
-      <form action="/preguntas/editar/<%= p.id %>" method="POST" style="display:inline;">
-        <button>Editar</button>
-      </form>
+
+      <button type="button" onclick="location.href='/preguntas/editar/<%= p.id %>'"> Editar </button>
      
     </li>
   <% }) %>
