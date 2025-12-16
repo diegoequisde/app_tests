@@ -8,10 +8,23 @@
 </head>
 <body>
     <div class="quiz-container">
-        <div id="question-container"></div>
-        <div id="options-container"></div>
-        <button id="submit-btn">Responder</button>
-        <div id="result-container"></div>
+        <div class="quiz-left">
+            <div id="question-container"></div>
+            <div id="options-container"></div>
+
+            <div class="navigation-buttons">
+            <button id="prev-btn">Anterior</button>
+            <button id="next-btn">Siguiente</button>
+            <button id="finish-btn">Finalizar Test</button>
+            </div>
+        </div>
+
+        <div class="quiz-right">
+            <h3>Listado de preguntas</h3>
+            <ul id="result-list"></ul>
+            <p id="score"></p>
+            <button id="btn-back-home">Volver al inicio</button>
+        </div>
     </div>
 
     <script src="script.js"></script>

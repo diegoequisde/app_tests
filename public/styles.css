@@ -30,7 +30,7 @@ h1 {
     color: #222;
 }
 
-h2 {
+h2, h3 {
     margin-bottom: 15px;
     color: #444;
 }
@@ -73,13 +73,8 @@ button:hover {
     background-color: #0056b3;
 }
 
-button.eliminar {
-    background-color: #a72828;
-}
-
-button.inicio{
-    background-color: #800091;    
-}
+button.eliminar { background-color: #a72828; }
+button.inicio { background-color: #800091; }
 
 /* ---------- Opciones dinámicas ---------- */
 .opcion {
@@ -88,20 +83,16 @@ button.inicio{
     margin-bottom: 10px;
 }
 
-.opcion input[type="text"] {
-    flex: 1;
-}
+.opcion input[type="text"] { flex: 1; }
 
 .opcion button.remove-option {
     margin-left: 10px;
     background-color: #dc3545;
 }
 
-.opcion button.remove-option:hover {
-    background-color: #a71d2a;
-}
+.opcion button.remove-option:hover { background-color: #a71d2a; }
 
-/* ---------- Select y input de cantidad en inicio ---------- */
+/* ---------- Select e inputs ---------- */
 #tema, #cantidad {
     padding: 10px;
     margin-bottom: 15px;
@@ -110,20 +101,32 @@ button.inicio{
     font-size: 1rem;
 }
 
-/* ---------- Botones especiales en inicio ---------- */
-#btn-nuevo-tema,
-#start-btn {
+#btn-nuevo-tema, #start-btn {
     display: inline-block;
     margin-right: 10px;
 }
 
-/* ---------- Quiz container ---------- */
+/* ---------- Quiz container (panel dividido) ---------- */
 .quiz-container {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
+  display: flex;
+  gap: 20px;
 }
 
+.quiz-left, .quiz-right {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.quiz-left { flex: 5; }
+.quiz-right { 
+  flex: 1; 
+  max-height: 80vh; 
+  overflow-y: auto; 
+}
+
+/* ---------- Opciones de preguntas ---------- */
 #options-container .option {
     padding: 10px;
     border: 1px solid #ccc;
@@ -132,16 +135,41 @@ button.inicio{
     transition: background-color 0.2s;
 }
 
-#options-container .option:hover {
-    background-color: #e0e0e0;
+#options-container .option:hover { background-color: #e0e0e0; }
+#options-container .option.selected { background-color: #007bff; color: #fff; }
+#options-container .option.correct { background-color: #28a745; color: #fff; }
+#options-container .option.incorrect { background-color: #dc3545; color: #fff; }
+
+/* ---------- Botones navegación test ---------- */
+.navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
 }
 
-#options-container .option.selected {
-    background-color: #007bff;
-    color: #fff;
+.navigation-buttons button {
+    flex: 1;
+    margin-right: 10px;
 }
 
-#options-container .option.correct {
-    background-color: #28a745;
-    color: #fff;
+.navigation-buttons button:last-child { margin-right: 0; }
+
+/* ---------- Listado de resultados ---------- */
+#result-list {
+    list-style: none;
+    margin-top: 20px;
+}
+
+#result-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+}
+
+#result-list li:hover { background-color: #f0f0f0; }
+
+/* ---------- Botón volver al inicio ---------- */
+#btn-back-home {
+    margin-top: 15px;
+    background-color: #800091;
 }
