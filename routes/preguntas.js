@@ -84,23 +84,24 @@ router.post('/eliminar/:id', (req, res) => {
 
 // API: crear tema nuevo
 router.post('/api/temas/nuevo', (req, res) => {
-    const { tema } = req.body;
-    if (!tema || tema.trim() === "") return res.status(400).send("Tema vacío");
-
-    const temas = loadTemas();
-    if (!temas.includes(tema)) {
-        temas.push(tema);
-        saveTemas(temas);
-    }
-    res.sendStatus(200);
+  const { tema } = req.body;
+  const temas = loadTemas();
+  if (!temas.includes(tema)) temas.push(tema);
+  saveTemas(temas);
+  
+  if (req.headers.accept?.includes('application/json')) {
+    res.json({ ok: true });
+  } else {
+    res.redirect('/preguntas'); // redirige si viene de form HTML
+  }
 });
-
-
+ 
 // API: devolver todos los temas
 router.get('/api/temas', (req, res) => {
     const temas = loadTemas();
     res.json(temas);
 });
+
 
 // API: listado completo
 router.get('/api/listado', (req, res) => {

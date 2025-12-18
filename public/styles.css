@@ -8,7 +8,7 @@
 
 /* ---------- Barra de Navegación ---------- */
 .navbar {
-    background-color: #f2f2f2;
+    background-color: #007bff;
     padding: 10px;
   }
   .navbar ul {
@@ -22,11 +22,11 @@
   } */
   .navbar a {
     text-decoration: none;
-    color: #333;
+    color: #fff;
     font-weight: bold;
   }
   .navbar a:hover {
-    color: #007bff;
+    color: #ffd900;
   }
 
 /* ---------- Body ---------- */
@@ -200,3 +200,9 @@ button.inicio:hover { background-color: #62026e; }
     background-color: #800091;
 }
 
+/* ---------- Footer ---------- */
+/* footer {
+    background-color: #9e9e9e;
+    color: #333;
+    padding: 20px;
+} */
