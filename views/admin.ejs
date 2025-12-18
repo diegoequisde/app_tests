@@ -1,4 +1,5 @@
 <%- include('partials/header', { title: 'Admin' }) %>
+<%- include('partials/navbar') %>
 
 <h1>Preguntas</h1>
 
@@ -10,7 +11,7 @@
   <% preguntas.forEach(p => { %>
     <li>
       <strong><%= p.enunciado %></strong>
-      <form action="/preguntas/eliminar/<%= p.id %>" method="POST" style="display:inline;">
+      <form action="/preguntas/eliminar/<%= p.id %>" method="POST" style="display:inline;" class="form-eliminar">
         <button class="eliminar">Eliminar</button>
       </form>
 
@@ -19,3 +20,16 @@
     </li>
   <% }) %>
 </ul>
+
+<script>
+// Confirmación antes de eliminar
+document.querySelectorAll('.form-eliminar').forEach(form => {
+  form.addEventListener('submit', (e) => {
+    const confirmar = confirm('¿Estás seguro de que quieres eliminar esta pregunta?');
+    if (!confirmar) {
+      e.preventDefault(); // cancela el submit si el usuario cancela
+    }
+  });
+});
+
+</script>

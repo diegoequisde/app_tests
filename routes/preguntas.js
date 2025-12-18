@@ -18,7 +18,11 @@ router.get('/crear', (req, res) => {
 router.post('/crear', (req, res) => {
     let { enunciado, opciones, respuestaCorrecta, tema } = req.body;
 
-    const preguntas = loadPreguntas();
+    if (!Array.isArray(tema)) {
+      tema = [tema];
+    }
+  
+  const preguntas = loadPreguntas();
 
     const nueva = {
         id: Date.now(),
@@ -47,6 +51,10 @@ router.get('/editar/:id', (req, res) => {
 router.post('/editar/:id', (req, res) => {
     const id = Number(req.params.id);
     let { enunciado, opciones, respuestaCorrecta, tema } = req.body;
+    
+    if (!Array.isArray(tema)) {
+      tema = [tema];
+    }
 
     const preguntas = loadPreguntas();
     const index = preguntas.findIndex(p => p.id === id);
@@ -100,12 +108,14 @@ router.get('/api/listado', (req, res) => {
   res.json(preguntas);
 });
 
-// API: generar test por tema
+// API: generar test por tema/s
 router.get('/api/test', (req, res) => {
   const { tema, cantidad } = req.query;
 
-  let preguntas = loadPreguntas().filter(p => p.tema === tema);
-
+  let preguntas = loadPreguntas().filter(
+  p => Array.isArray(p.tema) && p.tema.includes(tema)
+);
+ 
   // mezclar
   preguntas = preguntas.sort(() => Math.random() - 0.5);
 
@@ -114,7 +124,6 @@ router.get('/api/test', (req, res) => {
 
   res.json(preguntas);
 });
-
 
 
 module.exports = router;

@@ -1,6 +1,10 @@
 [
   {
     "id": 1765617714982,
+    "tema": [
+      "Tema 1",
+      "css"
+    ],
     "enunciado": "Indica la opción correcta del artículo 6",
     "opciones": [
       "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación interna. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
@@ -8,8 +12,7 @@
       "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
       "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser monárquicos."
     ],
-    "respuestaCorrecta": "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
-    "tema": "Tema 1"
+    "respuestaCorrecta": "Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos."
   },
   {
     "id": 1765617761816,
@@ -21,7 +24,9 @@
       "8"
     ],
     "respuestaCorrecta": "8",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765617856123,
@@ -33,7 +38,9 @@
       "Los sindicatos y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y culturales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos."
     ],
     "respuestaCorrecta": "Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765617950754,
@@ -45,7 +52,9 @@
       "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado. "
     ],
     "respuestaCorrecta": "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Gobierno. ",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765618025529,
@@ -57,7 +66,9 @@
       "26 de diciembre de 1977"
     ],
     "respuestaCorrecta": "27 diciembre de 1978",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765618075640,
@@ -69,11 +80,15 @@
       "art. 9"
     ],
     "respuestaCorrecta": "art. 3",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765618148824,
-    "tema": "Tema 1",
+    "tema": [
+      "Tema 1"
+    ],
     "enunciado": "Cual es el artículo 2 de la Constitución?",
     "opciones": [
       "El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.",
@@ -93,7 +108,9 @@
       "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento legal. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
     ],
     "respuestaCorrecta": "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765618349970,
@@ -105,7 +122,9 @@
       "29 de diciembre de 1978"
     ],
     "respuestaCorrecta": "6 de diciembre de 1978",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765618390129,
@@ -117,7 +136,9 @@
       "4"
     ],
     "respuestaCorrecta": "4",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765618443779,
@@ -129,7 +150,9 @@
       "La capital del Estado es Madrid."
     ],
     "respuestaCorrecta": "La capital del Estado es la villa de Madrid.",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765619478194,
@@ -141,7 +164,9 @@
       "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y Aviación"
     ],
     "respuestaCorrecta": "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765619542155,
@@ -153,10 +178,16 @@
       "6 de diciembre de 1978"
     ],
     "respuestaCorrecta": "31 de octubre de 1978",
-    "tema": "Tema 1"
+    "tema": [
+      "Tema 1"
+    ]
   },
   {
     "id": 1765619542156,
+    "tema": [
+      "Examen 2024",
+      "Ley 39/2015"
+    ],
     "enunciado": "A teor da regulación contida no artigo 4 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, cal dos seguintes supostos non encaixa coa definición de interesado?:",
     "opciones": [
       "O que promova o procedemento como titular de dereitos ou intereses lexítimos individuais ou colectivos.",
@@ -164,11 +195,13 @@
       "O que, sen iniciar o procedemento, teña calquera tipo de interese nel.",
       "Aqueles cuxos intereses lexítimos, individuais ou colectivos, poidan ser afectados pola resolución e comparecer no procedemento mentres non exista, resolución definitiva."
     ],
-    "respuestaCorrecta": "O que, sen iniciar o procedemento, teña calquera tipo de interese nel.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "O que, sen iniciar o procedemento, teña calquera tipo de interese nel."
   },
   {
     "id": 1765619542157,
+    "tema": [
+      "Ley 39/2015"
+    ],
     "enunciado": "Sinala o artigo 6 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas que os poderes inscritos no rexistro terán unha validez determinada máxima de:",
     "opciones": [
       "Cinco anos contados desde a data de inscrición.",
@@ -176,11 +209,14 @@
       "Tres anos contados desde a data de presentación das solicitudes de inscrición do poder.",
       "Dous anos contados desde a data de presentación."
     ],
-    "respuestaCorrecta": "Cinco anos contados desde a data de inscrición.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "Cinco anos contados desde a data de inscrición."
   },
   {
     "id": 1765733402144,
+    "tema": [
+      "Examen 2024",
+      "Ley 39/2015"
+    ],
     "enunciado": "Administración xeral do Estado, as comunidades autónomas e as entidades locais manterán actualizado un rexistro, ou outro sistema equivalente, onde constarán os funcionarios habilitados para a identificación ou sinatura regulada no artigo 12 da Lei 39/2015, do 1 de outubro, de procedemento administrativo común. Estes rexistros ou sistemas deberán ser plenamente interoperables e estar interconectados cos das restantes administracións públicas (artigo 12 da LPAC):",
     "opciones": [
       "Para os efectos de comprobar a validez das citadas habilitacións.",
@@ -188,8 +224,7 @@
       "Para os efectos de garantir os principios de transparencia e proximidade ao cidadán.",
       "Para os efectos de garantir a unificación dos sistemas de rexistros."
     ],
-    "respuestaCorrecta": "Para os efectos de comprobar a validez das citadas habilitacións.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "Para os efectos de comprobar a validez das citadas habilitacións."
   },
   {
     "id": 1765733494025,
@@ -201,10 +236,16 @@
       "Nos casos de renuncia do dereito."
     ],
     "respuestaCorrecta": "Os supostos de terminación do procedemento por pacto ou convenio.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765733567965,
+    "tema": [
+      "Examen 2024",
+      "Ley 39/2015"
+    ],
     "enunciado": "O prazo establecido no artigo 24 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas para que a Administración expida un certificado acreditativo do silencio producido é de:",
     "opciones": [
       "Quince días contados desde que se solicitou.",
@@ -212,8 +253,7 @@
       "Quince días desde que expire o prazo máximo para resolver o procedemento.",
       "Dez días desde que expire o prazo para resolver o procedemento."
     ],
-    "respuestaCorrecta": "Quince días desde que expire o prazo máximo para resolver o procedemento.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "Quince días desde que expire o prazo máximo para resolver o procedemento."
   },
   {
     "id": 1765733632271,
@@ -225,10 +265,16 @@
       "De vinte dias contados dende a súa solicitude."
     ],
     "respuestaCorrecta": "De dez días contados desde a súa solicitude.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765733679185,
+    "tema": [
+      "Examen 2024",
+      "Ley 39/2015"
+    ],
     "enunciado": "Sinala o artigo 30 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas que os prazos expresados en días se contarán a partir:",
     "opciones": [
       "Do día en que teña lugar a notificación ou publicación do acto de que se trate.",
@@ -236,11 +282,14 @@
       "Do día en que se dite o acto de que se trate.",
       "Do día en que se asine o acto de que se trate."
     ],
-    "respuestaCorrecta": "Do día seguinte a aquel en que teña lugar a notificación ou publicación do acto de que se trate.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "Do día seguinte a aquel en que teña lugar a notificación ou publicación do acto de que se trate."
   },
   {
     "id": 1765733727253,
+    "tema": [
+      "Examen 2024",
+      "Ley 39/2015"
+    ],
     "enunciado": "Establece o artigo 32 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común que a Administración poderá conceder, de oficio ou a petición dos interesados, unha ampliación dos prazos establecidos:",
     "opciones": [
       "Que non exceda da metade destes.",
@@ -248,11 +297,14 @@
       "Unicamente naqueles supostos taxados pola propia lei.",
       "Que non exceda do dobre destes."
     ],
-    "respuestaCorrecta": "Que non exceda da metade destes.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "Que non exceda da metade destes."
   },
   {
     "id": 1765733763430,
+    "tema": [
+      "Examen 2024",
+      "Ley 39/2015"
+    ],
     "enunciado": "Segundo o artigo 36 da Lei 39/2015, do 1 de outubro, de procedemento administrativo común das administracións públicas, nos casos en que os órganos administrativos exerzan a súa competencia de forma verbal, a constancia escrita do acto, cando sexa necesaria, será efectuada e asinada:",
     "opciones": [
       "Polo titular da competencia.",
@@ -260,11 +312,14 @@
       "Pola persoa en quen se delegou a competencia.",
       "Polo órgano superior que a reciba oralmente."
     ],
-    "respuestaCorrecta": "Polo titular do órgano inferior ou funcionario que a reciba oralmente.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "Polo titular do órgano inferior ou funcionario que a reciba oralmente."
   },
   {
     "id": 1765733808278,
+    "tema": [
+      "Examen 2024",
+      "Ley 39/2015"
+    ],
     "enunciado": "De acordo co artigo 41 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, cando o interesado fose notificado por distintas vías tomarase como data de notificación:",
     "opciones": [
       "A daquela que se producise a través de medios electrónicos.",
@@ -272,11 +327,14 @@
       "A daquela que se producise en último lugar.",
       "A daquela pola que opte o interesado."
     ],
-    "respuestaCorrecta": "A daquela que se producise en primeiro lugar.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "A daquela que se producise en primeiro lugar."
   },
   {
     "id": 1765733844877,
+    "tema": [
+      "Examen 2024",
+      "Ley 39/2015"
+    ],
     "enunciado": "Cal dos seguintes actos das administracións públicas non serán en todo caso nulos de pleno dereito, segundo o disposto polo artigo 47 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas?:",
     "opciones": [
       "Os que sexan constitutivos de infracción penal.",
@@ -284,11 +342,14 @@
       "Os ditados prescindindo total e absolutamente das normas que conteñen as regras esenciais para a formación da vontade dos órganos colexiados.",
       "Calquera outro que se estableza expresamente nunha disposición con rango de regulamento."
     ],
-    "respuestaCorrecta": "Calquera outro que se estableza expresamente nunha disposición con rango de regulamento.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "Calquera outro que se estableza expresamente nunha disposición con rango de regulamento."
   },
   {
     "id": 1765733889342,
+    "tema": [
+      "Examen 2024",
+      "Ley 39/2015"
+    ],
     "enunciado": "Establece o artigo 48 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, que o defecto de forma só determinará a anulabilidade:",
     "opciones": [
       "Cando así o impoña a natureza do defecto.",
@@ -296,8 +357,7 @@
       "Cando o acto careza de calquera requisito formal para alcanzar o seu fin.",
       "Cando así o dispoña unha norma con rango de Lei Orgánica."
     ],
-    "respuestaCorrecta": "Cando o acto dea lugar á indefensión dos interesados.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "Cando o acto dea lugar á indefensión dos interesados."
   },
   {
     "id": 1765733932440,
@@ -309,10 +369,15 @@
       "Revogación."
     ],
     "respuestaCorrecta": "Conversión de actos viciados.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765733975461,
+    "tema": [
+      "Ley 39/2015"
+    ],
     "enunciado": "Segundo o artigo 52 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, a Administración poderá validar:",
     "opciones": [
       "Os actos anulables.",
@@ -320,8 +385,7 @@
       "Os actos nulos de pleno dereito.",
       "Todos os seus actos."
     ],
-    "respuestaCorrecta": "Os actos anulables.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "Os actos anulables."
   },
   {
     "id": 1765734008397,
@@ -333,7 +397,9 @@
       "As mancomunidades de montes veciñais."
     ],
     "respuestaCorrecta": "As administracións das comunidades autónomas.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734043381,
@@ -345,7 +411,9 @@
       "Plena."
     ],
     "respuestaCorrecta": "Única.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734079294,
@@ -357,7 +425,9 @@
       "É causa de nulidade ou anulabilidade dos actos ditados polos órganos adminstrativos."
     ],
     "respuestaCorrecta": "Non afecta por si só á validez dos actos ditados polos órganos administrativos.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734115053,
@@ -369,7 +439,9 @@
       "Supoñen alteración da competencia e dos elementos concretos do seu exercicio."
     ],
     "respuestaCorrecta": "Non supoñen alteración da titularidade da competencia, aínda que si dos elementos determinantes do seu exercicio que en cada caso se prevén.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734149079,
@@ -381,7 +453,9 @@
       "Poderán ser obxecto de delegación cando unha norma o determine."
     ],
     "respuestaCorrecta": "En ningún caso poderá ser obxecto de delegación.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734192831,
@@ -393,7 +467,9 @@
       "A realización de actividades de carácter material ou inmaterial."
     ],
     "respuestaCorrecta": "Prestacións propias dos contratos regulados na lexislación de contratos do sector público.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734227133,
@@ -405,7 +481,9 @@
       "Publicarase no Diario Oficial de Galicia, Boletín Oficial do Estado e no Diario Oficial da Unión Europea."
     ],
     "respuestaCorrecta": "Non será necesaria a súa publicación.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734263622,
@@ -417,7 +495,9 @@
       "Poderá dirixirse esta circunstancia aos interesados."
     ],
     "respuestaCorrecta": "E deberá notificarlles esta circunstancia aos interesados.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734300582,
@@ -429,7 +509,9 @@
       "Sempre que diten ordes que teñan efectos xurídicos ante a administración."
     ],
     "respuestaCorrecta": "Que diten resolucións que teñan efectos xurídicos fronte a terceiros.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734339998,
@@ -441,7 +523,9 @@
       "A distancia, salvo que o seu regulamento recolla o contrario."
     ],
     "respuestaCorrecta": "Presencial ou a distancia.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734373581,
@@ -453,10 +537,9 @@
       "Sanción administrativa."
     ],
     "respuestaCorrecta": "Abstención e recusación.",
-    "tema": "Examen 2024"
-  },
-  {
-    "id": 1765734420217
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734510743,
@@ -468,7 +551,9 @@
       "Electrónicamente."
     ],
     "respuestaCorrecta": "Por escrito, no que se expresará a causa ou causas en que se funda.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734546183,
@@ -480,7 +565,9 @@
       "As universidades públicas galegas."
     ],
     "respuestaCorrecta": "Delegacións ministeriais na Comunidade Autónoma de Galicia.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734576255,
@@ -492,7 +579,9 @@
       "Persoal laboral."
     ],
     "respuestaCorrecta": "Persoal laboral indefinido.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734607480,
@@ -504,7 +593,9 @@
       "O persoal directivo."
     ],
     "respuestaCorrecta": "O persoal funcionario.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734643311,
@@ -516,7 +607,9 @@
       "Os postos que teñan atribuídas funcións inspectoras."
     ],
     "respuestaCorrecta": "Os postos de natureza non permanente.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734683357,
@@ -528,7 +621,9 @@
       "Exclusivamente de concurso."
     ],
     "respuestaCorrecta": "Concurso-oposición ou de concurso.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734717031,
@@ -540,7 +635,9 @@
       "Resolución do Consello da Xunta."
     ],
     "respuestaCorrecta": "Decreto do Consello da Xunta.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734754246,
@@ -552,7 +649,9 @@
       "Posuír aptitudes físicas ou capacidades psíquicas que sexan necesarias para o desemprego das correspondentes funcións ou tarefas."
     ],
     "respuestaCorrecta": "Estar en posesión da titulación esixida ou estar en condicións de obtela.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734790150,
@@ -564,7 +663,9 @@
       "Estabilización."
     ],
     "respuestaCorrecta": "Oposición.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734821341,
@@ -576,7 +677,9 @@
       "Teleasistencia."
     ],
     "respuestaCorrecta": "Teletraballo.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734855473,
@@ -588,7 +691,9 @@
       "Trinta días hábiles."
     ],
     "respuestaCorrecta": "Trinta días naturais.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734890334,
@@ -600,7 +705,9 @@
       "Poden concederse permisos ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a nove meses."
     ],
     "respuestaCorrecta": "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a seis meses.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734925086,
@@ -612,7 +719,9 @@
       "Vinte días hábiles anuais ou dos días que correspondan proporcionalmente ao tempo de servizos efectivos."
     ],
     "respuestaCorrecta": "Vinte e dous días hábiles anuais ou dos días que correspondan proporcionalmente ao tempo de servizos efectivos.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734963254,
@@ -624,7 +733,9 @@
       "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e a Organización Mundial do Traballo."
     ],
     "respuestaCorrecta": "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e os acordos internacionais ratificados por España.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765734999823,
@@ -636,7 +747,9 @@
       "A situación en que se atopa unha persoa con discapacidade cando é tratada de maneira mais favorable ca outra por motivo ou por razón da súa discapacidade."
     ],
     "respuestaCorrecta": "A situación en que se atopa unha persoa con discapacidade cando é tratada de maneira menos favorable ca outra en situación análoga por motivo ou por razón da súa discapacidade.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735038338,
@@ -648,7 +761,9 @@
       "A igualdade de oportunidades."
     ],
     "respuestaCorrecta": "O dereito á educación.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735092366,
@@ -660,7 +775,9 @@
       "A protección social."
     ],
     "respuestaCorrecta": "A Administración de xustiza.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735120455,
@@ -672,7 +789,9 @@
       "Os edificios e infraestruturas públicas para permitir a accesibilidade das persoas con discapacidade."
     ],
     "respuestaCorrecta": "Os edificios de calquera tipo para permitir a accesibilidade das persoas con discapacidade.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735149051,
@@ -684,7 +803,9 @@
       "As mancomunidades de concellos."
     ],
     "respuestaCorrecta": "Os concellos.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735184464,
@@ -696,7 +817,9 @@
       "En condicións que garantan a aplicación dos principios de equidade de trato e non discriminación."
     ],
     "respuestaCorrecta": "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735213165,
@@ -708,7 +831,9 @@
       "Principio de accesibilidade da información e reutilización dos procesos tecnolóxicos."
     ],
     "respuestaCorrecta": "Principio de accesibilidade universal da información pública e principio de non discriminación tecnolóxica nin lingüística.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735242660,
@@ -720,7 +845,9 @@
       "Trimestralmente."
     ],
     "respuestaCorrecta": "Anualmente.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735274913,
@@ -732,7 +859,9 @@
       "Os suxeitos comprendidos nesta norma teñen a deber de publicar, a iniciativa propia e de forma semestral, actualizada e accesible, toda aquela información relativa ao seu funcionamento."
     ],
     "respuestaCorrecta": "Os suxeitos comprendidos nesta norma comprométense a publicar, a iniciativa propia e de forma periódica, actualizada, clara, veraz, obxectiva e 19/26 facilmente accesible, toda aquela información relevante relativa ao seu funcionamento.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735308716,
@@ -744,7 +873,9 @@
       "A relación de contratos de dirección, con indicación das retribucións mensuais e as indemnizacións previstas ao final do contrato."
     ],
     "respuestaCorrecta": "A relación de contratos de alta dirección, con indicación das retribucións anuais e as indemnizacións previstas ao final do contrato.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735338646,
@@ -756,7 +887,9 @@
       "Non se reutilizará a información do sector público, salvo que o autorice unha norma con rango de lei."
     ],
     "respuestaCorrecta": "Promoverase a reutilización, con fins comerciais ou non comerciais.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735374513,
@@ -768,7 +901,9 @@
       "O procedemento para o exercicio do dereito de acceso iniciarase coa presentación da correspondente solicitude, que deberá dirixirse a calquera administración."
     ],
     "respuestaCorrecta": "O procedemento para o exercicio do dereito de acceso iniciarase coa presentación da correspondente solicitude, que deberá dirixirse á persoa titular do órgano administrativo ou entidade que posúa a información.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735404382,
@@ -780,7 +915,9 @@
       "Contra a resolución expresa do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso extraordinario de revisión."
     ],
     "respuestaCorrecta": "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735439864,
@@ -792,7 +929,9 @@
       "A busca e a eliminación das discriminacións por razóns de xénero."
     ],
     "respuestaCorrecta": "Igualdade de oportunidades entre as persoas de ambos os sexos.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735475399,
@@ -804,7 +943,9 @@
       "Só o acoso por razón de xénero."
     ],
     "respuestaCorrecta": "O acoso ou acoso moral por razón de xénero e o acoso sexual.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735522568,
@@ -816,7 +957,9 @@
       "Unha función da Secretaría Xeral para a Igualdade."
     ],
     "respuestaCorrecta": "Un criterio de actuación da Xunta de Galicia.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735557151,
@@ -828,7 +971,9 @@
       "Comunicar e informar das políticas de igualdade aos distintos organísmos administrativos dos programas de igualdade."
     ],
     "respuestaCorrecta": "A colaboración coa Comisión Consultiva Autonómica para a Igualdade entre Mulleres e Homes na Negociación Colectiva.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735593993,
@@ -840,7 +985,9 @@
       "Apoiar as entidades de Servizos Sociais en materia de igualdade."
     ],
     "respuestaCorrecta": "Garantir o funcionamento de centros e servizos de información e asesoramento ás mulleres en número e dotacións suficientes.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735628862,
@@ -852,7 +999,9 @@
       "Na presentación das propostas de Relación de Postos de Traballo."
     ],
     "respuestaCorrecta": "Con anterioridade a calquera oferta de emprego público.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735674375,
@@ -864,7 +1013,9 @@
       "Desequilibrio."
     ],
     "respuestaCorrecta": "Predominancia.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735699872,
@@ -876,7 +1027,9 @@
       "Para rexistrar a incidencia dentro do ámbito administrativo destas condutas."
     ],
     "respuestaCorrecta": "Previr o acoso sexual.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735731615,
@@ -888,10 +1041,16 @@
       "Durante o proceso de cualificación do procedemento."
     ],
     "respuestaCorrecta": "Durante a instrución dun procedemento que non tivese publicidade.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735763321,
+    "tema": [
+      "Examen 2024",
+      "Ley 39/2015"
+    ],
     "enunciado": "A teor do artigo 48 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, son anulables os actos da Administración:",
     "opciones": [
       "Que lesionen dereitos susceptibles de amparo constitucional.",
@@ -899,8 +1058,7 @@
       "Que teñan un contido imposible.",
       "Os que lesionen os dereitos e liberdades susceptibles de amparo constitucional."
     ],
-    "respuestaCorrecta": "Que incorran en desviación de poder.",
-    "tema": "Examen 2024"
+    "respuestaCorrecta": "Que incorran en desviación de poder."
   },
   {
     "id": 1765735806839,
@@ -912,7 +1070,9 @@
       "O réxime estatutario do persoal ao servizo da administración pública."
     ],
     "respuestaCorrecta": "Os principios do sistema de responsabilidade das administracións públicas.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735848287,
@@ -924,7 +1084,9 @@
       "15 días."
     ],
     "respuestaCorrecta": "3 días.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765735881223,
@@ -936,51 +1098,65 @@
       "Asalariados."
     ],
     "respuestaCorrecta": "Empregados públicos.",
-    "tema": "Examen 2024"
+    "tema": [
+      "Examen 2024"
+    ]
   },
   {
     "id": 1765789251041,
+    "tema": [
+      "Examen 2023",
+      "Ley 39/2015"
+    ],
     "enunciado": "A teor da regulación contida no artigo 4 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, cal dos seguintes supostos non encaixa coa definición de interesado?:",
     "opciones": [
       "O que promova o procedemento como titular de dereitos ou intereses lexítimos individuais ou colectivos.",
       "O que, sen iniciar o procedemento, teña dereitos que poidan resultar afectados pola decisión que nel se adopte.",
       "O que, sen iniciar o procedemento, teña calquera tipo de interese nel."
     ],
-    "respuestaCorrecta": "O que, sen iniciar o procedemento, teña calquera tipo de interese nel.",
-    "tema": "Examen 2023"
+    "respuestaCorrecta": "O que, sen iniciar o procedemento, teña calquera tipo de interese nel."
   },
   {
     "id": 1765789286633,
+    "tema": [
+      "Examen 2023",
+      "Ley 39/2015"
+    ],
     "enunciado": "Conforme ao artigo 5 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común, quen poderá actuar en representación doutra persoa ante as administracións públicas?:",
     "opciones": [
       "As persoas xurídicas en todo caso.",
       "As persoas físicas en todo caso.",
       "As persoas físicas con capacidade de obrar."
     ],
-    "respuestaCorrecta": "As persoas físicas con capacidade de obrar.",
-    "tema": "Examen 2023"
+    "respuestaCorrecta": "As persoas físicas con capacidade de obrar."
   },
   {
     "id": 1765789315557,
+    "tema": [
+      "Examen 2023",
+      "Ley 39/2015"
+    ],
     "enunciado": "Segundo o artigo 10 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, os interesados poderán asinar a través de calquera medio que permita acreditar:",
     "opciones": [
       "A autenticidade da expresión da súa vontade e consentimento, aínda que non acredite a integridade e a inalterabilidade do documento.",
       "A autenticidade da expresión da súa vontade ou a integridade.",
       "A autenticidade da expresión da súa vontade e consentimento, así como a integridade e inalterabilidade do documento."
     ],
-    "respuestaCorrecta": "A autenticidade da expresión da súa vontade e consentimento, así como a integridade e inalterabilidade do documento.",
-    "tema": "Examen 2023"
+    "respuestaCorrecta": "A autenticidade da expresión da súa vontade e consentimento, así como a integridade e inalterabilidade do documento."
   },
   {
     "id": 1765789347246,
+    "tema": [
+      "Examen 2023",
+      "Ley 39/2015"
+    ],
     "enunciado": "Un dos dereitos recoñecidos a quen ten capacidade de obrar ante as administracións públicas no artigo 13 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas é o de comunicarse coas administracións públicas a través de:",
     "opciones": [
       "Un punto de contacto electrónico da Administración.",
       "Un punto de acceso xeral electrónico da Administración.",
       "Un punto de comunicación electrónico da Administración."
     ],
-    "respuestaCorrecta": "Un punto de acceso xeral electrónico da Administración.",
-    "tema": "Examen 2023"
+    "respuestaCorrecta": "Un punto de acceso xeral electrónico da Administración."
   },
   {
     "id": 1765789392125,
@@ -991,7 +1167,9 @@
       "En ambas as dúas por duplicado."
     ],
     "respuestaCorrecta": "Castelán.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789416902,
@@ -1002,7 +1180,9 @@
       "Deberá ser xustificada de acordo co disposto na normativa aplicable."
     ],
     "respuestaCorrecta": "Deberá ser autorizada de acordo co disposto na normativa aplicable.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789459309,
@@ -1013,7 +1193,9 @@
       "En todo caso."
     ],
     "respuestaCorrecta": "Cando así o solicite.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789489758,
@@ -1024,7 +1206,9 @@
       "Dentro dos dez días seguintes á presentación da solicitude iniciadora do procedemento no rexistro da Administración á que pertenza o órgano competente ou organismo para a súa tramitación."
     ],
     "respuestaCorrecta": "Dentro dos dez días seguintes á recepción da solicitude iniciadora do procedemento no rexistro electrónico da Administración ou organismo competente para a súa tramitación.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789515504,
@@ -1035,7 +1219,9 @@
       "Superior a seis meses."
     ],
     "respuestaCorrecta": "Superior ao establecido para a tramitación do procedemento.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789550784,
@@ -1046,7 +1232,9 @@
       "Será necesario identificar o seu destino."
     ],
     "respuestaCorrecta": "Será necesario identificar a súa orixe.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789579501,
@@ -1057,7 +1245,9 @@
       "Cando existan dúbidas derivadas da calidade da copia."
     ],
     "respuestaCorrecta": "Cando existan dúbidas derivadas da calidade da copia.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789620854,
@@ -1068,7 +1258,9 @@
       "Do día en que se dite o acto de que se trate."
     ],
     "respuestaCorrecta": "Do día seguinte a aquel en que teña lugar a notificación ou publicación do acto de que se trate.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789651152,
@@ -1079,7 +1271,9 @@
       "Serán motivados, de conformidade co que dispoñan as normas que regulen as súas convocatorias."
     ],
     "respuestaCorrecta": "Serán motivados, de conformidade co que dispoñan as normas que regulen as súas convocatorias.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789694489,
@@ -1090,7 +1284,9 @@
       "Tres horas."
     ],
     "respuestaCorrecta": "Tres horas.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789714517,
@@ -1101,7 +1297,9 @@
       "A súa anulabilidade."
     ],
     "respuestaCorrecta": "A súa nulidade de pleno dereito.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789747766,
@@ -1112,7 +1310,9 @@
       "O sector público institucional."
     ],
     "respuestaCorrecta": "O sector público institucional.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789779470,
@@ -1123,7 +1323,9 @@
       "Eficacia no cumprimento dos obxectivos fixados."
     ],
     "respuestaCorrecta": "Eficacia no cumprimento dos obxectivos fixados.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789810055,
@@ -1134,7 +1336,9 @@
       "Delimitación dos seus órganos superiores."
     ],
     "respuestaCorrecta": "Dotación dos créditos necesarios para a súa posta en marcha e funcionamento.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789842752,
@@ -1145,7 +1349,9 @@
       "Non afecta por si só á validez dos actos ditados polos órganos administrativos."
     ],
     "respuestaCorrecta": "Non afecta por si só á validez dos actos ditados polos órganos administrativos.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789872767,
@@ -1156,7 +1362,9 @@
       "Non supoñen alteración da titularidade da competencia, nin tampouco dos elementos determinantes do seu exercicio que en cada caso se prevén."
     ],
     "respuestaCorrecta": "Non supoñen alteración da titularidade da competencia, aínda que si dos elementos determinantes do seu exercicio que en cada caso se prevén.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789911694,
@@ -1167,7 +1375,9 @@
       "No Boletín Oficial do Estado en todo caso. 22."
     ],
     "respuestaCorrecta": "No Boletín Oficial do Estado, no da comunidade autónoma ou no da provincia, segundo a Administración a que pertenza o órgano delegante e o ámbito territorial de competencia deste.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789941746,
@@ -1178,7 +1388,9 @@
       "Deberá ser notificado aos interesados no procedemento, se os houber, con anterioridade ou simultaneamente á proposta de resolución que se dite."
     ],
     "respuestaCorrecta": "Deberá ser notificado aos interesados no procedemento, se os houber, con anterioridade ou simultaneamente á resolución final que se dite.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765789973665,
@@ -1189,7 +1401,9 @@
       "Publicarase no Boletín Oficial do Estado."
     ],
     "respuestaCorrecta": "Non será necesaria a súa publicación.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790006800,
@@ -1200,7 +1414,9 @@
       "Formalizarase mediante a sinatura do correspondente convenio."
     ],
     "respuestaCorrecta": "Non será necesaria a súa publicación.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790033574,
@@ -1211,7 +1427,9 @@
       "O órgano administrativo decidirá en cada caso se notifica ou non."
     ],
     "respuestaCorrecta": "E deberá notificarlles esta circunstancia aos interesados.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790066274,
@@ -1222,7 +1440,9 @@
       "Secretario."
     ],
     "respuestaCorrecta": "Secretario.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790092286,
@@ -1233,7 +1453,9 @@
       "Os membros do órgano que voten en contra ou que se absteñan."
     ],
     "respuestaCorrecta": "Os membros do órgano que voten en contra ou que se absteñan.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790118894,
@@ -1244,7 +1466,9 @@
       "Abstención e recusación."
     ],
     "respuestaCorrecta": "Abstención e recusación.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790146015,
@@ -1255,7 +1479,9 @@
       "Verbalmente ou por medios electrónicos."
     ],
     "respuestaCorrecta": "Por escrito, no que se expresará a causa ou causas en que se funda.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790172261,
@@ -1266,7 +1492,9 @@
       "Potestade de autoorganización."
     ],
     "respuestaCorrecta": "Potestade de autoorganización.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790201399,
@@ -1277,7 +1505,9 @@
       "Por medios mecanografados."
     ],
     "respuestaCorrecta": "Por medios electrónicos.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790228089,
@@ -1288,7 +1518,9 @@
       "A lexislación orgánica de universidades e as súas disposicións de desenvolvemento."
     ],
     "respuestaCorrecta": "A lexislación básica estatal que lle resulte de aplicación e pola Lei 2/2015, do 29 de abril, do emprego público de Galicia, coas especialidades reguladas no seu título X.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790258866,
@@ -1299,7 +1531,9 @@
       "Persoal laboral"
     ],
     "respuestaCorrecta": "Persoal funcionario de carreira.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790291505,
@@ -1310,7 +1544,9 @@
       "Amortización do posto que ocupe."
     ],
     "respuestaCorrecta": "Amortización do posto que ocupe.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790318282,
@@ -1321,7 +1557,9 @@
       "Constitúe mérito preferente para a adquisición da condición de persoal eventual."
     ],
     "respuestaCorrecta": "Non constitúe mérito preferente para a adquisición da condición de persoal funcionario de carreira.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790345224,
@@ -1332,7 +1570,9 @@
       "Os postos que teñan atribuídas funcións de cancelación de datos nos rexistros administrativos."
     ],
     "respuestaCorrecta": "Os postos de natureza non permanente.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790374438,
@@ -1343,7 +1583,9 @@
       "Será necesario realizar unha modificación da correspondente relación de postos de traballo. A proposta da modificación deberá efectuarse no prazo máximo de tres meses."
     ],
     "respuestaCorrecta": "Non será necesario realizar unha modificación da correspondente relación de postos de traballo.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790401967,
@@ -1354,7 +1596,9 @@
       "O cesamento do persoal funcionario interino de devandita unidade administrativa."
     ],
     "respuestaCorrecta": "O cesamento do persoal eventual ao que esta nomease.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790428184,
@@ -1365,7 +1609,9 @@
       "As administracións públicas garantirán os dereitos constitucionais e lingüísticos das persoas tanto respecto ao galego, como lingua propia e oficial de Galicia, como ao castelán, lingua oficial en Galicia."
     ],
     "respuestaCorrecta": "As administracións públicas garantirán os dereitos constitucionais e lingüísticos das persoas tanto respecto ao galego, como lingua propia e oficial de Galicia, como ao castelán, lingua oficial en Galicia.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790460935,
@@ -1376,7 +1622,9 @@
       "Concurso-oposición."
     ],
     "respuestaCorrecta": "Oposición.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790485174,
@@ -1387,7 +1635,9 @@
       "Para atender ao coidado dun familiar de primeiro grao de consanguinidade ou afinidade por razóns de enfermidade moi grave."
     ],
     "respuestaCorrecta": "Para atender ao coidado dun familiar de primeiro grao de consanguinidade ou afinidade por razóns de enfermidade moi grave.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790514402,
@@ -1398,7 +1648,9 @@
       "Trinta días naturais."
     ],
     "respuestaCorrecta": "Trinta días naturais.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790547894,
@@ -1409,7 +1661,9 @@
       "Trinta días naturais ininterrompidos."
     ],
     "respuestaCorrecta": "Vinte e dúas semanas ininterrompidas.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790571046,
@@ -1420,7 +1674,9 @@
       "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a dezaoito meses."
     ],
     "respuestaCorrecta": "Poden concederse licenzas ao persoal funcionario para a participación en proxectos ou programas de cooperación para o desenvolvemento e de acción humanitaria por un período non superior a seis meses.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790599153,
@@ -1431,7 +1687,9 @@
       "A situación dunha persoa ou grupo en que se integra cando é obxecto dun trato discriminatorio debido á súa relación con outra por motivo ou por razón de discapacidade."
     ],
     "respuestaCorrecta": "Unha situación que resulta da interacción entre as persoas con deficiencias previsiblemente permanentes e calquera tipo de barreira que limite ou impida a súa participación plena e efectiva na sociedade, en igualdade de condicións coas demais.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790628702,
@@ -1442,7 +1700,9 @@
       "A Administración de xustiza."
     ],
     "respuestaCorrecta": "A Administración de xustiza.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790666351,
@@ -1453,7 +1713,9 @@
       "Son os órganos encargados de valorar e cualificar as situacións de discapacidade para o seu recoñecemento oficial polo órgano administrativo competente."
     ],
     "respuestaCorrecta": "Son os órganos encargados de valorar e cualificar as situacións de discapacidade para o seu recoñecemento oficial polo órgano administrativo competente.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790684639,
@@ -1464,7 +1726,9 @@
       "As comunidades autónomas, sen prexuízo das competencias atribuídas ás entidades locais."
     ],
     "respuestaCorrecta": "Os concellos.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790723386,
@@ -1475,7 +1739,9 @@
       "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación indirecta."
     ],
     "respuestaCorrecta": "En condicións que garantan a aplicación dos principios de igualdade de trato e non discriminación.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790760350,
@@ -1486,7 +1752,9 @@
       "Ao Parlamento de Galicia."
     ],
     "respuestaCorrecta": "Ao Parlamento de Galicia.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790784648,
@@ -1497,7 +1765,9 @@
       "Anualmente."
     ],
     "respuestaCorrecta": "Anualmente.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790808966,
@@ -1508,7 +1778,9 @@
       "Os textos das resolucións xudiciais firmes que afecten a vixencia ou interpretación das normas ditadas pola Administración pública competente."
     ],
     "respuestaCorrecta": "Os textos das resolucións xudiciais firmes que afecten a vixencia ou interpretación das normas ditadas pola Administración pública competente.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790835967,
@@ -1519,7 +1791,9 @@
       "O servizo público obxecto da concesión administrativa, o concesionario e o persoal adscrito á prestación do servizo."
     ],
     "respuestaCorrecta": "O servizo público obxecto da concesión administrativa, a identificación do concesionario, a identificación da persoa responsable do contrato e o persoal adscrito á prestación do servizo.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790867479,
@@ -1530,7 +1804,9 @@
       "A Administración deberá de manter a produción da información de acceso público para a súa reutilización por unha entidade pública ou privada."
     ],
     "respuestaCorrecta": "A Administración non deberá de manter a produción dun determinado tipo de documento con vistas á súa reutilización por unha entidade pública ou privada.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790893431,
@@ -1541,7 +1817,9 @@
       "O dereito de acceso á información pública poderá ser denegado se se acorda polo órgano administrativo competente."
     ],
     "respuestaCorrecta": "O dereito de acceso á información pública só poderá ser limitado ou denegado nos supostos previstos na normativa básica.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790926744,
@@ -1552,7 +1830,9 @@
       "Garantía da dignidade das mulleres."
     ],
     "respuestaCorrecta": "Igualdade de oportunidades entre as persoas de ambos os sexos.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790954798,
@@ -1563,7 +1843,9 @@
       "O acoso moral por razón de xénero non se distingue do acoso sexual."
     ],
     "respuestaCorrecta": "O acoso ou acoso moral por razón de xénero e o acoso sexual.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765790983864,
@@ -1574,7 +1856,9 @@
       "Terán carácter permanente."
     ],
     "respuestaCorrecta": "Non se considerarán discriminatorias.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765791017334,
@@ -1585,7 +1869,9 @@
       "Garantir o funcionamento de centros e servizos de información e asesoramento ás mulleres en número e dotacións suficientes."
     ],
     "respuestaCorrecta": "Garantir o funcionamento de centros e servizos de información e asesoramento ás mulleres en número e dotacións suficientes.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765791047447,
@@ -1596,7 +1882,9 @@
       "A valoración excepcional do esforzo físico nas probas selectivas."
     ],
     "respuestaCorrecta": "Previr o acoso sexual.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765791072153,
@@ -1607,7 +1895,9 @@
       "Tres anos contados desde a data de presentación das solicitudes de inscrición do poder."
     ],
     "respuestaCorrecta": "Cinco anos contados desde a data de inscrición.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765791099935,
@@ -1618,7 +1908,9 @@
       "Deberá ser aprobada polo superior xerárquico común."
     ],
     "respuestaCorrecta": "En ningún caso poderá ser obxecto de delegación.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765791127261,
@@ -1629,7 +1921,9 @@
       "O persoal eventual."
     ],
     "respuestaCorrecta": "O persoal funcionario.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765791154888,
@@ -1640,7 +1934,9 @@
       "Os artigos 9.2, 10, 14 e 49 da Constitución española e a Convención Internacional sobre os Dereitos das Persoas con Discapacidade."
     ],
     "respuestaCorrecta": "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e os acordos internacionais ratificados por España.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765791181758,
@@ -1651,7 +1947,9 @@
       "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo."
     ],
     "respuestaCorrecta": "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo.",
-    "tema": "Examen 2023"
+    "tema": [
+      "Examen 2023"
+    ]
   },
   {
     "id": 1765800000001,
@@ -1662,7 +1960,9 @@
       "Co representante ou co interesado que expresamente se sinalase."
     ],
     "respuestaCorrecta": "Co representante ou co interesado que expresamente se sinalase.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000002,
@@ -1673,7 +1973,9 @@
       "Durante a tramitación de calquera clase de procedemento."
     ],
     "respuestaCorrecta": "Durante a instrución dun procedemento que non tivese publicidade.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000003,
@@ -1684,7 +1986,9 @@
       "Sistemas baseados en certificados electrónicos cualificados de selo electrónico expedidos por prestadores incluídos na \"Lista de confianza de prestadores de servizos de certificación\"."
     ],
     "respuestaCorrecta": "Sistemas baseados en claves electrónicas recoñecidas de certificado electrónico expedidas por prestadores incluídos na \"Lista de confianza de prestadores de servizos de certificación\".",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000004,
@@ -1695,7 +1999,9 @@
       "A autenticidade da expresión da súa vontade e consentimento, así como a integridade e inalterabilidade do documento."
     ],
     "respuestaCorrecta": "A autenticidade da expresión da súa vontade e consentimento, así como a integridade e inalterabilidade do documento.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000005,
@@ -1706,7 +2012,9 @@
       "Presentar documentación no rexistro."
     ],
     "respuestaCorrecta": "Presentar documentación no rexistro.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000006,
@@ -1717,7 +2025,9 @@
       "Deberán ser certificados por algunha das entidades prestadoras de servizos de certificación."
     ],
     "respuestaCorrecta": "Deberán ser dixitalizados pola oficina de asistencia en materia de rexistros na que fosen presentados para a súa incorporación ao expediente administrativo electrónico.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000007,
@@ -1728,7 +2038,9 @@
       "Deberá ser xustificada de acordo co disposto na normativa aplicable."
     ],
     "respuestaCorrecta": "Deberá ser autorizada de acordo co disposto na normativa aplicable.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000008,
@@ -1739,7 +2051,9 @@
       "O dereito a non declaralo á Administración actuante."
     ],
     "respuestaCorrecta": "O deber de proporcionarllos á Administración actuante.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000009,
@@ -1750,7 +2064,9 @@
       "Cando así estea previsto nunha norma con rango de lei."
     ],
     "respuestaCorrecta": "Cando así estea previsto nunha norma con rango de lei.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000010,
@@ -1761,7 +2077,9 @@
       "En todo caso."
     ],
     "respuestaCorrecta": "Cando así o solicite.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000011,
@@ -1772,7 +2090,9 @@
       "Quince días desde que expire o prazo máximo para resolver o procedemento."
     ],
     "respuestaCorrecta": "Quince días desde que expire o prazo máximo para resolver o procedemento.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000012,
@@ -1783,7 +2103,9 @@
       "Procedementos en que a Administración exercite potestades de intervención susceptibles de producir efectos de gravame."
     ],
     "respuestaCorrecta": "Procedementos dos que puidese derivarse o recoñecemento de dereitos.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000013,
@@ -1794,7 +2116,9 @@
       "Será necesario identificar o seu destino."
     ],
     "respuestaCorrecta": "Será necesario identificar a súa orixe.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000014,
@@ -1805,7 +2129,9 @@
       "O proceso telemático que permite converter un documento en soporte papel nun ficheiro dixital que contén a sinatura incorporada do órgano que o emite."
     ],
     "respuestaCorrecta": "O proceso tecnolóxico que permite converter un documento en soporte papel ou noutro soporte non electrónico nun ficheiro electrónico que contén a imaxe codificada, fiel e íntegra do documento.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000015,
@@ -1816,7 +2142,9 @@
       "De dez días contados desde a súa solicitude."
     ],
     "respuestaCorrecta": "De dez días contados desde a súa solicitude.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000016,
@@ -1827,7 +2155,9 @@
       "Eficiencia na asignación e utilización dos recursos públicos."
     ],
     "respuestaCorrecta": "Proporcionalidade.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000017,
@@ -1838,7 +2168,9 @@
       "Delimitación dos seus órganos superiores."
     ],
     "respuestaCorrecta": "Dotación dos créditos necesarios para a súa posta en marcha e funcionamento.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000018,
@@ -1849,7 +2181,9 @@
       "As unidades administrativas ás que se lles atribúan funcións que teñan efectos xurídicos fronte a terceiros ou cuxa actuación teña carácter preceptivo."
     ],
     "respuestaCorrecta": "As unidades administrativas ás que se lles atribúan funcións que teñan efectos xurídicos fronte a terceiros ou cuxa actuación teña carácter preceptivo.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000019,
@@ -1860,7 +2194,9 @@
       "Non afecta por si só á validez dos actos ditados polos órganos administrativos."
     ],
     "respuestaCorrecta": "Non afecta por si só á validez dos actos ditados polos órganos administrativos.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000020,
@@ -1871,7 +2207,9 @@
       "Serán obxecto de publicación cando se estime conveniente por razón do seu contido."
     ],
     "respuestaCorrecta": "Cando unha disposición específica así o estableza.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000021,
@@ -1882,7 +2220,9 @@
       "Dependencia orgánica con respecto á Administración activa."
     ],
     "respuestaCorrecta": "Autonomía orgánica e funcional con respecto á Administración activa.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000022,
@@ -1893,7 +2233,9 @@
       "A lexislación orgánica de universidades e as súas disposicións de desenvolvemento."
     ],
     "respuestaCorrecta": "A lexislación básica estatal que lle resulte de aplicación e pola Lei 2/2015, do 29 de abril, do emprego público de Galicia, coas especialidades reguladas no seu título X.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000023,
@@ -1904,7 +2246,9 @@
       "Non se rexe pola presente lei en ningún caso."
     ],
     "respuestaCorrecta": "Réxese pola normativa reguladora deste órgano e pola presente lei supletoriamente.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000024,
@@ -1915,7 +2259,9 @@
       "Persoal eventual."
     ],
     "respuestaCorrecta": "Persoal laboral indefinido.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000025,
@@ -1926,7 +2272,9 @@
       "Empregados públicos."
     ],
     "respuestaCorrecta": "Empregados públicos.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000026,
@@ -1937,7 +2285,9 @@
       "Persoal laboral."
     ],
     "respuestaCorrecta": "Persoal funcionario de carreira.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000027,
@@ -1948,7 +2298,9 @@
       "Avaliación e responsabilidade na xestión."
     ],
     "respuestaCorrecta": "Igualdade, mérito, capacidade, publicidade e celeridade.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000028,
@@ -1959,7 +2311,9 @@
       "Amortización do posto que ocupe."
     ],
     "respuestaCorrecta": "Amortización do posto que ocupe.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000029,
@@ -1970,7 +2324,9 @@
       "Constitúe mérito preferente para a adquisición da condición de persoal eventual."
     ],
     "respuestaCorrecta": "Non constitúe mérito preferente para a adquisición da condición de persoal funcionario de carreira.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000030,
@@ -1981,7 +2337,9 @@
       "Persoal eventual."
     ],
     "respuestaCorrecta": "Persoal laboral.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000031,
@@ -1992,7 +2350,9 @@
       "Accede mediante procesos selectivos baseados nos principios de mérito e capacidade."
     ],
     "respuestaCorrecta": "Realiza funcións expresamente cualificadas como de confianza ou asesoramento especial.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000032,
@@ -2003,7 +2363,9 @@
       "Ten dereito á carreira profesional horizontal."
     ],
     "respuestaCorrecta": "É nomeado e cesado libremente.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000033,
@@ -2014,7 +2376,9 @@
       "Ten carácter eventual."
     ],
     "respuestaCorrecta": "Exerce funcións directivas profesionais con suxeición a avaliación.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000034,
@@ -2025,7 +2389,9 @@
       "Participación en procesos de mobilidade."
     ],
     "respuestaCorrecta": "Renuncia á condición de funcionario ou funcionaria.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000035,
@@ -2036,7 +2402,9 @@
       "Dereito á propiedade privada."
     ],
     "respuestaCorrecta": "Dereito á negociación colectiva.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000036,
@@ -2047,7 +2415,9 @@
       "Percibir incentivos económicos adicionais."
     ],
     "respuestaCorrecta": "Actuar con neutralidade política.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000037,
@@ -2058,7 +2428,9 @@
       "Só son aplicables ao persoal funcionario de carreira."
     ],
     "respuestaCorrecta": "Establecen os principios éticos e regras de comportamento.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000038,
@@ -2069,7 +2441,9 @@
       "Só se aplica ao persoal laboral."
     ],
     "respuestaCorrecta": "Inclúe a progresión e o desenvolvemento profesional.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000039,
@@ -2080,7 +2454,9 @@
       "Non produce efectos na carreira profesional."
     ],
     "respuestaCorrecta": "É un instrumento para medir a conduta profesional e o rendemento.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000040,
@@ -2091,7 +2467,9 @@
       "Supón sempre perda de dereitos económicos."
     ],
     "respuestaCorrecta": "Permite a adecuación dos recursos humanos ás necesidades do servizo.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000041,
@@ -2102,7 +2480,9 @@
       "Non require publicidade."
     ],
     "respuestaCorrecta": "Atenderá aos principios de igualdade, mérito e capacidade.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000042,
@@ -2113,7 +2493,9 @@
       "Só se realiza ao inicio da relación laboral."
     ],
     "respuestaCorrecta": "Ten carácter obrigatorio cando así se determine.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000043,
@@ -2124,7 +2506,9 @@
       "Só se aplica ao persoal funcionario."
     ],
     "respuestaCorrecta": "Garántese mediante procedementos con audiencia ao interesado.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000044,
@@ -2135,7 +2519,9 @@
       "Só poden ser moi graves."
     ],
     "respuestaCorrecta": "Clasifícanse en leves, graves e moi graves.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000045,
@@ -2146,7 +2532,9 @@
       "Non teñen efectos na carreira profesional."
     ],
     "respuestaCorrecta": "Determínanse en función da gravidade da falta.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000046,
@@ -2157,7 +2545,9 @@
       "É idéntica para todas as faltas."
     ],
     "respuestaCorrecta": "Depende da súa clasificación en leves, graves ou moi graves.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000047,
@@ -2168,7 +2558,9 @@
       "Exclúe calquera outro tipo de responsabilidade."
     ],
     "respuestaCorrecta": "É independente da responsabilidade civil ou penal.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000048,
@@ -2179,7 +2571,9 @@
       "É idéntica á do sector privado en todo caso."
     ],
     "respuestaCorrecta": "Establécese regulamentariamente.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000049,
@@ -2190,7 +2584,9 @@
       "Só se conceden por causas excepcionais."
     ],
     "respuestaCorrecta": "Recoñécense nos termos previstos na lei.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000050,
@@ -2201,7 +2597,9 @@
       "Dependen exclusivamente da antigüidade."
     ],
     "respuestaCorrecta": "Son obrigatorias e retribuídas.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000051,
@@ -2212,7 +2610,9 @@
       "Só se aplica ao persoal funcionario."
     ],
     "respuestaCorrecta": "Recoñécese como dereito dos empregados públicos.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000052,
@@ -2223,7 +2623,9 @@
       "Son idénticas ás do persoal laboral."
     ],
     "respuestaCorrecta": "Regúlanse expresamente na lei.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000053,
@@ -2234,7 +2636,9 @@
       "Non permite percibir retribucións."
     ],
     "respuestaCorrecta": "É unha situación administrativa básica.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000054,
@@ -2245,7 +2649,9 @@
       "Non poden reincorporarse ao servizo activo."
     ],
     "respuestaCorrecta": "Mantén dereitos nos termos previstos legalmente.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000055,
@@ -2256,7 +2662,9 @@
       "Implica sempre a separación do servizo."
     ],
     "respuestaCorrecta": "Pode ter carácter provisional ou firme.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000056,
@@ -2267,7 +2675,9 @@
       "Non están reguladas legalmente."
     ],
     "respuestaCorrecta": "Clasifícanse en básicas e complementarias.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000057,
@@ -2278,7 +2688,9 @@
       "Só existen para o persoal laboral."
     ],
     "respuestaCorrecta": "Vincúlanse ao corpo ou escala.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000058,
@@ -2289,7 +2701,9 @@
       "Son idénticas para todo o persoal."
     ],
     "respuestaCorrecta": "Atienden ás características do posto de traballo.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000059,
@@ -2300,7 +2714,9 @@
       "Son retribucións básicas."
     ],
     "respuestaCorrecta": "Regúlanse conforme á normativa aplicable.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765800000060,
@@ -2311,7 +2727,9 @@
       "Só se aplica en situacións excepcionais."
     ],
     "respuestaCorrecta": "Permite unha xestión racional e eficiente do persoal.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765792006101,
@@ -2322,7 +2740,9 @@
       "As universidades públicas."
     ],
     "respuestaCorrecta": "As entidades que integran a Administración local.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765792006102,
@@ -2333,7 +2753,9 @@
       "Cando as normas desta lei se refiran especificamente a estas, pero non cando exerzan potestades administrativas."
     ],
     "respuestaCorrecta": "Cando as normas desta lei se refiran especificamente a estas e, en todo caso, cando exerzan potestades administrativas.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765792006103,
@@ -2344,7 +2766,9 @@
       "O procedemento administrativo común."
     ],
     "respuestaCorrecta": "Os principios do sistema de responsabilidade das administracións públicas.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765792006104,
@@ -2355,7 +2779,9 @@
       "Establecer e regular a organización e o funcionamento da Administración local e do seu sector público institucional para o desenvolvemento das súas actividades."
     ],
     "respuestaCorrecta": "Establecer e regular a organización e o funcionamento da Administración xeral do Estado e do seu sector público institucional para o desenvolvemento das súas actividades.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 1765792006105,
@@ -2366,7 +2792,9 @@
       "A determinación das normas aplicables a todo o persoal funcionario de carreira e laboral ao servizo das administracións públicas incluídas no seu ámbito de aplicación."
     ],
     "respuestaCorrecta": "A determinación das normas aplicables a todo o persoal ao servizo das administracións públicas incluídas no seu ámbito de aplicación.",
-    "tema": "Adquisicion_2023_A"
+    "tema": [
+      "Adquisicion_2023_A"
+    ]
   },
   {
     "id": 2765792006101,
@@ -2377,7 +2805,9 @@
       "Co representante ou co interesado que expresamente se sinalase."
     ],
     "respuestaCorrecta": "Co representante ou co interesado que expresamente se sinalase.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006102,
@@ -2388,7 +2818,9 @@
       "Durante a tramitación de calquera clase de procedemento."
     ],
     "respuestaCorrecta": "Durante a instrución dun procedemento que non tivese publicidade.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006103,
@@ -2399,7 +2831,9 @@
       "Sistemas baseados en certificados electrónicos cualificados de selo electrónico expedidos por prestadores incluídos na “Lista de confianza de prestadores de servizos de certificación”."
     ],
     "respuestaCorrecta": "Sistemas baseados en claves electrónicas recoñecidas de certificado electrónico expedidas por prestadores incluídos na “Lista de confianza de prestadores de servizos de certificación”.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006104,
@@ -2410,7 +2844,9 @@
       "A autenticidade da expresión da súa vontade e consentimento, así como a integridade e inalterabilidade do documento."
     ],
     "respuestaCorrecta": "A autenticidade da expresión da súa vontade e consentimento, así como a integridade e inalterabilidade do documento.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006105,
@@ -2421,7 +2857,9 @@
       "Presentar documentación no rexistro."
     ],
     "respuestaCorrecta": "Presentar documentación no rexistro.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006106,
@@ -2432,7 +2870,9 @@
       "Deberán ser certificados por algunha das entidades prestadoras de servizos de certificación."
     ],
     "respuestaCorrecta": "Deberán ser dixitalizados pola oficina de asistencia en materia de rexistros na que fosen presentados para a súa incorporación ao expediente administrativo electrónico.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006107,
@@ -2443,7 +2883,9 @@
       "Deberá ser xustificada de acordo co disposto na normativa aplicable."
     ],
     "respuestaCorrecta": "Deberá ser autorizada de acordo co disposto na normativa aplicable.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006108,
@@ -2454,7 +2896,9 @@
       "O dereito a non declaralo á Administración actuante."
     ],
     "respuestaCorrecta": "O deber de proporcionarllos á Administración actuante.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006109,
@@ -2465,7 +2909,9 @@
       "Cando así estea previsto nunha norma con rango de lei."
     ],
     "respuestaCorrecta": "Cando así estea previsto nunha norma con rango de lei.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006110,
@@ -2476,7 +2922,9 @@
       "En todo caso."
     ],
     "respuestaCorrecta": "Cando así o solicite.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006111,
@@ -2487,7 +2935,9 @@
       "Quince días desde que expire o prazo máximo para resolver o procedemento."
     ],
     "respuestaCorrecta": "Quince días desde que expire o prazo máximo para resolver o procedemento.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006112,
@@ -2498,7 +2948,9 @@
       "Procedementos en que a Administración exercite potestades de intervención susceptibles de producir efectos de gravame."
     ],
     "respuestaCorrecta": "Procedementos dos que puidese derivarse o recoñecemento de dereitos.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006113,
@@ -2509,7 +2961,9 @@
       "Será necesario identificar o seu destino."
     ],
     "respuestaCorrecta": "Será necesario identificar a súa orixe.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006114,
@@ -2520,7 +2974,9 @@
       "O proceso telemático que permite converter un documento en soporte papel nun ficheiro dixital que contén a sinatura incorporada do órgano que o emite."
     ],
     "respuestaCorrecta": "O proceso tecnolóxico que permite converter un documento en soporte papel ou noutro soporte non electrónico nun ficheiro electrónico que contén a imaxe codificada, fiel e íntegra do documento.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006115,
@@ -2531,7 +2987,9 @@
       "De dez días contados desde a súa solicitude."
     ],
     "respuestaCorrecta": "De dez días contados desde a súa solicitude.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006116,
@@ -2542,7 +3000,9 @@
       "Eficiencia na asignación e utilización dos recursos públicos."
     ],
     "respuestaCorrecta": "Proporcionalidade.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006117,
@@ -2553,7 +3013,9 @@
       "Delimitación dos seus órganos superiores."
     ],
     "respuestaCorrecta": "Dotación dos créditos necesarios para a súa posta en marcha e funcionamento.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006118,
@@ -2564,7 +3026,9 @@
       "As unidades administrativas ás que se lles atribúan funcións que teñan efectos xurídicos fronte a terceiros ou cuxa actuación teña carácter preceptivo."
     ],
     "respuestaCorrecta": "As unidades administrativas ás que se lles atribúan funcións que teñan efectos xurídicos fronte a terceiros ou cuxa actuación teña carácter preceptivo.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006119,
@@ -2575,7 +3039,9 @@
       "Non afecta por si só á validez dos actos ditados polos órganos administrativos."
     ],
     "respuestaCorrecta": "Non afecta por si só á validez dos actos ditados polos órganos administrativos.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006120,
@@ -2586,7 +3052,9 @@
       "Serán obxecto de publicación cando se estime conveniente por razón do seu contido."
     ],
     "respuestaCorrecta": "Cando unha disposición específica así o estableza.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006121,
@@ -2597,7 +3065,9 @@
       "Dependencia orgánica con respecto á Administración activa."
     ],
     "respuestaCorrecta": "Autonomía orgánica e funcional con respecto á Administración activa.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006122,
@@ -2608,7 +3078,9 @@
       "A lexislación orgánica de universidades e as súas disposicións de desenvolvemento."
     ],
     "respuestaCorrecta": "A lexislación básica estatal que lle resulte de aplicación e pola Lei 2/2015, do 29 de abril, do emprego público de Galicia, coas especialidades reguladas no seu título X.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006123,
@@ -2619,7 +3091,9 @@
       "Non se rexe pola presente lei en ningún caso."
     ],
     "respuestaCorrecta": "Réxese pola normativa reguladora deste órgano e pola presente lei supletoriamente.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006124,
@@ -2630,7 +3104,9 @@
       "Persoal eventual."
     ],
     "respuestaCorrecta": "Persoal laboral indefinido.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006125,
@@ -2641,7 +3117,9 @@
       "Empregados públicos."
     ],
     "respuestaCorrecta": "Empregados públicos.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006126,
@@ -2652,7 +3130,9 @@
       "Persoal laboral."
     ],
     "respuestaCorrecta": "Persoal funcionario de carreira.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006127,
@@ -2663,7 +3143,9 @@
       "Avaliación e responsabilidade na xestión."
     ],
     "respuestaCorrecta": "Igualdade, mérito, capacidade, publicidade e celeridade.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006128,
@@ -2674,7 +3156,9 @@
       "Amortización do posto que ocupe."
     ],
     "respuestaCorrecta": "Amortización do posto que ocupe.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006129,
@@ -2685,7 +3169,9 @@
       "Constitúe mérito preferente para a adquisición da condición de persoal eventual."
     ],
     "respuestaCorrecta": "Non constitúe mérito preferente para a adquisición da condición de persoal funcionario de carreira.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006130,
@@ -2696,7 +3182,9 @@
       "Persoal eventual."
     ],
     "respuestaCorrecta": "Persoal laboral.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006131,
@@ -2707,7 +3195,9 @@
       "Os postos que teñan atribuídas funcións de cancelación de datos nos rexistros administrativos."
     ],
     "respuestaCorrecta": "Os postos de natureza non permanente.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006132,
@@ -2718,7 +3208,9 @@
       "Non ten a consideración de materia obxecto de negociación individual para os efectos desta lei."
     ],
     "respuestaCorrecta": "Non ten a consideración de materia obxecto de negociación colectiva para os efectos desta lei.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006133,
@@ -2729,7 +3221,9 @@
       "Orde do conselleiro de Facenda."
     ],
     "respuestaCorrecta": "Decreto do Consello da Xunta.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006134,
@@ -2740,7 +3234,9 @@
       "Estableceraos anualmente o Consello da Xunta e figurarán recollidos nunha relación de postos directivos de contido análogo ao da relación de postos de traballo."
     ],
     "respuestaCorrecta": "Recolleranse nunha relación de postos directivos de contido análogo ao da relación de postos de traballo.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006135,
@@ -2751,7 +3247,9 @@
       "Non ser sancionado mediante expediente disciplinario en ningunha Administración pública."
     ],
     "respuestaCorrecta": "Estar en posesión da titulación esixida ou estar en condicións de obtela.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006136,
@@ -2762,7 +3260,9 @@
       "As administracións públicas garantirán os dereitos constitucionais e lingüísticos das persoas tanto respecto ao galego, como lingua propia e oficial de Galicia, como ao castelán, lingua oficial en Galicia."
     ],
     "respuestaCorrecta": "As administracións públicas garantirán os dereitos constitucionais e lingüísticos das persoas tanto respecto ao galego, como lingua propia e oficial de Galicia, como ao castelán, lingua oficial en Galicia.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006137,
@@ -2773,7 +3273,9 @@
       "Incluirase un exame de galego soamente nos casos nos que se así se estableza nas bases das convocatorias dos procesos selectivos."
     ],
     "respuestaCorrecta": "Incluirase un exame de galego, excepto para aquelas persoas que acrediten o coñecemento da lingua galega de conformidade coa normativa vixente.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006138,
@@ -2784,7 +3286,9 @@
       "Os artigos 9.2, 10, 14 e 49 da Constitución española e a Convención Internacional sobre os Dereitos das Persoas con Discapacidade."
     ],
     "respuestaCorrecta": "Os artigos 9.2, 10, 14 e 49 da Constitución española, a Convención Internacional sobre os Dereitos das Persoas con Discapacidade e os tratados e acordos internacionais ratificados por España.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006139,
@@ -2795,7 +3299,9 @@
       "A situación dunha persoa ou grupo en que se integra cando é obxecto dun trato discriminatorio debido á súa relación con outra por motivo ou por razón de discapacidade."
     ],
     "respuestaCorrecta": "Unha situación que resulta da interacción entre as persoas con deficiencias previsiblemente permanentes e calquera tipo de barreira que limite ou impida a súa participación plena e efectiva na sociedade, en igualdade de condicións coas demais.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006140,
@@ -2806,7 +3312,9 @@
       "A situación dunha persoa ou grupo en que se integra cando é obxecto dun trato discriminatorio debido á súa relación con outra por motivo ou por razón de discapacidade."
     ],
     "respuestaCorrecta": "A situación en que se atopa unha persoa con discapacidade cando é tratada de maneira menos favorable ca outra en situación análoga por motivo ou por razón da súa discapacidade.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006141,
@@ -2817,7 +3325,9 @@
       "Toda conduta non desexada relacionada coa discapacidade dunha persoa que teña como obxectivo ou consecuencia atentar contra a súa dignidade ou crear unha contorna intimidatoria, hostil, degradante, humillante ou ofensiva."
     ],
     "respuestaCorrecta": "Toda conduta non desexada relacionada coa discapacidade dunha persoa que teña como obxectivo ou consecuencia atentar contra a súa dignidade ou crear unha contorna intimidatoria, hostil, degradante, humillante ou ofensiva.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006142,
@@ -2828,7 +3338,9 @@
       "Aquelas de carácter específico no ámbito laboral destinadas a evitar tanto a discriminación directa como a indirecta."
     ],
     "respuestaCorrecta": "Aquelas de carácter específico consistentes en evitar ou compensar as desvantaxes derivadas da discapacidade e destinadas a acelerar ou lograr a igualdade de feito das persoas con discapacidade e a súa participación plena nos ámbitos da vida política, económica, social, educativa, laboral e cultural, atendendo aos diferentes tipos e graos de discapacidade.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006143,
@@ -2839,7 +3351,9 @@
       "O dereito á educación."
     ],
     "respuestaCorrecta": "O dereito á educación.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006144,
@@ -2850,7 +3364,9 @@
       "Realizarase nos termos establecidos regulamentariamente e especificará as medidas de acción positiva que resulten de aplicación."
     ],
     "respuestaCorrecta": "Realizarase nos termos establecidos regulamentariamente e terá validez en todo o territorio nacional.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006145,
@@ -2861,9 +3377,11 @@
       "A Administración de xustiza."
     ],
     "respuestaCorrecta": "A Administración de xustiza.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
-   {
+  {
     "id": 1765792006131,
     "enunciado": "En base ao artigo 10 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, as persoas con discapacidade teñen dereito á protección da saúde, o que inclúe:",
     "opciones": [
@@ -2872,7 +3390,9 @@
       "A prevención da enfermidade e a protección, promoción e recuperación da saúde, agás o referido á saúde mental."
     ],
     "respuestaCorrecta": "A prevención da enfermidade e a protección, promoción e recuperación da saúde, con especial atención á saúde mental e á saúde sexual e reprodutiva.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006132,
@@ -2883,7 +3403,9 @@
       "Son os órganos encargados de valorar e cualificar as situacións de discapacidade para o seu recoñecemento oficial polo órgano administrativo competente."
     ],
     "respuestaCorrecta": "Son os órganos encargados de valorar e cualificar as situacións de discapacidade para o seu recoñecemento oficial polo órgano administrativo competente.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006133,
@@ -2894,7 +3416,9 @@
       "Á gratuidade do ensino, cando este se desenvolva nos centros especiais."
     ],
     "respuestaCorrecta": "A unha educación inclusiva, de calidade e gratuíta, en igualdade de condicións coas demais.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006134,
@@ -2905,7 +3429,9 @@
       "A desenvolvida cun financiamento público."
     ],
     "respuestaCorrecta": "A desenvolvida cun financiamento público.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006135,
@@ -2916,7 +3442,9 @@
       "Principio de accesibilidade universal da información pública, principio de responsabilidade e principio de utilización lexítima da información."
     ],
     "respuestaCorrecta": "Principio de accesibilidade universal da información pública e principio de non discriminación tecnolóxica nin lingüística.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006136,
@@ -2927,7 +3455,9 @@
       "A calquera Administración pública ou entidade privada."
     ],
     "respuestaCorrecta": "A calquera entidade privada que reciba ou xestione fondos públicos.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006137,
@@ -2938,7 +3468,9 @@
       "Ao Parlamento de Galicia."
     ],
     "respuestaCorrecta": "Ao Parlamento de Galicia.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006138,
@@ -2949,7 +3481,9 @@
       "Regulamentariamente determinarase o procedemento das multas coercitivas aplicables."
     ],
     "respuestaCorrecta": "Regulamentariamente determinarase o procedemento das multas coercitivas aplicables.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006139,
@@ -2960,7 +3494,9 @@
       "Anualmente."
     ],
     "respuestaCorrecta": "Anualmente.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006140,
@@ -2971,7 +3507,9 @@
       "Os suxeitos comprendidos nesta norma teñen a obrigación de publicar, a iniciativa propia e de forma periódica, actualizada e facilmente accesible, toda aquela información relativa ao seu funcionamento."
     ],
     "respuestaCorrecta": "Os suxeitos comprendidos nesta norma comprométense a publicar, a iniciativa propia e de forma periódica, actualizada, clara, veraz, obxectiva e facilmente accesible, toda aquela información relevante relativa ao seu funcionamento.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006141,
@@ -2982,7 +3520,9 @@
       "A emisión de informes sobre o impacto de xénero dos regulamentos autonómicos."
     ],
     "respuestaCorrecta": "A colaboración coa Comisión Consultiva Autonómica para a Igualdade entre Mulleres e Homes na Negociación Colectiva.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006142,
@@ -2993,7 +3533,9 @@
       "Garantir o funcionamento de centros e servizos de información e asesoramento ás mulleres en número e dotacións suficientes."
     ],
     "respuestaCorrecta": "Garantir o funcionamento de centros e servizos de información e asesoramento ás mulleres en número e dotacións suficientes.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006143,
@@ -3004,7 +3546,9 @@
       "Unha vez finalizado o proceso selectivo."
     ],
     "respuestaCorrecta": "Con anterioridade a calquera oferta de emprego público.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 2765792006144,
@@ -3015,7 +3559,9 @@
       "Unha puntuación específica, que se graduará en función do tempo utilizado no exercicio deses dereitos."
     ],
     "respuestaCorrecta": "Unha puntuación específica, que se graduará en función do tempo utilizado no exercicio deses dereitos.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006145,
@@ -3026,7 +3572,9 @@
       "As universidades públicas."
     ],
     "respuestaCorrecta": "As entidades que integran a Administración local.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006146,
@@ -3037,7 +3585,9 @@
       "Cando as normas desta lei se refiran especificamente a estas, pero non cando exerzan potestades administrativas."
     ],
     "respuestaCorrecta": "Cando as normas desta lei se refiran especificamente a estas e, en todo caso, cando exerzan potestades administrativas.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006147,
@@ -3048,7 +3598,9 @@
       "O procedemento administrativo común."
     ],
     "respuestaCorrecta": "Os principios do sistema de responsabilidade das administracións públicas.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006148,
@@ -3059,7 +3611,9 @@
       "Establecer e regular a organización e o funcionamento da Administración local e do seu sector público institucional para o desenvolvemento das súas actividades."
     ],
     "respuestaCorrecta": "Establecer e regular a organización e o funcionamento da Administración xeral do Estado e do seu sector público institucional para o desenvolvemento das súas actividades.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
   },
   {
     "id": 1765792006149,
@@ -3070,6 +3624,22 @@
       "A determinación das normas aplicables a todo o persoal funcionario de carreira e laboral ao servizo das administracións públicas incluídas no seu ámbito de aplicación."
     ],
     "respuestaCorrecta": "A determinación das normas aplicables a todo o persoal ao servizo das administracións públicas incluídas no seu ámbito de aplicación.",
-    "tema": "Adquisicion_2024_A"
+    "tema": [
+      "Adquisicion_2024_A"
+    ]
+  },
+  {
+    "id": 1766046305393,
+    "enunciado": "prueba de 3 temas",
+    "opciones": [
+      "tema1",
+      "tema2"
+    ],
+    "respuestaCorrecta": "tema1",
+    "tema": [
+      "javascript",
+      "css",
+      "html"
+    ]
   }
 ]

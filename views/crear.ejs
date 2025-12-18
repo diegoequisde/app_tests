@@ -1,4 +1,6 @@
 <%- include('partials/header', { title: 'Crear Pregunta' }) %>
+<%- include('partials/navbar') %>
+
 <h1>Nueva pregunta</h1>
 
 <form action="/preguntas/crear" method="POST">
@@ -20,11 +22,17 @@
 
   <div>
     <label>Tema:</label>
-    <select name="tema" id="tema-select" required>
-      <% temas.forEach(t => { %>
-        <option value="<%= t %>"><%= t %></option>
-      <% }) %>
-    </select>
+    <div id="temas-container">
+      <div class="tema-select">
+        <select name="tema[]">
+          <% temas.forEach(t => { %>
+            <option value="<%= t %>"><%= t %></option>
+          <% }) %>
+        </select>
+      </div>
+    </div>
+    <button type="button" id="add-tema">+ Añadir tema</button>
+
   </div>
 
   <div>
@@ -49,16 +57,32 @@
     div.querySelector(".remove-option").addEventListener("click", () => div.remove());
   });
 
-  // Crear nuevo tema
-  document.getElementById("btn-nuevo-tema").addEventListener("click", () => {
-    const nuevo = prompt("Introduce el nombre del nuevo tema:");
-    if (nuevo && nuevo.trim() !== "") {
-      const select = document.getElementById("tema-select");
-      const option = document.createElement("option");
-      option.value = nuevo.trim();
-      option.textContent = nuevo.trim();
-      option.selected = true;
-      select.appendChild(option);
-    }
-  });
+  // Añadir nuevo selector de tema con opción de eliminar
+  document.getElementById('add-tema').addEventListener('click', function() {
+    const container = document.getElementById('temas-container');
+    const selects = container.querySelectorAll('select');
+    if (selects.length === 0) return; // seguridad
+
+    // Clonamos el último select del contenedor
+    const nuevoSelect = selects[selects.length - 1].cloneNode(true);
+    nuevoSelect.selectedIndex = 0;
+
+    // Añadirlo envuelto en div con botón de eliminar
+    const wrapper = document.createElement('div');
+    wrapper.className = 'tema-select-wrapper';
+    wrapper.appendChild(nuevoSelect);
+
+    // Crear botón "X" para eliminar
+    const btnEliminar = document.createElement('button');
+    btnEliminar.type = 'button';
+    btnEliminar.textContent = 'X';
+    btnEliminar.className = 'btn-eliminar-tema';
+    btnEliminar.addEventListener('click', () => {
+        container.removeChild(wrapper);
+    });
+
+    wrapper.appendChild(btnEliminar);
+    container.appendChild(wrapper);
+});
+
 </script>
