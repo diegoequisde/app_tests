@@ -1,0 +1,11 @@
+
+Corto plazo:
+- Detectar preguntas duplicadas (porque están en examenes de varios años) y pasarlas como una unica pregunta con varios temas (examen 2023, examen 2024, ley 39)
+- maquetar /preguntas 
+- en cada pregunta se muestra a qué temas pertenece (tags)
+
+Medio plazo:
+- que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta.
+
+Largo plazo:
+- Compilar y convertir en apk (ultimo de todo) -> mirar como se pueden sincronizar datos añadidos desde movil para actualizar la bd

@@ -3885,5 +3885,915 @@
       "css",
       "html"
     ]
+  },
+  {
+    "id": 1766221003195,
+    "enunciado": "De acuerdo con lo dispuesto en el artículo 6 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, cuál de los siguientes datos no está previsto que forme parte de la información mínima que debe de constar en los asientos que se realicen en los registros electrónicos generales y particulares de apoderamientos?",
+    "opciones": [
+      "Período de tiempo por el cuál se otorga el poder.",
+      "Objeto del apoderamiento.",
+      "Fecha de inscripción."
+    ],
+    "respuestaCorrecta": "Objeto del apoderamiento.",
+    "tema": [
+      "Examen 2025",
+      "Ley 39/2015"
+    ]
+  },
+  {
+    "id": 1766221043254,
+    "enunciado": "Se les comunicará la tramitación de un procedimiento a las personas que sean titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente y que puedan resultar afectados por la resolución que se dicte (artículo 8 de la LPAC):",
+    "opciones": [
+      "En cualquier momento anterior al trámite de audiencia.",
+      "Durante la instrucción de un procedimiento que no tuviera publicidad.",
+      "Durante la tramitación de cualquier clase de procedimiento."
+    ],
+    "respuestaCorrecta": "Durante la instrucción de un procedimiento que no tuviera publicidad.",
+    "tema": [
+      "Examen 2025",
+      "Ley 39/2015"
+    ]
+  },
+  {
+    "id": 1766221078226,
+    "enunciado": "Según el artículo 1 O de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, los interesados podrán firmar a través de cualquier medio que permita acreditar:",
+    "opciones": [
+      "La autenticidad de la expresión de su voluntad y consentimiento, aunque no acredite la integridad y la inalterabilidad del documento.",
+      "La autenticidad de la expresión de su voluntad o la integridad.",
+      "La autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento."
+    ],
+    "respuestaCorrecta": "La autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento.",
+    "tema": [
+      "Examen 2025",
+      "Ley 39/2015"
+    ]
+  },
+  {
+    "id": 1766221117368,
+    "enunciado": "La Administración general del Estado, las comunidades autónomas y las entidades locales mantendrán actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la identificación o firma regulada en el artículo 12 de la Ley 39/2015, de 1 de  octubre, de procedimiento administrativo común. Estos registros o sistemas deberán ser plenamente interoperables y estar interconectados con los de las restantes administraciones públicas (artículo 12 de la LPAC):",
+    "opciones": [
+      "A los efectos de comprobar la validez de las citadas habilitaciones.",
+      "A los efectos de agilizar la tramitación de los procedimientos administrativos.",
+      "A los efectos de garantizar los principios de transparencia y proximidad al ciudadano."
+    ],
+    "respuestaCorrecta": "A los efectos de comprobar la validez de las citadas habilitaciones.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117369,
+    "enunciado": "¿Qué dice el artículo 14 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas acerca de las comunicaciones a través de medios electrónicos entre la Administración y los administrados?",
+    "opciones": [
+      "Que las personas físicas podrán elegir en todo momento se se comunican con las administraciones públicas a través de dichos medios o no.",
+      "Que las personas jurídicas podrán elegir si se comunican con las administraciones públicas a través de dichos medios o no, salvo que ejerzan una actividad profesional.",
+      "Que las personas físicas podrán elegir en todo momento si se comunican con las administraciones públicas a través de dichos medios o no, salvo que estén obligadas a relacionarse a través de medios electrónicos con las administraciones públicas."
+    ],
+    "respuestaCorrecta": "Que las personas físicas podrán elegir en todo momento si se comunican con las administraciones públicas a través de dichos medios o no, salvo que estén obligadas a relacionarse a través de medios electrónicos con las administraciones públicas.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117370,
+    "enunciado": "Señala el artículo 16 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas que los documentos presentados de manera presencial ante las administraciones públicas:",
+    "opciones": [
+      "Deberán ser digitalizados por la oficina de asistencia en materia de registros en la que fueran presentados para su incorporación al expediente administrativo electrónico.",
+      "Deberán ser digitalizados por los interesados para su incorporación al expediente administrativo electrónico.",
+      "Deberán ser certificados por alguna de las entidades prestatarias de servicios de certificación."
+    ],
+    "respuestaCorrecta": "Deberán ser digitalizados por la oficina de asistencia en materia de registros en la que fueran presentados para su incorporación al expediente administrativo electrónico.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117371,
+    "enunciado": "Los documentos electrónicos deberán conservarse en un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta, con independencia del tiempo transcurrido desde su emisión. La eliminación de dichos documentos (artículo 17 de la LPAC):",
+    "opciones": [
+      "Deberá ser autorizada de acuerdo con lo dispuesto en la normativa aplicable.",
+      "Deberá ser comunicada de acuerdo con lo dispuesto en la normativa aplicable.",
+      "Deberá ser justificada de acuerdo con lo dispuesto en la normativa aplicable."
+    ],
+    "respuestaCorrecta": "Deberá ser autorizada de acuerdo con lo dispuesto en la normativa aplicable.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117372,
+    "enunciado": "Según el artículo 18 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, los interesados en un procedimiento que conozcan datos que permitan identificar otros interesados que no comparecieran en él tienen:",
+    "opciones": [
+      "El deber de proporcionárselos a la Administración actuante.",
+      "El deber de comunicárselo a esa persona.",
+      "El derecho a no declararlo a la Administración actuante."
+    ],
+    "respuestaCorrecta": "El deber de proporcionárselos a la Administración actuante.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117373,
+    "enunciado": "Señala el artículo 19 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas que la comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, solo será obligatoria:",
+    "opciones": [
+      "En supuestos excepcionales debidamente acreditados.",
+      "Cuando sea necesario para la correcta tramitación del expediente.",
+      "Cuando así esté previsto en una norma con rango de ley."
+    ],
+    "respuestaCorrecta": "Cuando así esté previsto en una norma con rango de ley.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117374,
+    "enunciado": "Aclara el artículo 19 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas que las administraciones públicas le entregarán al interesado certificación acreditativa de la comparecencia:",
+    "opciones": [
+      "Cuando así lo solicite.",
+      "Únicamente cuando esta comparecencia fuera presencial.",
+      "En todo caso."
+    ],
+    "respuestaCorrecta": "Cuando así lo solicite.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117375,
+    "enunciado": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación, excepto (artículo 21 de la LPAC):",
+    "opciones": [
+      "Los supuestos de terminación del procedimiento por pacto o convenio.",
+      "Los procedimientos de responsabilidad patrimonial.",
+      "Los procedimientos sancionadores."
+    ],
+    "respuestaCorrecta": "Los supuestos de terminación del procedimiento por pacto o convenio.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117376,
+    "enunciado": "En todo caso, las administraciones públicas informarán a los interesados del plazo máximo establecido para la resolución de los procedimientos y para la notificación de los actos que les pongan término, así como de los efectos que pueda producir el silencio administrativo. Dicha mención se incluirá en la notificación o publicación del acuerdo de iniciación de oficio o en la comunicación que se dirigirá al efecto al interesado (artículo 21 de la LPAC):",
+    "opciones": [
+      "Dentro de los diez días siguientes a la presentación de la solicitud iniciadora del procedimiento en el registro del órgano competente para resolver.",
+      "Dentro de los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u organismo competente para su tramitación.",
+      "Dentro de los diez días siguientes a la presentación de la solicitud iniciadora del procedimiento en el registro de la Administración a la que pertenezca el órgano competente u organismo para su tramitación."
+    ],
+    "respuestaCorrecta": "Dentro de los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u organismo competente para su tramitación.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117377,
+    "enunciado": "Excepcionalmente, cuando se agoten los medios personales y materiales disponibles, el órgano competente para resolver podrá acordar de manera motivada la ampliación del plazo máximo de resolución y notificación, sin que pueda ser este con carácter general (artículo 23 de la LPAC):",
+    "opciones": [
+      "Superior al establecido para la tramitación del procedimiento.",
+      "Superior a tres meses.",
+      "Superior a seis meses."
+    ],
+    "respuestaCorrecta": "Superior al establecido para la tramitación del procedimiento.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117378,
+    "enunciado": "El artículo 27 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas define la digitalización como:",
+    "opciones": [
+      "El proceso técnico que permite convertir un documento en un fichero digital que contiene la identidad del órgano que expidió el documento.",
+      "El proceso tecnológico que permite convertir un documento en soporte papel o en otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel y íntegra del documento.",
+      "El proceso telemático que permite convertir un documento en soporte papel en un fichero digital que contiene la firma incorporada del órgano que lo emite."
+    ],
+    "respuestaCorrecta": "El proceso tecnológico que permite convertir un documento en soporte papel o en otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel y íntegra del documento.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117379,
+    "enunciado": "En ausencia de oposición del interesado, las administraciones públicas deberán solicitar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto. Cuando se trate de informes preceptivos ya elaborados por un órgano administrativo distinto a lo que tramita el procedimiento, estos deberán ser remitidos en el plazo (artículo 28 de la LPAC):",
+    "opciones": [
+      "De quince días contados desde su solicitud.",
+      "Que determine el órgano que lo solicite, que en ningún caso podrá ser superior a diez días.",
+      "De diez días contados desde su solicitud."
+    ],
+    "respuestaCorrecta": "De diez días contados desde su solicitud.",
+    "tema": [
+      "Ley 39/2015",
+      "Examen 2025"
+    ]
+  },
+  {
+    "id": 1766221117380,
+    "tema": [
+      "Examen 2025",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Según el artículo 1 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, esta ley tiene por objeto:",
+    "opciones": [
+      "Establecer y regular la organización y el funcionamiento de la Administración general del Estado y de su sector público institucional para el desarrollo de sus actividades.",
+      "Establecer y regular la organización y el funcionamiento de la Administración autonómica y de su sector público institucional para el desarrollo de sus actividades.",
+      "Establecer y regular la organización y el funcionamiento de la Administración local y de su sector público institucional para el desarrollo de sus actividades."
+    ],
+    "respuestaCorrecta": "Establecer y regular la organización y el funcionamiento de la Administración general del Estado y de su sector público institucional para el desarrollo de sus actividades."
+  },
+  {
+    "id": 1766221117381,
+    "tema": [
+      "Examen 2025",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme a lo dispuesto en el artículo 2 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, tienen la consideración de administraciones públicas:",
+    "opciones": [
+      "Las administraciones de las comunidades autónomas.",
+      "Las entidades de derecho privado vinculadas o dependientes de las administraciones públicas.",
+      "Las universidades privadas."
+    ],
+    "respuestaCorrecta": "Las administraciones de las comunidades autónomas."
+  },
+  {
+    "id": 1766221117382,
+    "tema": [
+      "Examen 2025",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme a lo dispuesto en el artículo 3 de la Ley 40/2015, del 1 octubre, de régimen jurídico del sector público, cada una de las administraciones públicas actúa para el cumplimiento de sus fines con personalidad jurídica:",
+    "opciones": [
+      "Propia.",
+      "Las administraciones públicas carecen de personalidad jurídica.",
+      "Única."
+    ],
+    "respuestaCorrecta": "Única."
+  },
+  {
+    "id": 1766221117383,
+    "tema": [
+      "Examen 2025",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme a lo dispuesto en el artículo 6 de la Ley 40/2015, del 1 octubre, de régimen jurídico del sector público, el incumplimiento de las instrucciones u órdenes de servicio:",
+    "opciones": [
+      "Es causa de nulidad de pleno derecho de los actos dictados por los órganos administrativos.",
+      "Es causa de anulabilidad de los actos dictados por los órganos administrativos.",
+      "No afecta por sí solo a la validez de los actos dictados por los órganos administrativos."
+    ],
+    "respuestaCorrecta": "No afecta por sí solo a la validez de los actos dictados por los órganos administrativos."
+  },
+  {
+    "id": 1766221117384,
+    "tema": [
+      "Examen 2025",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme a lo dispuesto en el artículo 6 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, las instrucciones y órdenes de servicio se publicarán en el boletín oficial que corresponda:",
+    "opciones": [
+      "Cuando una disposición específica así lo establezca.",
+      "En ningún caso serán objeto de publicación.",
+      "Serán objeto de publicación cuando se estime conveniente por razón de su contenido."
+    ],
+    "respuestaCorrecta": "Cuando una disposición específica así lo establezca."
+  },
+  {
+    "id": 1766221117385,
+    "tema": [
+      "Examen 2025",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme a lo dispuesto en el artículo 7 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, los servicios que forman parte de la Administración consultiva y que prestan asistencia jurídica:",
+    "opciones": [
+      "Podrán recibir instrucciones, directrices o cualquier clase de indicación de los órganos que elaboraran las disposiciones o produjeran los actos objeto de consulta en situaciones de urgencia.",
+      "Podrán recibir instrucciones, directrices o cualquier clase de indicación de los órganos que elaboraran las disposiciones o produjeran los actos objeto de consulta cuando así se establezca en su norma de creación.",
+      "No podrán recibir instrucciones, directrices o cualquier clase de indicación de los órganos que elaboraran las disposiciones o produjeran los actos objeto de consulta."
+    ],
+    "respuestaCorrecta": "No podrán recibir instrucciones, directrices o cualquier clase de indicación de los órganos que elaboraran las disposiciones o produjeran los actos objeto de consulta."
+  },
+  {
+    "id": 1766221117386,
+    "enunciado": "Conforme a lo dispuesto en el artículo 2 de la Ley 2/2015, de 29 de abril, del empleo público de Galicia, la potestad que faculta la Comunidad Autónoma de Galicia para estructurar, establecer el régimen jurídico y dirigir y fijar los objetivos de la función pública gallega se denomina:",
+    "opciones": [
+      "Potestad de programación.",
+      "Potestad reglamentaria.",
+      "Potestad de autoorganización."
+    ],
+    "respuestaCorrecta": "Potestad de autoorganización.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117387,
+    "enunciado": "De acuerdo con lo establecido en el artículo 3 de la Ley 2/2015, de 29 abril, del empleo público de Galicia, el régimen jurídico del personal incluido en el ámbito de aplicación de la citada ley no se basa en uno de los siguientes principios:",
+    "opciones": [
+      "Desarrollo y cualificación profesional permanente de los empleados públicos.",
+      "Igualdad en la atribución, ordenación y desempeño de las funciones y tareas.",
+      "Eficacia en la planificación y gestión de los recursos humanos."
+    ],
+    "respuestaCorrecta": "Igualdad en la atribución, ordenación y desempeño de las funciones y tareas.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117388,
+    "enunciado": "Conforme a lo dispuesto en el artículo 6 de la Ley 2/2015, de 29 de abril, del empleo público de Galicia, esta ley es de aplicación al personal docente dependiente de la Administración general de la Comunidad Autónoma de Galicia y al personal estatutario del Servicio Gallego de Salud, excepto en lo relativo a la materia siguiente:",
+    "opciones": [
+      "Carrera profesional y promoción interna.",
+      "Retribuciones básicas.",
+      "Régimen disciplinario."
+    ],
+    "respuestaCorrecta": "Carrera profesional y promoción interna.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117389,
+    "enunciado": "Conforme a lo dispuesto en el artículo 20 de la Ley 2/2015, de 29 de abril, del empleo público de Galicia, las personas que desempeñan funciones retribuidas al servicio de los intereses generales en las administraciones públicas incluidas en el ámbito de aplicación de esta ley se denominan:",
+    "opciones": [
+      "Trabajadores.",
+      "Autónomos.",
+      "Empleados públicos."
+    ],
+    "respuestaCorrecta": "Empleados públicos.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117390,
+    "enunciado": "Conforme a lo dispuesto en el artículo 21 de la Ley 2/2015, de 29 de abril, del empleo público de Galicia, las personas que, en virtud de nombramiento legal, están vinculadas a la Administración pública por una relación estatutaria regulada por el derecho administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente se denominan:",
+    "opciones": [
+      "Personal funcionario de carrera.",
+      "Personal eventual.",
+      "Personal laboral."
+    ],
+    "respuestaCorrecta": "Personal funcionario de carrera.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117391,
+    "enunciado": "De acuerdo con lo establecido en el artículo 22 de la Ley 2/2015, de 29 abril, del empleo público de Galicia, los puestos que tengan atribuidas funciones que impliquen la realización de tareas de contabilidad y tesorería serán reservados necesariamente en las relaciones de puestos de trabajo a:",
+    "opciones": [
+      "El personal funcionario interino.",
+      "El personal funcionario.",
+      "El personal laboral."
+    ],
+    "respuestaCorrecta": "El personal funcionario.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117392,
+    "enunciado": "De acuerdo con lo establecido en el artículo 23 de la Ley 2/2015, de 29 abril, del empleo público de Galicia, el exceso o acumulación de tareas, de carácter excepcional y circunstancial, será:",
+    "opciones": [
+      "Por un plazo máximo de nueve meses dentro de un período de dieciocho meses.",
+      "Por un plazo máximo de nueve meses dentro de un período de doce.",
+      "No hay un plazo máximo."
+    ],
+    "respuestaCorrecta": "Por un plazo máximo de nueve meses dentro de un período de dieciocho meses.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117393,
+    "enunciado": "De acuerdo con lo establecido en el artículo 25 de la Ley 2/2015, de 29 abril, del empleo público de Galicia, la prestación de servicios en régimen interino:",
+    "opciones": [
+      "Constituye mérito preferente para la adquisición de la condición de personal funcionario de carrera.",
+      "No constituye mérito preferente para la adquisición de la condición de personal funcionario de carrera.",
+      "Constituye mérito preferente para la adquisición de la condición de personal eventual."
+    ],
+    "respuestaCorrecta": "No constituye mérito preferente para la adquisición de la condición de personal funcionario de carrera.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117394,
+    "enunciado": "De acuerdo con lo establecido en el artículo 27 de la Ley 2/2015, de 29 abril, del empleo público de Galicia, los puestos de trabajo vacantes que puedan ser desempeñados por personal laboral y que se consideren de provisión urgente e inaplazable pueden ser cubiertos mediante:",
+    "opciones": [
+      "Una empresa de trabajo temporal.",
+      "La contratación de personal laboral temporal.",
+      "La contratación de personal eventual."
+    ],
+    "respuestaCorrecta": "La contratación de personal laboral temporal.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117395,
+    "enunciado": "Según lo recogido en el artículo 26 de la Ley 2/2015, de 29 de abril, del empleo público de Galicia, pueden ser desempeñados por personal laboral:",
+    "opciones": [
+      "Los puestos de naturaleza no permanente.",
+      "Los puestos que tengan atribuidas funciones de inscripción y anotación de datos en los registros administrativos.",
+      "Los puestos que tengan atribuidas funciones de cancelación de datos en los registros administrativos."
+    ],
+    "respuestaCorrecta": "Los puestos de naturaleza no permanente.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117396,
+    "enunciado": "De acuerdo con lo establecido en el artículo 30 de la Ley 2/2015, de 29 abril, del empleo público de Galicia, el cese de la autoridad que efectuó el nombramiento produce necesariamente:",
+    "opciones": [
+      "El cese del personal eventual al que ésta nombrara.",
+      "El cese del personal laboral temporal al que ésta nombrara.",
+      "El cese del personal funcionario interino de dicha unidad administrativa."
+    ],
+    "respuestaCorrecta": "El cese del personal eventual al que ésta nombrara.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117397,
+    "enunciado": "En base a lo señalado en el artículo 28 de la Ley 2/2015, de 29 de abril, de empleo público de Galicia, cuando una sentencia judicial firme reconozca una situación laboral de carácter indefinido y la persona afectada pueda ser adscrita a un puesto de trabajo vacante:",
+    "opciones": [
+      "Será necesario realizar una modificación de la correspondiente relación de puestos de trabajo.",
+      "No será necesario realizar una modificación de la correspondiente relación de puestos de trabajo.",
+      "Será necesario realizar una modificación de la correspondiente relación de puestos de trabajo. La propuesta de la modificación deberá efectuarse en el plazo máximo de tres meses."
+    ],
+    "respuestaCorrecta": "No será necesario realizar una modificación de la correspondiente relación de puestos de trabajo.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117398,
+    "enunciado": "El artículo 33 de la Ley 2/2015, de 29 de abril, del empleo público de Galicia, indica que los puestos que sean cubiertos por personal directivo:",
+    "opciones": [
+      "Se recogerán en una relación de puestos directivos de contenido análogo al de la relación de puestos de trabajo.",
+      "Los establecerá anualmente el Consello da Xunta dentro de los correspondientes créditos presupuestarios consignados al efecto.",
+      "Los establecerá anualmente el Consello da Xunta y figurarán recogidos en una relación de puestos directivos de contenido análogo al de la relación de puestos de trabajo."
+    ],
+    "respuestaCorrecta": "Se recogerán en una relación de puestos directivos de contenido análogo al de la relación de puestos de trabajo.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117399,
+    "enunciado": "Conforme a lo dispuesto en el artículo 50 de la Ley 2/2015, de 29 abril, del empleo público de Galicia, es un requisito general para la participación en los procesos selectivos el siguiente:",
+    "opciones": [
+      "Estar en posesión de la titulación exigida o estar en condiciones de obtenerla.",
+      "Tener cumplidos los catorce años.",
+      "No ser sancionado mediante expediente disciplinario en ninguna Administración pública."
+    ],
+    "respuestaCorrecta": "Estar en posesión de la titulación exigida o estar en condiciones de obtenerla.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117400,
+    "enunciado": "Conforme a lo dispuesto en el artículo 51 de la Ley 2/2015, de 29 abril, del empleo público de Galicia:",
+    "opciones": [
+      "Las administraciones públicas garantizarán los derechos constitucionales y lingüísticos de las personas respecto al gallego, como única lengua oficial de Galicia.",
+      "Las administraciones públicas garantizarán los derechos constitucionales y lingüísticos de las personas respecto al castellano, como única lengua oficial de Galicia.",
+      "Las administraciones públicas garantizarán los derechos constitucionales y lingüísticos de las personas tanto respecto al gallego, como lengua propia y oficial de Galicia, como al castellano, lengua oficial en Galicia."
+    ],
+    "respuestaCorrecta": "Las administraciones públicas garantizarán los derechos constitucionales y lingüísticos de las personas tanto respecto al gallego, como lengua propia y oficial de Galicia, como al castellano, lengua oficial en Galicia.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117401,
+    "enunciado": "Conforme a lo dispuesto en el artículo 54 de la Ley 2/2015, de 29 abril, del empleo público de Galicia, concurrirán en un turno separado de los demás aspirantes, siempre que así se justificara para el mejor desarrollo de sus pruebas selectivas:",
+    "opciones": [
+      "Las personas, cualquiera que sea su nacionalidad, descendientes del cónyuge no separado de derecho de personas que posean la nacionalidad española o de otros Estados Miembros de la Unión Europea, siempre que sean menores de veintiún años.",
+      "Las personas con discapacidad.",
+      "Las personas, cualquiera que sea su nacionalidad, descendientes de personas que posean la nacionalidad española o de otros Estados Miembros de la Unión Europea, siempre que sean menores de veintiún años."
+    ],
+    "respuestaCorrecta": "Las personas con discapacidad.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766221117402,
+    "enunciado": "En base al artículo 1 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, esta norma tiene por objeto la garantía de derechos de las personas con discapacidad conforme a:",
+    "opciones": [
+      "Los artículos 9.2, 10, 14 y 49 de la Constitución española, la Convención Internacional sobre los Derechos de las Personas con Discapacidad y el Tratado de la Unión Europea.",
+      "Los artículos 9.2, 10, 14 y 49 de la Constitución española, la Convención Internacional sobre los Derechos de las Personas con Discapacidad y los tratados y acuerdos internacionales ratificados por España.",
+      "Los artículos 9.2, 10, 14 y 49 de la Constitución española y la Convención Internacional sobre los Derechos de las Personas con Discapacidad."
+    ],
+    "respuestaCorrecta": "Los artículos 9.2, 10, 14 y 49 de la Constitución española, la Convención Internacional sobre los Derechos de las Personas con Discapacidad y los tratados y acuerdos internacionales ratificados por España.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117403,
+    "enunciado": "De acuerdo con el artículo 2 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, la discapacidad es:",
+    "opciones": [
+      "La situación en que se encuentra una persona cuando es tratada de manera menos favorable que otra.",
+      "Una situación que resulta de la interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barrera que limite o impida su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás.",
+      "La situación de una persona o grupo en que se integra cuando es objeto de un trato discriminatorio debido a su relación con otra por motivo o por razón de discapacidad."
+    ],
+    "respuestaCorrecta": "Una situación que resulta de la interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barrera que limite o impida su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117404,
+    "enunciado": "De acuerdo con el artículo 2 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, la discriminación directa es:",
+    "opciones": [
+      "La situación en que se encuentra una persona con discapacidad cuando es tratada de manera menos favorable que otra en situación análoga por motivo o por razón de su discapacidad.",
+      "La situación en la que la persona con discapacidad no ejerce el poder de decisión sobre su propia existencia.",
+      "La situación de una persona o grupo en que se integra cuando es objeto de un trato discriminatorio debido a su relación con otra por motivo o por razón de discapacidad."
+    ],
+    "respuestaCorrecta": "La situación en que se encuentra una persona con discapacidad cuando es tratada de manera menos favorable que otra en situación análoga por motivo o por razón de su discapacidad.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117405,
+    "enunciado": "De acuerdo con el artículo 2 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, se entiende por acoso:",
+    "opciones": [
+      "Toda conducta relacionada con la discapacidad de una persona que tenga como objetivo atentar contra su dignidad o crear un entorno intimidatorio, hostil, degradante, humillante u ofensivo, siempre que objetivamente no respondan a una finalidad legítima.",
+      "Toda conducta relacionada con la discapacidad de una persona que tenga como objetivo atentar contra su dignidad conforme al derecho al libre desarrollo de la personalidad.",
+      "Toda conducta no deseada relacionada con la discapacidad de una persona que tenga como objetivo o consecuencia atentar contra su dignidad o crear un entorno intimidatorio, hostil, degradante, humillante u ofensivo."
+    ],
+    "respuestaCorrecta": "Toda conducta no deseada relacionada con la discapacidad de una persona que tenga como objetivo o consecuencia atentar contra su dignidad o crear un entorno intimidatorio, hostil, degradante, humillante u ofensivo.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117406,
+    "enunciado": "De acuerdo con el artículo 2 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, se entiende por medidas de acción positiva:",
+    "opciones": [
+      "Aquellas de carácter específico consistentes en evitar o compensar las desventajas derivadas de la discapacidad y destinadas a acelerar o lograr la igualdad de hecho de las personas con discapacidad y su participación plena en los ámbitos de la vida política, económica, social, educativa, laboral y cultural, atendiendo a los diferentes tipos y grados de discapacidad.",
+      "Aquellas de carácter específico destinadas a evitar la discriminación directa.",
+      "Aquellas de carácter específico en el ámbito laboral destinadas a evitar tanto la discriminación directa como la indirecta."
+    ],
+    "respuestaCorrecta": "Aquellas de carácter específico consistentes en evitar o compensar las desventajas derivadas de la discapacidad y destinadas a acelerar o lograr la igualdad de hecho de las personas con discapacidad y su participación plena en los ámbitos de la vida política, económica, social, educativa, laboral y cultural, atendiendo a los diferentes tipos y grados de discapacidad.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117407,
+    "enunciado": "En base al artículo 3 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, no son principios de esta ley:",
+    "opciones": [
+      "La vida independiente.",
+      "La normalización.",
+      "El derecho a la educación."
+    ],
+    "respuestaCorrecta": "El derecho a la educación.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117408,
+    "enunciado": "De acuerdo con el artículo 4 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, la acreditación del grado de discapacidad:",
+    "opciones": [
+      "Se realizará en los términos establecidos reglamentariamente y tendrá validez en todo el territorio nacional.",
+      "Se realizará en los términos establecidos reglamentariamente y tendrá validez en el territorio de la comunidad autónoma.",
+      "Se realizará en los términos establecidos reglamentariamente y especificará las medidas de acción positiva que resulten de aplicación."
+    ],
+    "respuestaCorrecta": "Se realizará en los términos establecidos reglamentariamente y tendrá validez en todo el territorio nacional.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117409,
+    "enunciado": "En base al artículo 5 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, las medidas específicas para garantizar la igualdad de oportunidades, la no discriminación y la accesibilidad universal se aplicarán, además de a los derechos regulados en el título I, a:",
+    "opciones": [
+      "La educación.",
+      "La protección de la salud.",
+      "La Administración de justicia."
+    ],
+    "respuestaCorrecta": "La Administración de justicia.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117410,
+    "enunciado": "En base al artículo 10 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, las personas con discapacidad tienen derecho a la protección de la salud, lo que incluye:",
+    "opciones": [
+      "La prevención de la enfermedad y la protección, promoción y recuperación de la salud, excepto lo referido a la salud sexual y reproductiva.",
+      "La prevención de la enfermedad y la protección, promoción y recuperación de la salud, con especial atención a la salud mental y a la salud sexual y reproductiva.",
+      "La prevención de la enfermedad y la protección, promoción y recuperación de la salud, excepto lo referido a la salud mental."
+    ],
+    "respuestaCorrecta": "La prevención de la enfermedad y la protección, promoción y recuperación de la salud, con especial atención a la salud mental y a la salud sexual y reproductiva.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117411,
+    "enunciado": "En base al artículo 12 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, los equipos multiprofesionales de atención a la discapacidad:",
+    "opciones": [
+      "Son los órganos encargados de establecer los criterios para el reconocimiento de la incapacidad permanente en el grado de total.",
+      "Son unidades de la Administración general del Estado que actúan en el ámbito de todo el territorio nacional, encargados de la rehabilitación profesional.",
+      "Son los órganos encargados de valorar y calificar las situaciones de discapacidad para su reconocimiento oficial por el órgano administrativo competente."
+    ],
+    "respuestaCorrecta": "Son los órganos encargados de valorar y calificar las situaciones de discapacidad para su reconocimiento oficial por el órgano administrativo competente.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117412,
+    "enunciado": "De acuerdo con el artículo 18 del Real decreto legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social, las personas con discapacidad en su etapa educativa tendrán derecho:",
+    "opciones": [
+      "A una educación de calidad, con preferencia en centros especiales.",
+      "A una educación inclusiva, de calidad y gratuita, en igualdad de condiciones con las demás.",
+      "A la gratuidad de la enseñanza, cuando ésta se desarrolle en los centros especiales."
+    ],
+    "respuestaCorrecta": "A una educación inclusiva, de calidad y gratuita, en igualdad de condiciones con las demás.",
+    "tema": [
+      "Examen 2025",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766221117413,
+    "temas": [
+      "Examen 2025",
+      "Ley 1/2016"
+    ],
+    "pregunta": "En base al artículo 1 de la Ley 1/2016, de 18 de enero, de transparencia y buen gobierno, se entiende por actividad pública:",
+    "opciones": [
+      "Únicamente la desarrollada por el sector público autonómico.",
+      "Únicamente la desarrollada por la Administración general de Galicia.",
+      "La desarrollada con una financiación pública."
+    ],
+    "respuestaCorrecta": "La desarrollada con una financiación pública."
+  },
+  {
+    "id": 1766221117414,
+    "temas": [
+      "Examen 2025",
+      "Ley 1/2016"
+    ],
+    "pregunta": "Según lo establecido en el artículo 2 de la Ley 1/2016 de 18 de enero, de transparencia y buen gobierno, entre sus principios rectores se encuentra:",
+    "opciones": [
+      "Principio de accesibilidad universal de la información pública, principio de responsabilidad patrimonial y principio de reutilización de la información.",
+      "Principio de accesibilidad universal de la información pública y principio de no discriminación tecnológica ni lingüística.",
+      "Principio de accesibilidad universal de la información pública, principio de responsabilidad y principio de utilización legítima de la información."
+    ],
+    "respuestaCorrecta": "Principio de accesibilidad universal de la información pública y principio de no discriminación tecnológica ni lingüística."
+  },
+  {
+    "id": 1766221117415,
+    "temas": [
+      "Examen 2025",
+      "Ley 1/2016"
+    ],
+    "pregunta": "De conformidad con lo establecido en el artículo 3.3 de la Ley 1/2016 de 18 de enero, de transparencia y buen gobierno, las disposiciones de este título serán de aplicación:",
+    "opciones": [
+      "A cualquier entidad privada que reciba o gestione fondos públicos.",
+      "A La Administración pública, excluídas las entidades privadas.",
+      "A cualquier Administración pública o entidad privada."
+    ],
+    "respuestaCorrecta": "A cualquier entidad privada que reciba o gestione fondos públicos."
+  },
+  {
+    "id": 1766221117416,
+    "temas": [
+      "Examen 2025",
+      "Ley 1/2016"
+    ],
+    "pregunta": "En base al artículo 3 de la Ley 1/2016, de 18 de enero, de transparencia y buen gobierno, las disposiciones del título I, titulado \"Transparencia de la actividad pública\", serán de aplicación:",
+    "opciones": [
+      "A los partidos políticos.",
+      "A las organizaciones sindicales.",
+      "Al Parlamento de Galicia."
+    ],
+    "respuestaCorrecta": "Al Parlamento de Galicia."
+  },
+  {
+    "id": 1766221117417,
+    "temas": [
+      "Examen 2025",
+      "Ley 1/2016"
+    ],
+    "pregunta": "De conformidad con lo establecido en el artículo 4.4 de la Ley 1/2016 de 18 de enero, de transparencia y buen gobierno, sobre la obligación para suministrar información:",
+    "opciones": [
+      "Se podrán fijar multas coercitivas, en todo caso.",
+      "La ley prevé una obligación de suministrar información, pero no la imposición de multas coercitivas.",
+      "Reglamentariamente se determinará el procedimiento de las multas coercitivas aplicables."
+    ],
+    "respuestaCorrecta": "Reglamentariamente se determinará el procedimiento de las multas coercitivas aplicables."
+  },
+  {
+    "id": 1766221117418,
+    "temas": [
+      "Examen 2025",
+      "Ley 1/2016"
+    ],
+    "pregunta": "De acuerdo con el artículo 5 de la Ley 1/2016, de 18 de enero, de transparencia y buen gobierno, la Xunta de Galicia hará público en el Portal de transparencia un informe aprobado por la Comisión Interdepartamental de Información y Evaluación:",
+    "opciones": [
+      "Mensualmente.",
+      "Semestralmente.",
+      "Anualmente."
+    ],
+    "respuestaCorrecta": "Anualmente."
+  },
+  {
+    "id": 1766221117419,
+    "temas": [
+      "Examen 2025",
+      "Ley 1/2016"
+    ],
+    "pregunta": "De conformidad con lo establecido en el artículo 6.1 de la Ley 1/2016 de 18 de enero, de transparencia y buen gobierno, sobre la publicidad activa:",
+    "opciones": [
+      "Los sujetos comprendidos en esta norma se comprometen a publicar de forma periódica, actualizada y objetiva toda la información relativa a su funcionamiento.",
+      "Los sujetos comprendidos en esta norma se comprometen a publicar, a iniciativa propia y de forma periódica, actualizada, clara, veraz, objetiva y fácilmente accesible, toda aquella información relevante relativa a su funcionamiento.",
+      "Los sujetos comprendidos en esta norma tienen la obligación de publicar, a iniciativa propia y de forma periódica, actualizada y fácilmente accesible, toda aquella información relativa a su funcionamiento."
+    ],
+    "respuestaCorrecta": "Los sujetos comprendidos en esta norma se comprometen a publicar, a iniciativa propia y de forma periódica, actualizada, clara, veraz, objetiva y fácilmente accesible, toda aquella información relevante relativa a su funcionamiento."
+  },
+  {
+    "id": 1766221117420,
+    "temas": [
+      "Examen 2025",
+      "Ley 1/2016"
+    ],
+    "pregunta": "En base al artículo 7 de la Ley 1/2016, de 18 de enero, de transparencia y buen gobierno, atendiendo a las obligaciones específicas de información institucional, organizativa y de planificación, se publicarán:",
+    "opciones": [
+      "Los códigos éticos o de buen gobierno aprobados, así como los estándares de buenas prácticas y responsabilidad social que aplica.",
+      "Los códigos éticos o de buen gobierno aprobados, sin especificar la responsabilidad que aplica.",
+      "Los códigos éticos o de buen gobierno aprobados, así como los estándares de buenas prácticas, cuando así lo exija la normativa básica estatal."
+    ],
+    "respuestaCorrecta": "Los códigos éticos o de buen gobierno aprobados, así como los estándares de buenas prácticas y responsabilidad social que aplica."
+  },
+  {
+    "id": 1766221117421,
+    "temas": [
+      "Examen 2025",
+      "DL 2/2015(derogado) -> 7/2023"
+    ],
+    "pregunta": "Según lo dispuesto en el artículo 1 del Decreto legislativo 2/2015, de 12 de febrero, por el que se aprueba el texto refundido de las disposiciones legales de la Comunidad Autónoma de Galicia en materia de igualdad, la Comunidad Autónoma de Galicia refuerza su compromiso en la eliminación de la discriminación entre mujeres y de hombres y en la promoción de la igualdad, atribuyéndole a mayor efectividad posible, en su campo de competencias, al principio constitucional de:",
+    "opciones": [
+      "Igualdad de oportunidades entre las personas de ambos sexos.",
+      "Participación desequilibrada de los hombres en la toma de decisiones.",
+      "Garantía de la dignidad de las mujeres."
+    ],
+    "respuestaCorrecta": "Igualdad de oportunidades entre las personas de ambos sexos."
+  },
+  {
+    "id": 1766221117422,
+    "temas": [
+      "Examen 2025",
+      "DL 2/2015(derogado) -> 7/2023"
+    ],
+    "pregunta": "De acuerdo con el artículo 2 del Decreto legislativo 2/2015, de 12 de febrero, por el que se aprueba el texto refundido de las disposiciones legales de la Comunidad Autónoma de Galicia en materia de igualdad, a los efectos de esta norma, el concepto de discriminación incluirá:",
+    "opciones": [
+      "El acoso o acoso moral por razón de género y el acoso sexual.",
+      "Únicamente el acoso sexual.",
+      "El acoso moral por razón de género no se distingue del acoso sexual."
+    ],
+    "respuestaCorrecta": "El acoso o acoso moral por razón de género y el acoso sexual."
+  },
+  {
+    "id": 1766221117423,
+    "temas": [
+      "Examen 2025",
+      "DL 2/2015(derogado) -> 7/2023"
+    ],
+    "pregunta": "Conforme a lo dispuesto en el artículo 5 de Decreto legislativo 2/2015, del 12 febrero, por el que se aprueba el texto refundido de las disposiciones legales de la Comunidad Autónoma de Galicia en materia de igualdad, la conciliación del empleo y de la vida familiar de las mujeres y hombres y el fomento de la individualización de los derechos tendentes a esa conciliación se considera:",
+    "opciones": [
+      "Un criterio de actuación de la Xunta de Galicia.",
+      "Una función de la Comisión Interdepartamental de Igualdad.",
+      "Una función del Consejo Gallego de las Mujeres."
+    ],
+    "respuestaCorrecta": "Un criterio de actuación de la Xunta de Galicia."
+  },
+  {
+    "id": 1766221117424,
+    "temas": [
+      "Examen 2025",
+      "DL 2/2015(derogado) -> 7/2023"
+    ],
+    "pregunta": "Conforme a lo dispuesto en el artículo 51 del Decreto legislativo 2/2015, de 12 de febrero, por el que se aprueba el texto refundido de las disposiciones legales de la Comunidad Autónoma de Galicia en materia de igualdad, cuando las pruebas de promoción interna comprendan la valoración de méritos de las personas candidatas se establecerá a favor de estas que, sean mujeres o sean hombres, estén utilizando o utilizaran, en los últimos cinco años, una licencia de maternidad, un permiso de paternidad, una reducción de jornada o una excedencia para el cuidado de familiares:",
+    "opciones": [
+      "Una puntuación superior para las mujeres.",
+      "Una puntuación superior para los hombres.",
+      "Una puntuación específica, que se escalonará en función del tiempo utilizado en el ejercicio de esos derechos."
+    ],
+    "respuestaCorrecta": "Una puntuación específica, que se escalonará en función del tiempo utilizado en el ejercicio de esos derechos."
+  },
+  {
+    "id": 1766224116182,
+    "enunciado": "A los efectos de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas y según lo señalado por el artículo 2 de la dicha ley, cuál de las siguientes entidades no forma parte del sector público institucional?:",
+    "opciones": [
+      "Las entidades de derecho privado vinculadas o dependientes de las administraciones públicas.",
+      "Las entidades que integran la Administración local.",
+      "Las universidades públicas."
+    ],
+    "respuestaCorrecta": "Las entidades que integran la Administración local.",
+    "tema": [
+      "Examen 2025",
+      "Ley 39/2015"
+    ]
+  },
+  {
+    "id": 1766224150097,
+    "enunciado": "Según el artículo 2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, las entidades de derecho privado dependientes de las administraciones públicas quedarán sujetas a lo dispuesto en esta ley:",
+    "opciones": [
+      "Solo cuando ejerzan potestades administrativas.",
+      "Cuando las normas de esta ley se refieran específicamente a estas y, en todo caso, cuando ejerzan potestades administrativas.",
+      "Cuando las normas de esta ley se refieran específicamente a estas, pero no cuando ejerzan potestades administrativas."
+    ],
+    "respuestaCorrecta": "Cuando las normas de esta ley se refieran específicamente a estas y, en todo caso, cuando ejerzan potestades administrativas.",
+    "tema": [
+      "Examen 2025",
+      "Ley 39/2015"
+    ]
+  },
+  {
+    "id": 1766224179843,
+    "enunciado": "Conforme a lo dispuesto en el artículo 1 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, esta ley establece y regula:",
+    "opciones": [
+      "Los principios del sistema de responsabilidad de las administraciones públicas.",
+      "El régimen disciplinario de los empleados públicos.",
+      "El procedimiento administrativo común."
+    ],
+    "respuestaCorrecta": "Los principios del sistema de responsabilidad de las administraciones públicas.",
+    "tema": [
+      "Examen 2025",
+      "Ley 40/2015"
+    ]
+  },
+  {
+    "id": 1766224214060,
+    "enunciado": "Conforme a lo dispuesto en el artículo 23 de la Ley 40/2015, del 1 octubre, de régimen jurídico del sector público, no son motivos de abstención los siguientes:",
+    "opciones": [
+      "Tener interés personal en el asunto de que se trate o en otro en cuya resolución pudiera influir la de aquel.",
+      "Haber prestado servicios profesionales a una persona natural o jurídica interesada directamente en el asunto hace más de cinco años.",
+      "Ser administrador de sociedad o entidad interesada."
+    ],
+    "respuestaCorrecta": "Haber prestado servicios profesionales a una persona natural o jurídica interesada directamente en el asunto hace más de cinco años.",
+    "tema": [
+      "Examen 2025",
+      "Ley 40/2015"
+    ]
+  },
+  {
+    "id": 1766224250643,
+    "enunciado": "Según el artículo 1 de la Ley 2/2015, de 29 de abril, del empleo público de Galicia, esta ley tiene por objeto la regulación del régimen jurídico de la función pública gallega y:",
+    "opciones": [
+      "La determinación de las normas aplicables a todo el personal al servicio de las administraciones públicas incluidas en su ámbito de aplicación.",
+      "La determinación de las normas aplicables a todo el personal funcionario y laboral fijo al servicio de las administraciones públicas incluidas en su ámbito de aplicación.",
+      " La determinación de las normas aplicables a todo el personal funcionario de carrera y laboral al servicio de las administraciones públicas incluidas en su ámbito de aplicación."
+    ],
+    "respuestaCorrecta": "La determinación de las normas aplicables a todo el personal al servicio de las administraciones públicas incluidas en su ámbito de aplicación.",
+    "tema": [
+      "Examen 2025",
+      "Ley 2/2015"
+    ]
   }
 ]
