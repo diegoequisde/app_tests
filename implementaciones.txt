@@ -1,8 +1,9 @@
-
 Corto plazo:
+- añadir preguntas examen 2021 de la 56 a la 65
 - Detectar preguntas duplicadas (porque están en examenes de varios años) y pasarlas como una unica pregunta con varios temas (examen 2023, examen 2024, ley 39)
 - maquetar /preguntas 
 - en cada pregunta se muestra a qué temas pertenece (tags)
+- randomizar el orden de las opciones.
 
 Medio plazo:
 - que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta.

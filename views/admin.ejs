@@ -11,6 +11,7 @@
   <% preguntas.forEach(p => { %>
     <li>
       <strong><%= p.enunciado %></strong>
+      <br>
       <form action="/preguntas/eliminar/<%= p.id %>" method="POST" style="display:inline;" class="form-eliminar">
         <button class="eliminar">Eliminar</button>
       </form>
