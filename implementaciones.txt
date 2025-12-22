@@ -1,10 +1,16 @@
 Corto plazo:
 ****- añadir preguntas examen 2021 de la 56 a la 65 ****
-- Detectar preguntas duplicadas (porque están en examenes de varios años) y pasarlas como una unica pregunta con varios temas (examen 2023, examen 2024, ley 39)
-ejecutando script (node scripts/detectar-duplicados.js)
-- maquetar /preguntas 
+****- Detectar preguntas duplicadas (porque están en examenes de varios años) y pasarlas como una unica pregunta con varios temas (examen 2023, examen 2024, ley 39)
+ejecutando script (node scripts/detectar-duplicados.js)****
 ****- en cada pregunta se muestra a qué temas pertenece (tags)****
-- randomizar el orden de las opciones.
+
+- añadir examenes c1
+- buscar el resto de modelos (A/B) , (adquisicion/ingreso)... 
+- maquetar /preguntas 
+- en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
+- detectar preguntas con más apariciones (más temas)
+-sobra una de C2_Adquisicion_2024_A y de C2_Ingreso_2024_B (hay 66 preguntas y deberia haber 65)
+- randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden)
 
 Medio plazo:
 - que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta.

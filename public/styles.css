@@ -140,7 +140,7 @@ button.inicio:hover { background-color: #62026e; }
 
 .quiz-left, .quiz-right {
   background-color: #fff;
-  padding: 15px;
+  padding: 30px;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
@@ -169,7 +169,7 @@ button.inicio:hover { background-color: #62026e; }
 
 /* ---------- Opciones de preguntas ---------- */
 #options-container .option {
-    padding: 10px;
+    padding: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
     cursor: pointer;

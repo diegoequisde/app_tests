@@ -1,0 +1,535 @@
+[{
+    "id": 1765800000031,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 27 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal eventual:",
+    "opciones": [
+      "Desempeña funcións propias do persoal funcionario de carreira.",
+      "Realiza funcións expresamente cualificadas como de confianza ou asesoramento especial.",
+      "Accede mediante procesos selectivos baseados nos principios de mérito e capacidade."
+    ],
+    "respuestaCorrecta": "Realiza funcións expresamente cualificadas como de confianza ou asesoramento especial."
+  },
+  {
+    "id": 1765800000033,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 29 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal directivo público profesional:",
+    "opciones": [
+      "Accede exclusivamente por libre designación sen criterios obxectivos.",
+      "Exerce funcións directivas profesionais con suxeición a avaliación.",
+      "Ten carácter eventual."
+    ],
+    "respuestaCorrecta": "Exerce funcións directivas profesionais con suxeición a avaliación."
+  },
+  {
+    "id": 1765800000034,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 30 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a condición de empregado público pérdese por:",
+    "opciones": [
+      "Renuncia á condición de funcionario ou funcionaria.",
+      "Cambio de posto dentro da mesma administración.",
+      "Participación en procesos de mobilidade."
+    ],
+    "respuestaCorrecta": "Renuncia á condición de funcionario ou funcionaria."
+  },
+  {
+    "id": 1765800000035,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 32 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, os dereitos individuais exercidos colectivamente polos empregados públicos inclúen:",
+    "opciones": [
+      "Dereito á negociación colectiva.",
+      "Dereito á libre empresa.",
+      "Dereito á propiedade privada."
+    ],
+    "respuestaCorrecta": "Dereito á negociación colectiva."
+  },
+  {
+    "id": 1765800000036,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 33 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, constitúe un deber básico dos empregados públicos:",
+    "opciones": [
+      "Actuar con neutralidade política.",
+      "Participar en actividades políticas durante a xornada laboral.",
+      "Percibir incentivos económicos adicionais."
+    ],
+    "respuestaCorrecta": "Actuar con neutralidade política."
+  },
+  
+  {
+    "id": 1765800000037,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 34 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, os códigos de conduta dos empregados públicos:",
+    "opciones": [
+      "Teñen carácter voluntario.",
+      "Establecen os principios éticos e regras de comportamento.",
+      "Só son aplicables ao persoal funcionario de carreira."
+    ],
+    "respuestaCorrecta": "Establecen os principios éticos e regras de comportamento."
+  },
+  {
+    "id": 1765800000038,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 35 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a carreira profesional dos empregados públicos:",
+    "opciones": [
+      "Non é compatible coa avaliación do desempeño.",
+      "Inclúe a progresión e o desenvolvemento profesional.",
+      "Só se aplica ao persoal laboral."
+    ],
+    "respuestaCorrecta": "Inclúe a progresión e o desenvolvemento profesional."
+  },
+  {
+    "id": 1765800000039,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 36 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a avaliación do desempeño:",
+    "opciones": [
+      "Ten carácter discrecional sen criterios previos.",
+      "É un instrumento para medir a conduta profesional e o rendemento.",
+      "Non produce efectos na carreira profesional."
+    ],
+    "respuestaCorrecta": "É un instrumento para medir a conduta profesional e o rendemento."
+  },
+  {
+    "id": 1765800000040,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 37 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a mobilidade dos empregados públicos:",
+    "opciones": [
+      "Limítase á mesma consellería.",
+      "Permite a adecuación dos recursos humanos ás necesidades do servizo.",
+      "Supón sempre perda de dereitos económicos."
+    ],
+    "respuestaCorrecta": "Permite a adecuación dos recursos humanos ás necesidades do servizo."
+  },
+  {
+    "id": 1765800000041,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 38 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a provisión de postos de traballo:",
+    "opciones": [
+      "Realizarase exclusivamente por libre designación.",
+      "Atenderá aos principios de igualdade, mérito e capacidade.",
+      "Non require publicidade."
+    ],
+    "respuestaCorrecta": "Atenderá aos principios de igualdade, mérito e capacidade."
+  },
+  {
+    "id": 1765800000042,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 39 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a formación dos empregados públicos:",
+    "opciones": [
+      "Ten carácter obrigatorio cando así se determine.",
+      "É allea á carreira profesional.",
+      "Só se realiza ao inicio da relación laboral."
+    ],
+    "respuestaCorrecta": "Ten carácter obrigatorio cando así se determine."
+  },
+  {
+    "id": 1765800000043,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 40 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o réxime disciplinario dos empregados públicos:",
+    "opciones": [
+      "Non está suxeito a procedemento.",
+      "Garántese mediante procedementos con audiencia ao interesado.",
+      "Só se aplica ao persoal funcionario."
+    ],
+    "respuestaCorrecta": "Garántese mediante procedementos con audiencia ao interesado."
+  },
+  {
+    "id": 1765800000044,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 41 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as faltas disciplinarias:",
+    "opciones": [
+      "Clasifícanse en leves, graves e moi graves.",
+      "Non teñen graduación.",
+      "Só poden ser moi graves."
+    ],
+    "respuestaCorrecta": "Clasifícanse en leves, graves e moi graves."
+  },
+  {
+    "id": 1765800000045,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 42 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as sancións disciplinarias:",
+    "opciones": [
+      "Aplicaranse sen necesidade de expediente.",
+      "Determínanse en función da gravidade da falta.",
+      "Non teñen efectos na carreira profesional."
+    ],
+    "respuestaCorrecta": "Determínanse en función da gravidade da falta."
+  },
+  {
+    "id": 1765800000046,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 43 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a prescrición das faltas disciplinarias:",
+    "opciones": [
+      "Non está prevista legalmente.",
+      "Depende da súa clasificación en leves, graves ou moi graves.",
+      "É idéntica para todas as faltas."
+    ],
+    "respuestaCorrecta": "Depende da súa clasificación en leves, graves ou moi graves."
+  },
+  {
+    "id": 1765800000047,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 44 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a responsabilidade disciplinaria:",
+    "opciones": [
+      "É incompatible coa responsabilidade penal.",
+      "É independente da responsabilidade civil ou penal.",
+      "Exclúe calquera outro tipo de responsabilidade."
+    ],
+    "respuestaCorrecta": "É independente da responsabilidade civil ou penal."
+  },
+  {
+    "id": 1765800000048,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 45 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a xornada de traballo dos empregados públicos:",
+    "opciones": [
+      "Determínase libremente por cada empregado.",
+      "Establécese regulamentariamente.",
+      "É idéntica á do sector privado en todo caso."
+    ],
+    "respuestaCorrecta": "Establécese regulamentariamente."
+  },
+  {
+    "id": 1765800000049,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 46 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, os permisos dos empregados públicos:",
+    "opciones": [
+      "Non están regulados legalmente.",
+      "Recoñécense nos termos previstos na lei.",
+      "Só se conceden por causas excepcionais."
+    ],
+    "respuestaCorrecta": "Recoñécense nos termos previstos na lei."
+  },
+  {
+    "id": 1765800000050,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 47 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as vacacións anuais:",
+    "opciones": [
+      "Non son retribuídas.",
+      "Son obrigatorias e retribuídas.",
+      "Dependen exclusivamente da antigüidade."
+    ],
+    "respuestaCorrecta": "Son obrigatorias e retribuídas."
+  },
+  {
+    "id": 1765800000051,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 48 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a conciliación da vida persoal, familiar e laboral:",
+    "opciones": [
+      "Non é un dereito recoñecido.",
+      "Recoñécese como dereito dos empregados públicos.",
+      "Só se aplica ao persoal funcionario."
+    ],
+    "respuestaCorrecta": "Recoñécese como dereito dos empregados públicos."
+  },
+  {
+    "id": 1765800000052,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 49 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as situacións administrativas dos funcionarios:",
+    "opciones": [
+      "Non están tipificadas legalmente.",
+      "Regúlanse expresamente na lei.",
+      "Son idénticas ás do persoal laboral."
+    ],
+    "respuestaCorrecta": "Regúlanse expresamente na lei."
+  },
+  {
+    "id": 1765800000053,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 50 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o servizo activo:",
+    "opciones": [
+      "É unha situación administrativa básica.",
+      "Implica a perda da condición de funcionario.",
+      "Non permite percibir retribucións."
+    ],
+    "respuestaCorrecta": "É unha situación administrativa básica."
+  },
+  {
+    "id": 1765800000054,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 51 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, os funcionarios en excedencia:",
+    "opciones": [
+      "Perden definitivamente a súa condición.",
+      "Mantén dereitos nos termos previstos legalmente.",
+      "Non poden reincorporarse ao servizo activo."
+    ],
+    "respuestaCorrecta": "Mantén dereitos nos termos previstos legalmente."
+  },
+  {
+    "id": 1765800000055,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 52 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a suspensión de funcións:",
+    "opciones": [
+      "É unha sanción automática.",
+      "Pode ter carácter provisional ou firme.",
+      "Implica sempre a separación do servizo."
+    ],
+    "respuestaCorrecta": "Pode ter carácter provisional ou firme."
+  },
+  {
+    "id": 1765800000056,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 53 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as retribucións dos empregados públicos:",
+    "opciones": [
+      "Son idénticas para todos os corpos e escalas.",
+      "Clasifícanse en básicas e complementarias.",
+      "Non están reguladas legalmente."
+    ],
+    "respuestaCorrecta": "Clasifícanse en básicas e complementarias."
+  },
+  {
+    "id": 1765800000057,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 54 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as retribucións básicas:",
+    "opciones": [
+      "Dependen do posto de traballo.",
+      "Vincúlanse ao corpo ou escala.",
+      "Só existen para o persoal laboral."
+    ],
+    "respuestaCorrecta": "Vincúlanse ao corpo ou escala."
+  },
+  {
+    "id": 1765800000058,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 55 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as retribucións complementarias:",
+    "opciones": [
+      "Non dependen do posto desempeñado.",
+      "Atienden ás características do posto de traballo.",
+      "Son idénticas para todo o persoal."
+    ],
+    "respuestaCorrecta": "Atienden ás características do posto de traballo."
+  },
+  {
+    "id": 1765800000059,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 56 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as indemnizacións por razón do servizo:",
+    "opciones": [
+      "Non están previstas legalmente.",
+      "Regúlanse conforme á normativa aplicable.",
+      "Son retribucións básicas."
+    ],
+    "respuestaCorrecta": "Regúlanse conforme á normativa aplicable."
+  },
+  {
+    "id": 1765800000060,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 57 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a planificación dos recursos humanos:",
+    "opciones": [
+      "Non é competencia da administración.",
+      "Permite unha xestión racional e eficiente do persoal.",
+      "Só se aplica en situacións excepcionais."
+    ],
+    "respuestaCorrecta": "Permite unha xestión racional e eficiente do persoal."
+  },
+  {
+    "id": 1765800000053,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 50 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o servizo activo:",
+    "opciones": [
+      "É unha situación administrativa básica.",
+      "Implica a perda da condición de funcionario.",
+      "Non permite percibir retribucións."
+    ],
+    "respuestaCorrecta": "É unha situación administrativa básica."
+  },
+  {
+    "id": 1765800000054,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 51 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, os funcionarios en excedencia:",
+    "opciones": [
+      "Perden definitivamente a súa condición.",
+      "Mantén dereitos nos termos previstos legalmente.",
+      "Non poden reincorporarse ao servizo activo."
+    ],
+    "respuestaCorrecta": "Mantén dereitos nos termos previstos legalmente."
+  },
+  {
+    "id": 1765800000055,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 52 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a suspensión de funcións:",
+    "opciones": [
+      "É unha sanción automática.",
+      "Pode ter carácter provisional ou firme.",
+      "Implica sempre a separación do servizo."
+    ],
+    "respuestaCorrecta": "Pode ter carácter provisional ou firme."
+  },
+  {
+    "id": 1765800000056,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 53 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as retribucións dos empregados públicos:",
+    "opciones": [
+      "Son idénticas para todos os corpos e escalas.",
+      "Clasifícanse en básicas e complementarias.",
+      "Non están reguladas legalmente."
+    ],
+    "respuestaCorrecta": "Clasifícanse en básicas e complementarias."
+  },
+  {
+    "id": 1765800000057,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 54 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as retribucións básicas:",
+    "opciones": [
+      "Dependen do posto de traballo.",
+      "Vincúlanse ao corpo ou escala.",
+      "Só existen para o persoal laboral."
+    ],
+    "respuestaCorrecta": "Vincúlanse ao corpo ou escala."
+  },
+  {
+    "id": 1765800000058,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 55 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as retribucións complementarias:",
+    "opciones": [
+      "Non dependen do posto desempeñado.",
+      "Atienden ás características do posto de traballo.",
+      "Son idénticas para todo o persoal."
+    ],
+    "respuestaCorrecta": "Atienden ás características do posto de traballo."
+  },
+  {
+    "id": 1765800000059,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 56 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as indemnizacións por razón do servizo:",
+    "opciones": [
+      "Non están previstas legalmente.",
+      "Regúlanse conforme á normativa aplicable.",
+      "Son retribucións básicas."
+    ],
+    "respuestaCorrecta": "Regúlanse conforme á normativa aplicable."
+  },
+  {
+    "id": 1765800000060,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 57 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a planificación dos recursos humanos:",
+    "opciones": [
+      "Non é competencia da administración.",
+      "Permite unha xestión racional e eficiente do persoal.",
+      "Só se aplica en situacións excepcionais."
+    ],
+    "respuestaCorrecta": "Permite unha xestión racional e eficiente do persoal."
+  },
+  
+  {
+    "id": 1765800000032,
+    "tema": [
+      "Adquisicion_2023_B",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 28 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal eventual:",
+    "opciones": [
+      "Adquire a condición de persoal funcionario de carreira automaticamente.",
+      "É nomeado e cesado libremente.",
+      "Ten dereito á carreira profesional horizontal."
+    ],
+    "respuestaCorrecta": "É nomeado e cesado libremente."
+  }
+]
