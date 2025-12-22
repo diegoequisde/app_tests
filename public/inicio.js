@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const preguntas = await res.json();
 
     localStorage.setItem("testQuestions", JSON.stringify(preguntas));
-    window.location.href = "quiz.html";
+    window.location.href = "/quiz";
   });
 
   // Nuevo tema

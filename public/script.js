@@ -23,7 +23,15 @@ function loadQuestion() {
   if (!q) return;
 
   // panel izquierdo
-  questionContainer.innerHTML = `<h2>${q.enunciado}</h2>
+  const temasHTML = q.tema
+  ? `<div class="question-themes">
+       ${q.tema.map(t => `<span class="theme-tag">${t}</span>`).join('')}
+     </div>`
+  : '';
+
+  questionContainer.innerHTML = `
+    ${temasHTML}
+    <h2>${q.enunciado}</h2>
     <p>Pregunta ${testState.currentIndex + 1} de ${testState.questions.length}</p>`;
 
   optionsContainer.innerHTML = '';
@@ -146,7 +154,7 @@ function reviewQuestion(index) {
 
 // --------- Volver al inicio ---------
 backHomeBtn.addEventListener('click', () => {
-  window.location.href = "index.html";
+  window.location.href = "/";
 });
 
 // --------- Inicializar ---------

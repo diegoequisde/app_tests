@@ -152,6 +152,21 @@ button.inicio:hover { background-color: #62026e; }
   overflow-y: auto; 
 }
 
+/* ---------- Temas de la pregunta ---------- */
+.question-themes {
+  margin-bottom: 10px;
+}
+
+.theme-tag {
+  display: inline-block;
+  background: #eef2ff;
+  color: #716bc9;
+  padding: 4px 8px;
+  margin-right: 6px;
+  border-radius: 6px;
+  font-size: 0.65em;
+}
+
 /* ---------- Opciones de preguntas ---------- */
 #options-container .option {
     padding: 10px;

@@ -1,12 +1,17 @@
 Corto plazo:
-- añadir preguntas examen 2021 de la 56 a la 65
+****- añadir preguntas examen 2021 de la 56 a la 65 ****
 - Detectar preguntas duplicadas (porque están en examenes de varios años) y pasarlas como una unica pregunta con varios temas (examen 2023, examen 2024, ley 39)
+ejecutando script (node scripts/detectar-duplicados.js)
 - maquetar /preguntas 
-- en cada pregunta se muestra a qué temas pertenece (tags)
+****- en cada pregunta se muestra a qué temas pertenece (tags)****
 - randomizar el orden de las opciones.
 
 Medio plazo:
 - que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta.
+-Test parciales:Refuerza lo aprendido en cada bloque de materias con preguntas de todos los temas.
+- Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. /    Focus test.)
+- Simulacros de examen Demuestra todo lo aprendido en la prueba final, un test adaptado en duración y forma al exigido en tu oposición.
+
 
 Largo plazo:
 - Compilar y convertir en apk (ultimo de todo) -> mirar como se pueden sincronizar datos añadidos desde movil para actualizar la bd
