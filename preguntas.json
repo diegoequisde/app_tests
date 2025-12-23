@@ -575,6 +575,7 @@
     "id": 1765734546183,
     "tema": [
       "C2_Ingreso_2024_B",
+      "C1_Adquisicion_2024_A",
       "Ley 2/2015"
     ],
     "enunciado": "Con base no recollido no artigo 4 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, esta lei non se aplica ao persoal funcionario ao servizo das seguintes administracións públicas:",
@@ -1174,6 +1175,7 @@
     "id": 1765789286633,
     "tema": [
       "C2_Adquisicion_2022_B",
+      "C1_Adquisicion_2024_A",
       "Ley 39/2015"
     ],
     "enunciado": "Conforme ao artigo 5 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común, quen poderá actuar en representación doutra persoa ante as administracións públicas?:",
@@ -1351,6 +1353,7 @@
     "id": 1765789694489,
     "tema": [
       "C2_Adquisicion_2022_B",
+      "C1_Adquisicion_2024_A",
       "Ley 39/2015"
     ],
     "enunciado": "No caso de que o primeiro intento de notificación se realizase antes das quince horas, o segundo intento deberá realizarse despois das quince horas, e viceversa, e deixarase en todo caso polo menos unha marxe de diferenza entre ambos os intentos de notificación de (artigo 42 da LPAC):",
@@ -1448,20 +1451,6 @@
       "Non supoñen alteración da titularidade da competencia, nin tampouco dos elementos determinantes do seu exercicio que en cada caso se prevén."
     ],
     "respuestaCorrecta": "Non supoñen alteración da titularidade da competencia, aínda que si dos elementos determinantes do seu exercicio que en cada caso se prevén."
-  },
-  {
-    "id": 1765789911694,
-    "tema": [
-      "C2_Adquisicion_2022_B",
-      "Ley 40/2015"
-    ],
-    "enunciado": "Conforme ao disposto no artigo 9 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, as delegacións de competencias e a súa revogación deberán publicarse:",
-    "opciones": [
-      "En ningún caso.",
-      "No Boletín Oficial do Estado, no da comunidade autónoma ou no da provincia, segundo a Administración a que pertenza o órgano delegante e o ámbito territorial de competencia deste.",
-      "No Boletín Oficial do Estado en todo caso. 22."
-    ],
-    "respuestaCorrecta": "No Boletín Oficial do Estado, no da comunidade autónoma ou no da provincia, segundo a Administración a que pertenza o órgano delegante e o ámbito territorial de competencia deste."
   },
   {
     "id": 1765789941746,
@@ -1674,6 +1663,7 @@
       "C2_Adquisicion_2022_B",
       "C2_Adquisicion_2024_A",
       "C2_Adquisicion_2021_B",
+      "C1_Adquisicion_2024_A",
       "Ley 2/2015"
     ],
     "enunciado": "Segundo o recollido no artigo 26 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, poden ser desempeñados por persoal laboral:",
@@ -1702,6 +1692,7 @@
     "id": 1765790401967,
     "tema": [
       "C2_Adquisicion_2022_B",
+      "C1_Adquisicion_2024_A",
       "Ley 2/2015"
     ],
     "enunciado": "De acordo co establecido no artigo 30 da Lei 2/2015, de 29 abril, do emprego público de Galicia, o cesamento da autoridade que efectuou o nomeamento produce necesariamente:",
@@ -1849,6 +1840,7 @@
     "id": 1765790684639,
     "tema": [
       "C2_Adquisicion_2022_B",
+      "C1_Adquisicion_2024_A",
       "RDL 1/2013"
     ],
     "enunciado": "De acordo co artigo 30 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, adoptarán as medidas adecuadas para facilitar o estacionamento dos vehículos automóbiles pertencentes a persoas con problemas graves de mobilidade, por razón da súa discapacidade:",
@@ -2071,6 +2063,7 @@
     "tema": [
       "C2_Adquisicion_2022_B",
       "C2_Adquisicion_2021_B",
+      "C1_Adquisicion_2024_A",
       "Ley 2/2015"
     ],
     "enunciado": "De acordo co establecido no artigo 22 da Lei 2/2015, de 29 abril, do emprego público de Galicia, os postos que teñan atribuídas funcións que impliquen a realización de tarefas de inspección, fiscalización ou control serán reservados necesariamente nas relacións de postos de traballo a:",
@@ -2139,20 +2132,6 @@
       "Durante a tramitación de calquera clase de procedemento."
     ],
     "respuestaCorrecta": "Durante a instrución dun procedemento que non tivese publicidade."
-  },
-  {
-    "id": 1765800000003,
-    "tema": [
-      "C2_Adquisicion_2024_A",
-      "Ley 39/2015"
-    ],
-    "enunciado": "Un dos seguintes sistemas non está previsto como un daqueles que poderán utilizar os interesados para identificarse electronicamente ante as administracións públicas no artigo 9 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas. Sinálese cal:",
-    "opciones": [
-      "Sistemas baseados en claves electrónicas recoñecidas de certificado electrónico expedidas por prestadores incluídos na \"Lista de confianza de prestadores de servizos de certificación\".",
-      "Sistemas baseados en certificados electrónicos cualificados de sinatura electrónica expedidos por prestadores incluídos na \"Lista de confianza de prestadores de servizos de certificación\".",
-      "Sistemas baseados en certificados electrónicos cualificados de selo electrónico expedidos por prestadores incluídos na \"Lista de confianza de prestadores de servizos de certificación\"."
-    ],
-    "respuestaCorrecta": "Sistemas baseados en claves electrónicas recoñecidas de certificado electrónico expedidas por prestadores incluídos na \"Lista de confianza de prestadores de servizos de certificación\"."
   },
   {
     "id": 1765800000005,
@@ -2300,6 +2279,7 @@
     "id": 1765800000020,
     "tema": [
       "C2_Adquisicion_2024_A",
+      "C1_Adquisicion_2024_A",
       "Ley 40/2015"
     ],
     "enunciado": "Conforme ao disposto no artigo 6 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, as instrucións e ordes de servizo publicaranse no boletín oficial que corresponda:",
@@ -2343,6 +2323,7 @@
     "id": 1765800000024,
     "tema": [
       "C2_Adquisicion_2024_A",
+      "C1_Adquisicion_2024_A",
       "Ley 2/2015"
     ],
     "enunciado": "Cal dos seguintes tipos de empregados non figura recollido na clasificación do artigo 20 da Lei 2/2015, do 29 de abril, do emprego público de Galicia?:",
@@ -2414,7 +2395,8 @@
     "id": 1765792006101,
     "tema": [
       "C2_Adquisicion_2024_A",
-      "Ley 39/2015"
+      "Ley 39/2015",
+      "C1_Adquisicion_2024_A"
     ],
     "enunciado": "Para os efectos da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas e segundo o sinalado polo artigo 2 da devandita lei, cal das seguintes entidades non forma parte do sector público institucional?",
     "opciones": [
@@ -2442,6 +2424,7 @@
     "id": 1765792006103,
     "tema": [
       "C2_Adquisicion_2024_A",
+      "C1_Adquisicion_2024_A",
       "Ley 40/2015"
     ],
     "enunciado": "Conforme ao disposto no artigo 1 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, esta lei establece e regula:",
@@ -2471,6 +2454,7 @@
     "id": 1765792006105,
     "tema": [
       "C2_Adquisicion_2024_A",
+      "C1_Adquisicion_2024_A",
       "Ley 2/2015"
     ],
     "enunciado": "Segundo o artigo 1 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, esta lei ten por obxecto a regulación do réxime xurídico da función pública galega e:",
@@ -2485,6 +2469,7 @@
     "id": 2765792006103,
     "tema": [
       "C2_Adquisicion_2024_A",
+      "C1_Adquisicion_2024_A",
       "Ley 39/2015"
     ],
     "enunciado": "Un dos seguintes sistemas non está previsto como un daqueles que poderán utilizar os interesados para identificarse electronicamente ante as administracións públicas no artigo 9 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas. Sinálese cal:",
@@ -2527,6 +2512,7 @@
     "id": 1765792006134,
     "tema": [
       "C2_Adquisicion_2024_A",
+      "C1_Adquisicion_2024_A",
       "Ley 2/2015"
     ],
     "enunciado": "O artigo 33 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, indica que os postos que sexan cubertos por persoal directivo:",
@@ -2603,7 +2589,8 @@
     ],
     "respuestaCorrecta": "Toda conduta non desexada relacionada coa discapacidade dunha persoa que teña como obxectivo ou consecuencia atentar contra a súa dignidade ou crear unha contorna intimidatoria, hostil, degradante, humillante ou ofensiva.",
     "tema": [
-      "C2_Adquisicion_2024_A"
+      "C2_Adquisicion_2024_A",
+      "RDL 1/2013"
     ]
   },
   {
@@ -2639,6 +2626,7 @@
     "id": 1765792006144,
     "tema": [
       "C2_Adquisicion_2024_A",
+      "C1_Adquisicion_2024_A",
       "RDL 1/2013"
     ],
     "enunciado": "De acordo co artigo 4 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, a acreditación do grao de discapacidade:",
@@ -2654,6 +2642,7 @@
     "tema": [
       "C2_Adquisicion_2024_A",
       "C2_Adquisicion_2021_B",
+      "C1_Adquisicion_2024_A",
       "RDL 1/2013"
     ],
     "enunciado": "En base ao artigo 10 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, as persoas con discapacidade teñen dereito á protección da saúde, o que inclúe:",
@@ -2790,20 +2779,6 @@
       "Unha puntuación específica, que se graduará en función do tempo utilizado no exercicio deses dereitos."
     ],
     "respuestaCorrecta": "Unha puntuación específica, que se graduará en función do tempo utilizado no exercicio deses dereitos."
-  },
-  {
-    "id": 1765792006145,
-    "tema": [
-      "C2_Adquisicion_2024_A",
-      "Ley 39/2015"
-    ],
-    "enunciado": "Para os efectos da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas e segundo o sinalado polo artigo 2 da devandita lei, cal das seguintes entidades non forma parte do sector público institucional?:",
-    "opciones": [
-      "As entidades de dereito privado vinculadas ou dependentes das administracións públicas.",
-      "As entidades que integran a Administración local.",
-      "As universidades públicas."
-    ],
-    "respuestaCorrecta": "As entidades que integran a Administración local."
   },
   {
     "id": 1766221003195,
@@ -3726,7 +3701,6 @@
     "respuestaCorrecta": "O que, sen iniciar o procedemento, teña calquera tipo de interese nel.",
     "tema": [
       "C2_Adquisicion_2021_B",
-      "C2_Ingreso_2024_B",
       "Ley 39/2015"
     ]
   },
@@ -3741,7 +3715,8 @@
     "respuestaCorrecta": "Obxecto do apoderamento.",
     "tema": [
       "C2_Adquisicion_2021_B",
-      "Ley 39/2015"
+      "Ley 39/2015",
+      "C1_Adquisicion_2024_A"
     ]
   },
   {
@@ -3888,6 +3863,7 @@
     "id": 1766224250664,
     "tema": [
       "C2_Adquisicion_2021_B",
+      "C2_Adquisicion_2022_B",
       "Ley 40/2015"
     ],
     "enunciado": "Conforme ao disposto no artigo 9 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, as delegacións de competencias e a súa revogación deberán publicarse:",
@@ -4106,6 +4082,860 @@
     "tema": [
       "C2_Adquisicion_2021_B",
       "Ley 40/2015"
+    ]
+  },
+  {
+    "id": 1766387215509,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "O artigo 12 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, imponlles ás administracións públicas a obriga de que asistan aos interesados no uso de medios electrónicos. A quen en concreto?",
+    "opciones": [
+      "Aos interesados que así o soliciten e que non están obrigados a relacionarse electrónicamente coa Administración.",
+      "A todos os interesados nun procedemento administrativo.",
+      "Unicamente a aqueles interesados que, pola súa falta de formación, o necesiten."
+    ],
+    "respuestaCorrecta": "Aos interesados que así o soliciten e que non están obrigados a relacionarse electrónicamente coa Administración."
+  },
+  {
+    "id": 1766387215510,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "De acordo co disposto polo artigo 21 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, a partir de que momento comeza a contarse o prazo máximo no que debe notificarse a resolución expresa cando se trate de procedementos iniciados de oficio?",
+    "opciones": [
+      "Desde a data do acordo de iniciación.",
+      "Desde a data en que se publica o acordo de iniciación.",
+      "Desde a data en que se notifica o acordo de iniciación."
+    ],
+    "respuestaCorrecta": "Desde a data do acordo de iniciación."
+  },
+  {
+    "id": 1766387215511,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Cando se soliciten informes preceptivos a un órgano da mesma ou distinta Administración, poderase suspender o transcurso do prazo máximo legal para resolver un procedemento e notificar a resolución, por un prazo que non poderá exceder en ningún caso de (artigo 22 da LPAC):",
+    "opciones": [
+      "Dous meses.",
+      "Tres meses",
+      "Un mes."
+    ],
+    "respuestaCorrecta": "Tres meses"
+  },
+  {
+    "id": 1766387215512,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Cando unha Administración pública teña que ditar, no ámbito das súas competencias, un acto que necesariamente teña por base outro ditado por unha Administración pública distinta e aquela entenda que é ilegal (artigo 39 da LPAC):",
+    "opciones": [
+      "Poderá apartarse do sentido deste sen ter que motivar o seu propio acto.",
+      "Poderá requirir a esta previamente para que anule ou revise o acto.",
+      "Declararao lesivo para o interese público tras a impugnación ante a orde xurisdicional contencioso-administrativa."
+    ],
+    "respuestaCorrecta": "Poderá requirir a esta previamente para que anule ou revise o acto."
+  },
+  {
+    "id": 1766387215513,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "A teor do disposto polo artigo 39 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, en que situacións poderá outorgarse eficacia retroactiva aos actos administrativos?",
+    "opciones": [
+      "En ningún caso.",
+      "Excepcionalmente.",
+      "En calquera caso."
+    ],
+    "respuestaCorrecta": "Excepcionalmente."
+  },
+  {
+    "id": 1766387215514,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Segundo o artigo 56 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, non se poderán adoptar medidas provisionais:",
+    "opciones": [
+      "Unha vez iniciado o procedemento administrativo.",
+      "Cando impliquen violación de dereitos amparados polas leis.",
+      "Antes da iniciación do procedemento administrativo."
+    ],
+    "respuestaCorrecta": "Cando impliquen violación de dereitos amparados polas leis."
+  },
+  {
+    "id": 1766387215515,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Segundo o artigo 57 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, que órgano administrativo é o competente para dispoñer a acumulación dun procedemento a outros?",
+    "opciones": [
+      "O que inicie ou tramite un procedemento.",
+      "O que resolva un procedemento.",
+      "O superior xerárquico do que inicie un procedemento."
+    ],
+    "respuestaCorrecta": "O que inicie ou tramite un procedemento."
+  },
+  {
+    "id": 1766387215516,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "No caso de que os particulares presuntamente lesionados non comparezan no prazo que se lles conceda para que acheguen cantas alegacións, documentos ou información estimen conveniente ao seu dereito e propoñan cantas probas sexan pertinentes para o recoñecemento deste, nun procedemento de responsabilidade patrimonial (artigo 65 da LPAC):",
+    "opciones": [
+      "Instruirase igualmente o procedemento iniciado.",
+      "Declararáselles decaídos no seu dereito ao trámite e o órgano instrutor resolverá a finalización do procedemento.",
+      "Concederáselles a ampliación do prazo inicialmente concedido por un período que non exceda da metade de duración daquel."
+    ],
+    "respuestaCorrecta": "Instruirase igualmente o procedemento iniciado."
+  },
+  {
+    "id": 1766387215517,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Segundo o artigo 71 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, o procedemento impulsarase:",
+    "opciones": [
+      "De oficio en todos os seus trámites e a través de medios electrónicos.",
+      "A instancia de parte en todos os seus trámites e a través de medios electrónicos.",
+      "De oficio en todos os seus trámites e a través de medios analóxicos."
+    ],
+    "respuestaCorrecta": "De oficio en todos os seus trámites e a través de medios electrónicos."
+  },
+  {
+    "id": 1766387215518,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Cal das seguintes é unha consecuencia do principio de simplificación administrativa? (artigo 72 da LPAC):",
+    "opciones": [
+      "Que se acorden nun só acto todos os trámites que, pola súa natureza, admitan un impulso simultáneo e non sexa obrigado o seu cumprimento sucesivo.",
+      "Que o órgano administrativo que inicie ou tramite un procedemento, calquera que fose a forma da súa iniciación, poida dispoñer, de oficio ou a instancia de parte, a súa acumulación a outros cos que garde identidade substancial ou íntima conexión.",
+      "Que as pretensións correspondentes a unha pluralidade de persoas que teñan un contido e fundamento idéntico ou substancialmente similar poidan ser formuladas nunha única solicitude."
+    ],
+    "respuestaCorrecta": "Que se acorden nun só acto todos os trámites que, pola súa natureza, admitan un impulso simultáneo e non sexa obrigado o seu cumprimento sucesivo."
+  },
+  {
+    "id": 1766387215519,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Dispón o artigo 80 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas que, con carácter xeral, os informes serán emitidos a través de medios electrónicos e no prazo de:",
+    "opciones": [
+      "Vinte días.",
+      "Cinco días.",
+      "Dez días."
+    ],
+    "respuestaCorrecta": "Dez días."
+  },
+  {
+    "id": 1766387215520,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Segundo o artigo 81 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, nos procedementos de responsabilidade patrimonial en que sexa preceptivo o ditame do Consello de Estado ou órgano consultivo autonómico, este emitirase no prazo de:",
+    "opciones": [
+      "Un mes.",
+      "Dous meses.",
+      "Tres meses."
+    ],
+    "respuestaCorrecta": "Dous meses."
+  },
+  {
+    "id": 1766387215521,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Segundo o artigo 83 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, que órgano é o competente para poder acordar un período de información pública?",
+    "opciones": [
+      "O órgano ao que lle corresponda a instrución do procedemento.",
+      "O órgano ao que lle corresponda ditar informe no procedemento.",
+      "O órgano ao que lle corresponda a resolución do procedemento."
+    ],
+    "respuestaCorrecta": "O órgano ao que lle corresponda a resolución do procedemento."
+  },
+  {
+    "id": 1766387215522,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "De acordo co artigo 88 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, en que casos poderá absterse a Administración de resolver baixo pretexto de insuficiencia de preceptos legais aplicables ao caso?",
+    "opciones": [
+      "Cando xa existan precedentes sobre a cuestión que sexa obxecto principal do expediente.",
+      "En ningún caso.",
+      "Naqueles casos en que se necesite autorización ou aprobación de órgano superior."
+    ],
+    "respuestaCorrecta": "En ningún caso."
+  },
+  {
+    "id": 1766387215523,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Nun procedemento de responsabilidade patrimonial poderá entenderse que a resolución é contraria á indemnización do particular se non recaeu e non se notificou resolución expresa ou, se é o caso, non se formalizou o acordo nun prazo de (artigo 91 da LPAC):",
+    "opciones": [
+      "Seis meses desde que se iniciou o procedemento.",
+      "Tres meses desde que se iniciou o procedemento.",
+      "Un ano desde que se iniciou o procedemento."
+    ],
+    "respuestaCorrecta": "Seis meses desde que se iniciou o procedemento."
+  },
+  {
+    "id": 1766387215524,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "De acordo co sinalado polo artigo 99 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas, sinálese cal das seguintes afirmacións é correcta en relación á execución forzosa:",
+    "opciones": [
+      "As administracións públicas, a través dos seus órganos competentes en cada caso, procederán, con apercibimento previo, á execución forzosa dos seus actos.",
+      "As administracións públicas, a través dos seus órganos competentes en cada caso, poderán proceder, con apercibimento previo, á execución forzosa dos actos administrativos.",
+      "As administracións públicas, a través dos seus órganos competentes en cada caso, poderán proceder á execución forzosa dos actos administrativos."
+    ],
+    "respuestaCorrecta": "As administracións públicas, a través dos seus órganos competentes en cada caso, poderán proceder, con apercibimento previo, á execución forzosa dos actos administrativos."
+  },
+  {
+    "id": 1766387215525,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Dispón o artigo 100 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas que se fosen varios os medios de execución admisibles:",
+    "opciones": [
+      "Utilizaranse de modo sucesivo e comezarase por aquel que incida en menor medida no patrimonio do afectado.",
+      "Elixirase o menos restritivo da liberdade individual.",
+      "Utilizarase aquel que resulte máis adecuado para os fins perseguidos."
+    ],
+    "respuestaCorrecta": "Elixirase o menos restritivo da liberdade individual."
+  },
+  {
+    "id": 1766387215527,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 3 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, o principio de boa fe, confianza lexítima e lealdade institucional:",
+    "opciones": [
+      "Deberano respectar na súa actuación e relacións os cidadáns.",
+      "Deberano respectar na súa actuación e relacións as administracións públicas.",
+      "Non será de aplicación, salvo cando se establezan medidas que limiten o exercicio de dereitos individuais ou colectivos ou esixan o cumprimento de requisitos para o desenvolvemento dunha actividade."
+    ],
+    "respuestaCorrecta": "Deberano respectar na súa actuación e relacións as administracións públicas."
+  },
+  {
+    "id": 1766387215528,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 9 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, as competencias que se exerzan por delegación:",
+    "opciones": [
+      "Non poderán delegarse en ningún caso.",
+      "Non poderán delegarse, salvo autorización expresa dunha lei.",
+      "Poderán delegarse con autorización do órgano delegante."
+    ],
+    "respuestaCorrecta": "Non poderán delegarse, salvo autorización expresa dunha lei."
+  },
+  {
+    "id": 1766387215529,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 16 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, corresponde certificar as actuacións dos órganos colexiados e garantir que os procedementos e regras de constitución e adopción de acordos son respectadas ao:",
+    "opciones": [
+      "Presidente.",
+      "Asesor xurídico.",
+      "Secretario."
+    ],
+    "respuestaCorrecta": "Secretario."
+  },
+  {
+    "id": 1766387215530,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 24 da Lei 40/2015, do 1 outubro, de réxime xurídico do sector público, se o recusado nega a causa de recusación, o superior resolverá no prazo de:",
+    "opciones": [
+      "3 meses.",
+      "20 días.",
+      "3 días."
+    ],
+    "respuestaCorrecta": "3 días."
+  },
+  {
+    "id": 1766387215531,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 29 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, as sancións administrativas poderán implicar privación de liberdade:",
+    "opciones": [
+      "Cando así se estableza nunha norma con rango de lei.",
+      "Cando así se estableza no regulamento disciplinario dos empregados públicos.",
+      "En ningún caso."
+    ],
+    "respuestaCorrecta": "En ningún caso."
+  },
+  {
+    "id": 1766387215532,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 30 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, as sancións impostas por faltas graves prescribirán no prazo de:",
+    "opciones": [
+      "Un mes.",
+      "Dous anos.",
+      "Seis anos."
+    ],
+    "respuestaCorrecta": "Dous anos."
+  },
+  {
+    "id": 1766387215533,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Segundo o artigo 36 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, no procedemento para a esixencia da responsabilidade ás autoridades e ao persoal ao servizo das administracións públicas constará, polo menos, un prazo de alegacións por:",
+    "opciones": [
+      "Dez días.",
+      "Quince días.",
+      "Vinte días."
+    ],
+    "respuestaCorrecta": "Quince días."
+  },
+  {
+    "id": 1766387215535,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 3 da Lei 2/2015, de 29 abril, do emprego público de Galicia, o réxime xurídico do persoal incluído no ámbito de aplicación da citada lei non se basea nun dos seguintes principios:",
+    "opciones": [
+      "Desenvolvemento e cualificación profesional permanente dos empregados públicos.",
+      "Igualdade na atribución, ordenación e desempeño das funcións e tarefas.",
+      "Eficacia na planificación e xestión dos recursos humanos."
+    ],
+    "respuestaCorrecta": "Igualdade na atribución, ordenación e desempeño das funcións e tarefas."
+  },
+  {
+    "id": 1766387215536,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "De acordo co establecido no artigo 23 da Lei 2/2015, de 29 abril, do emprego público de Galicia, o prazo máximo de duración da interinidade para a execución de programas de carácter temporal e de duración determinada que non respondan a necesidades permanentes da Administración non poderá ser superior a:",
+    "opciones": [
+      "Tres anos.",
+      "Un ano.",
+      "Dez anos."
+    ],
+    "respuestaCorrecta": "Tres anos."
+  },
+  {
+    "id": 1766387215537,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Segundo o recollido no artigo 29 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal que en ningún caso pode realizar actividades ordinarias de xestión ou de carácter técnico, nin ningunha das funcións que corresponden ao persoal funcionario de carreira:",
+    "opciones": [
+      "Ten a condición de persoal eventual.",
+      "Ten a condición de persoal directivo.",
+      "Ten a condición de persoal laboral temporal."
+    ],
+    "respuestaCorrecta": "Ten a condición de persoal eventual."
+  },
+  {
+    "id": 1766387215538,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Segundo o recollido no artigo 31 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, cando o persoal funcionario de carreira acceda a postos de traballo de carácter eventual, poderá optar entre permanecer na situación de servizo activo ou pasar á situación de:",
+    "opciones": [
+      "Excedencia voluntaria.",
+      "Servizos noutras administracións públicas.",
+      "Servizos especiais."
+    ],
+    "respuestaCorrecta": "Servizos especiais."
+  },
+  {
+    "id": 1766387215539,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "O resultado da avaliación pola xestión do persoal directivo recollida no artigo 35 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, determinará entre outros:",
+    "opciones": [
+      "A progresión na carreira directiva profesional.",
+      "A progresión na carreira profesional.",
+      "A progresión na carreira directiva vertical."
+    ],
+    "respuestaCorrecta": "A progresión na carreira directiva profesional."
+  },
+  {
+    "id": 1766387215540,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "O artigo 51 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, sinala que as administracións públicas incluídas no ámbito de aplicación desta lei garantirán os dereitos constitucionais e lingüísticos das persoas:",
+    "opciones": [
+      "Respecto do galego, como lingua propia e oficial de Galicia.",
+      "A Lei 2/2015 non recolle no seu articulado referencia ningunha a requisitos lingüísticos.",
+      "Tanto respecto do galego, como lingua propia e oficial de Galicia, coma do castelán, lingua oficial en Galicia."
+    ],
+    "respuestaCorrecta": "Tanto respecto do galego, como lingua propia e oficial de Galicia, coma do castelán, lingua oficial en Galicia."
+  },
+  {
+    "id": 1766387215541,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 54 da Lei 2/2015, de 29 abril, do emprego público de Galicia, concorrerán nunha quenda separada dos demais aspirantes, sempre que así se xustificase para o mellor desenvolvemento das súas probas selectivas:",
+    "opciones": [
+      "As persoas, calquera que sexa a súa nacionalidade, descendentes do cónxuxe non separado de dereito de persoas que posúan a nacionalidade española ou doutros Estados membros da Unión Europea, sempre que sexan menores de vinte e un anos.",
+      "As persoas con discapacidade.",
+      "As persoas, calquera que sexa a súa nacionalidade, descendentes de persoas que posúan a nacionalidade española ou doutros Estados membros da Unión Europea, sempre que sexan menores de vinte e un anos."
+    ],
+    "respuestaCorrecta": "As persoas con discapacidade."
+  },
+  {
+    "id": 1766387215542,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "No artigo 58 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, non figura entre o contido mínimo das bases das convocatorias dos procesos selectivos:",
+    "opciones": [
+      "O réxime aplicable ao órgano de selección.",
+      "A composición do órgano de selección.",
+      "O sistema selectivo aplicable, con indicación do tipo de probas concretas e os sistemas de cualificación dos exercicios ou, de ser o caso, os baremos de puntuación dos méritos."
+    ],
+    "respuestaCorrecta": "A composición do órgano de selección."
+  },
+  {
+    "id": 1766387215543,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Segundo a redacción do artigo 68 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal funcionario pode solicitar a prolongación da permanencia na situación de servizo activo:",
+    "opciones": [
+      "Cunha antelación mínima de tres meses e máxima de catro meses á data en que cumpra a idade de xubilación forzosa.",
+      "Cunha antelación mínima de tres meses e máxima de catro meses á data en que cumpra a idade de xubilación ordinaria.",
+      "Cunha antelación mínima de dous meses e máxima de tres meses á data en que cumpra a idade de xubilación parcial."
+    ],
+    "respuestaCorrecta": "Cunha antelación mínima de tres meses e máxima de catro meses á data en que cumpra a idade de xubilación forzosa."
+  },
+  {
+    "id": 1766387215544,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Segundo o recollido no artigo 75 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, a promoción interna vertical consiste:",
+    "opciones": [
+      "No ascenso desde un corpo ou escala dun subgrupo ou grupo de clasificación profesional, no suposto de que este non teña subgrupo, a outro superior, consonte o establecido nesta sección.",
+      "No ascenso na estrutura de postos de traballo polos procedementos de provisión establecidos nesta lei.",
+      "No ascenso de grao e de categoría profesional sen necesidade de cambiar de posto de traballo, nos termos que se establezan regulamentariamente, en desenvolvemento dos principios recollidos nesta sección."
+    ],
+    "respuestaCorrecta": "No ascenso desde un corpo ou escala dun subgrupo ou grupo de clasificación profesional, no suposto de que este non teña subgrupo, a outro superior, consonte o establecido nesta sección."
+  },
+  {
+    "id": 1766387215545,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Segundo o artigo 77 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal funcionario de carreira de cada corpo ou escala terá atribuída unha categoría profesional e un grao dentro dela que para o persoal funcionario de novo ingreso será necesariamente:",
+    "opciones": [
+      "A categoría básica e o grao de ingreso nela.",
+      "A categoría inicial e o grao inferior desta.",
+      "A categoría do primeiro posto definitivo ao que acceda."
+    ],
+    "respuestaCorrecta": "A categoría inicial e o grao inferior desta."
+  },
+  {
+    "id": 1766387215546,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Cal dos seguintes, segundo o recollido no artigo 88 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, non é un procedemento ordinario de provisión de postos de traballo polo persoal funcionario de carreira?:",
+    "opciones": [
+      "O concurso específico.",
+      "A comisión de servizos voluntaria.",
+      "A libre designación con convocatoria pública."
+    ],
+    "respuestaCorrecta": "A comisión de servizos voluntaria."
+  },
+  {
+    "id": 1766387215547,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Segundo o recollido no artigo 90 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o procedemento xeral de provisión dos postos de traballo que non teñan establecida outra forma de provisión na relación de postos de traballo é:",
+    "opciones": [
+      "O concurso.",
+      "O concurso ordinario e o concurso específico.",
+      "O concurso ordinario."
+    ],
+    "respuestaCorrecta": "O concurso ordinario."
+  },
+  {
+    "id": 1766387215548,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Con base no recollido no artigo 93 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal funcionario de carreira que non tome posesión do posto de traballo adxudicado por concurso ou por libre designación no prazo establecido decaerá nos dereitos que lle poidan corresponder e, de ser o caso, será declarado na situación de:",
+    "opciones": [
+      "Excedencia forzosa por interese particular.",
+      "Servizos especiais.",
+      "Excedencia voluntaria por interese particular."
+    ],
+    "respuestaCorrecta": "Excedencia voluntaria por interese particular."
+  },
+  {
+    "id": 1766387215549,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Segundo o artigo 103 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal funcionario de carreira que ocupe un posto de traballo que sexa obxecto de supresión como consecuencia dun plan de ordenación de recursos humanos pode ser destinado a outro posto de traballo polo procedemento de:",
+    "opciones": [
+      "Reasignación de efectivos.",
+      "Comisión de servizos forzosa.",
+      "Adscrición provisional."
+    ],
+    "respuestaCorrecta": "Reasignación de efectivos."
+  },
+  {
+    "id": 1766387215550,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Segundo o artigo 106 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, concederase unha redución por horas completas de ata a metade da duración da xornada de traballo diaria por un prazo máximo dun mes, prorrogable en circunstancias excepcionais ata unha duración máxima total de dous meses, para atender o coidado do cónxuxe ou parella de feito, dun familiar de primeiro grao de consanguinidade ou afinidade ou dun menor en acollemento preadoptivo, permanente ou simple, por razóns de:",
+    "opciones": [
+      "Accidente ou enfermidade grave.",
+      "Enfermidade moi grave.",
+      "Accidente ou enfermidade moi grave."
+    ],
+    "respuestaCorrecta": "Enfermidade moi grave."
+  },
+  {
+    "id": 1766387215551,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "Segundo o artigo 108 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal funcionario que faga uso do permiso por falecemento, accidente ou enfermidade grave, hospitalización ou intervención cirúrxica dun familiar, no caso do accidente dun familiar dentro do segundo grao de consanguinidade ou afinidade en distinta localidade:",
+    "opciones": [
+      "Ten dereito a un permiso de catro días hábiles, e incluiranse no cómputo os sábados.",
+      "Ten dereito a un permiso de catro días hábiles, e non se incluirán no cómputo os sábados.",
+      "Ten dereito a un permiso de cinco días hábiles, e incluiranse no cómputo os sábados."
+    ],
+    "respuestaCorrecta": "Ten dereito a un permiso de catro días hábiles, e non se incluirán no cómputo os sábados."
+  },
+  {
+    "id": 1766387215552,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
+    ],
+    "enunciado": "O artigo 119 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, recolle que no caso de unión de feito o persoal funcionario ten dereito a:",
+    "opciones": [
+      "Un permiso retribuído de quince días hábiles ininterrompidos.",
+      "Un permiso retribuído de quince días naturais ininterrompidos.",
+      "A lei non recolle un permiso para as unións de feito."
+    ],
+    "respuestaCorrecta": "Un permiso retribuído de quince días naturais ininterrompidos."
+  },
+  {
+    "id": 1766387215553,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "RDL 1/2013"
+    ],
+    "enunciado": "De acordo co artigo 2 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, enténdese por discriminación directa:",
+    "opciones": [
+      "Cando unha persoa con discapacidade é tratada de maneira diferente respecto doutras por motivo ou por razón de discapacidade, creando unha contorna intimidatoria.",
+      "Cando unha persoa ou grupo en que se integra é obxecto dun trato discriminatorio debido á súa relación con outra por motivo ou por razón de discapacidade.",
+      "É a situación en que se encontra unha persoa con discapacidade cando é tratada de maneira menos favorable ca outra en situación análoga por motivo ou por razón da súa discapacidade."
+    ],
+    "respuestaCorrecta": "É a situación en que se encontra unha persoa con discapacidade cando é tratada de maneira menos favorable ca outra en situación análoga por motivo ou por razón da súa discapacidade."
+  },
+  {
+    "id": 1766387215554,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "RDL 1/2013"
+    ],
+    "enunciado": "En base ao artigo 11 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, a prevención de deficiencias e de intensificación de discapacidades:",
+    "opciones": [
+      "Articularase a través de plans cuxa elaboración corresponde ás entidades locais.",
+      "Constitúe un dereito das persoas con discapacidade.",
+      "Constitúe un dereito e un deber de todo cidadán e da sociedade no seu conxunto."
+    ],
+    "respuestaCorrecta": "Constitúe un dereito e un deber de todo cidadán e da sociedade no seu conxunto."
+  },
+  {
+    "id": 1766387215555,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "RDL 1/2013"
+    ],
+    "enunciado": "En base ao artigo 12 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, as cualificacións e valoracións dos equipos multiprofesionais de cualificación e recoñecemento do grao de discapacidade responderán a criterios técnicos unificados, baseados na evidencia dispoñible e:",
+    "opciones": [
+      "Terán validez ante calquera organismo público e en todo o territorio do Estado.",
+      "Terán validez en todo o territorio da Unión Europea.",
+      "Terán validez ante calquera organismo público no ámbito da Administración competente."
+    ],
+    "respuestaCorrecta": "Terán validez ante calquera organismo público e en todo o territorio do Estado."
+  },
+  {
+    "id": 1766387215556,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "RDL 1/2013"
+    ],
+    "enunciado": "En base ao artigo 19 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, as persoas con discapacidade, na súa etapa educativa, terán dereito:",
+    "opciones": [
+      "Á gratuidade do ensino nos centros especiais e ao apoio á escolarización nos centros ordinarios, sen que se poidan establecer garantías adicionais.",
+      "Á gratuidade do ensino nos centros ordinarios e nos centros especiais, de acordo co que dispoñen a Constitución e as leis que a desenvolven.",
+      "Á gratuidade do ensino nos centros especiais e ás axudas que se establezan para o ensino en centros ordinarios."
+    ],
+    "respuestaCorrecta": "Á gratuidade do ensino nos centros ordinarios e nos centros especiais, de acordo co que dispoñen a Constitución e as leis que a desenvolven."
+  },
+  {
+    "id": 1766387215557,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "RDL 1/2013"
+    ],
+    "enunciado": "De acordo co artigo 23 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, as condicións básicas de accesibilidade e non discriminación establecerán, para cada ámbito ou área:",
+    "opciones": [
+      "Medidas concretas para previr ou suprimir discriminacións e para compensar desvantaxes ou dificultades.",
+      "Programas de sensibilización para o fomento da participación de asociacións e entidades.",
+      "O carácter supletorio das medidas que se establezan en materia social."
+    ],
+    "respuestaCorrecta": "Medidas concretas para previr ou suprimir discriminacións e para compensar desvantaxes ou dificultades."
+  },
+  {
+    "id": 1766387215558,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "RDL 1/2013"
+    ],
+    "enunciado": "De acordo co artigo 23 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, a regulación das condicións básicas de accesibilidade e non discriminación que lles garantan os mesmos niveis de igualdade de oportunidades a todas as persoas con discapacidade:",
+    "opciones": [
+      "Desenvolverase a través de proxectos de execución.",
+      "Será gradual no tempo e no alcance e contido das obrigas impostas.",
+      "Será supletoria das medidas que se establezan en materia de igualdade de xénero."
+    ],
+    "respuestaCorrecta": "Será gradual no tempo e no alcance e contido das obrigas impostas."
+  },
+  {
+    "id": 1766387215559,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "RDL 1/2013"
+    ],
+    "enunciado": "De acordo co artigo 52 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, os centros ocupacionais:",
+    "opciones": [
+      "Son servizos de orientación e apoio ás familias.",
+      "Son servizos de centro de día e de noite que ofrecen unha atención integra ás persoas con discapacidade, co obxectivo de mellorar ou manter a autonomía persoal.",
+      "Teñen como finalidade asegurar os servizos de terapia ocupacional e de axuste persoal e social ás persoas con discapacidade, co obxecto de lograr o seu máximo desenvolvemento persoal e, nos casos en que sexa posible, facilitar a súa capacitación e preparación para o acceso ao emprego."
+    ],
+    "respuestaCorrecta": "Teñen como finalidade asegurar os servizos de terapia ocupacional e de axuste persoal e social ás persoas con discapacidade, co obxecto de lograr o seu máximo desenvolvemento persoal e, nos casos en que sexa posible, facilitar a súa capacitación e preparación para o acceso ao emprego."
+  },
+  {
+    "id": 1766387215560,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 1/2016"
+    ],
+    "enunciado": "Segundo o establecido no artigo 1.2 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, o obxecto desta lei é establecer o réxime xurídico de:",
+    "opciones": [
+      "As obrigacións de bo goberno e das persoas que ocupen altos cargos, incluído o seu réxime de incompatibilidades, de conflito de intereses e de control dos seus bens patrimoniais.",
+      "As obrigacións de bo goberno e das persoas que ocupen altos cargos, incluído o seu réxime de incompatibilidades e de control dos seus bens patrimoniais.",
+      "As obrigacións de bo goberno e das empregadas e empregados públicos."
+    ],
+    "respuestaCorrecta": "As obrigacións de bo goberno e das persoas que ocupen altos cargos, incluído o seu réxime de incompatibilidades, de conflito de intereses e de control dos seus bens patrimoniais."
+  },
+  {
+    "id": 1766387215561,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 1/2016"
+    ],
+    "enunciado": "De conformidade co establecido no artigo 6.3 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, sobre a publicidade activa:",
+    "opciones": [
+      "Cando a información conteña datos de carácter persoal, non se poderán publicar.",
+      "Cando a información conteña datos de carácter persoal, especialmente protexidos, a súa publicidade só se levará a cabo coa disociación previa destes.",
+      "Cando a información conteña datos de carácter persoal, especialmente protexidos, non se poderán publicar."
+    ],
+    "respuestaCorrecta": "Cando a información conteña datos de carácter persoal, especialmente protexidos, a súa publicidade só se levará a cabo coa disociación previa destes."
+  },
+  {
+    "id": 1766387215562,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 1/2016"
+    ],
+    "enunciado": "De conformidade co establecido no artigo 13 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, sobre as obrigacións específicas de información de contratación pública, facilitarase información sobre:",
+    "opciones": [
+      "Datos sobre os contratos subscritos, excluídos os contratos menores e os criterios interpretativos dos órganos consultivos en materia de contratación.",
+      "Datos sobre os contratos subscritos, incluídos os contratos menores e os criterios interpretativos dos órganos consultivos en materia de contratación.",
+      "Datos sobre os contratos subscritos, incluídos os contratos menores."
+    ],
+    "respuestaCorrecta": "Datos sobre os contratos subscritos, incluídos os contratos menores e os criterios interpretativos dos órganos consultivos en materia de contratación."
+  },
+  {
+    "id": 1766387215563,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 1/2016"
+    ],
+    "enunciado": "De conformidade co establecido no artigo 24.2 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, en relación ao acceso da información pública, garántese:",
+    "opciones": [
+      "A posibilidade de utilización da información obtida tras a autorización e a recepción da información pública en formato electrónico ou en papel.",
+      "A posibilidade de utilización da información obtida sen autorización e a recepción da información privada en formato electrónico ou en papel.",
+      "A posibilidade de utilización da información obtida sen necesidade de autorización previa e a recepción da información pública en formato electrónico ou en papel."
+    ],
+    "respuestaCorrecta": "A posibilidade de utilización da información obtida sen necesidade de autorización previa e a recepción da información pública en formato electrónico ou en papel."
+  },
+  {
+    "id": 1766387215564,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 1/2016"
+    ],
+    "enunciado": "De conformidade co establecido no artigo 27.4 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, con relación á solicitude de acceso á información pública:",
+    "opciones": [
+      "A resolución na que se conceda ou denegue o acceso deberá notificarse no prazo máximo dun mes desde a recepción da solicitude polo órgano competente para resolver.",
+      "A resolución na que se conceda ou denegue o acceso deberá notificarse no prazo máximo de dous meses desde a recepción da solicitude polo órgano competente para resolver.",
+      "A resolución na que se conceda ou denegue o acceso deberá notificarse no prazo máximo dun mes desde a solicitude."
+    ],
+    "respuestaCorrecta": "A resolución na que se conceda ou denegue o acceso deberá notificarse no prazo máximo dun mes desde a recepción da solicitude polo órgano competente para resolver."
+  },
+  {
+    "id": 1766387215565,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 1/2016"
+    ],
+    "enunciado": "De conformidade co establecido no artigo 29.3 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, en relación ao Portal de transparencia e goberno aberto:",
+    "opciones": [
+      "A información estará dispoñible en galego e en castelán.",
+      "A información estará dispoñible en galego, e poderá traducirse ao castelán.",
+      "A información estará exclusivamente en galego."
+    ],
+    "respuestaCorrecta": "A información estará dispoñible en galego e en castelán."
+  },
+  {
+    "id": 1766387215566,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 1/2016"
+    ],
+    "enunciado": "Segundo o establecido no artigo 33.1 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, sobre a Comisión da Transparencia:",
+    "opciones": [
+      "Créase a Comisión da Transparencia como órgano dependente do Valedor do Pobo.",
+      "Créase a Comisión da Transparencia como órgano independente adscrito do Parlamento de Galicia.",
+      "Créase a Comisión da Transparencia como órgano colexiado independente adscrito ao Valedor do Pobo."
+    ],
+    "respuestaCorrecta": "Créase a Comisión da Transparencia como órgano colexiado independente adscrito ao Valedor do Pobo."
+  },
+  {
+    "id": 1766387215567,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "DL 2/2015 (derogado) -> 7/2023"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 4 de Decreto lexislativo 2/2015, do 12 febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, denomínanse accións positivas:",
+    "opciones": [
+      "As medidas destinadas á integración da dimensión da igualdade de oportunidades na elaboración, execución e seguimento de todas as políticas públicas.",
+      "A colaboración en materia de xénero entre os diversos órganos integrados na Administración xeral da comunidade autónoma.",
+      "As medidas especiais encamiñadas a acelerar a igualdade de oportunidades entre mulleres e homes."
+    ],
+    "respuestaCorrecta": "As medidas especiais encamiñadas a acelerar a igualdade de oportunidades entre mulleres e homes."
+  },
+  {
+    "id": 1766387215568,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "DL 2/2015 (derogado) -> 7/2023"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 5 de Decreto lexislativo 2/2015, do 12 febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, a conciliación do emprego e da vida familiar das mulleres e homes e o fomento da individualización dos dereitos tendentes a esa conciliación considérase:",
+    "opciones": [
+      "Un criterio de actuación da Xunta de Galicia.",
+      "Unha función da Comisión Interdepartamental de Igualdade.",
+      "Unha función do Consello Galego das Mulleres."
+    ],
+    "respuestaCorrecta": "Un criterio de actuación da Xunta de Galicia."
+  },
+  {
+    "id": 1766387215569,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "DL 2/2015 (derogado) -> 7/2023"
+    ],
+    "enunciado": "Segundo o disposto no artigo 8 de Decreto lexislativo 2/2015, do 12 febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, os regulamentos con repercusión en cuestións de xénero elaborados pola Xunta de Galicia tamén esixirán, antes da súa aprobación, a emisión dun informe sobre o seu impacto de xénero elaborado por:",
+    "opciones": [
+      "A Dirección Xeral da Función Pública.",
+      "O órgano competente en materia de igualdade.",
+      "A Comisión Interdepartamental de Igualdade."
+    ],
+    "respuestaCorrecta": "O órgano competente en materia de igualdade."
+  },
+  {
+    "id": 1766387215570,
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "DL 2/2015 (derogado) -> 7/2023"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 49 de Decreto lexislativo 2/2015, do 12 febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, cando no corpo, escala, grupo ou categoría exista unha diferenza porcentual de, polo menos, vinte puntos entre o número de mulleres e o número de homes denomínase:",
+    "opciones": [
+      "Discriminación.",
+      "Infrarrepresentación.",
+      "Composición equilibrada do persoal."
+    ],
+    "respuestaCorrecta": "Infrarrepresentación."
+  },
+  {
+    "id": 1766479025977,
+    "enunciado": "Segundo a redacción do artigo 116 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal funcionario ten dereito a un permiso para atender o coidado do cónxuxe ou parella de feito ou dun familiar dentro do primeiro grao de consanguinidade ou afinidade, nos casos de:",
+    "opciones": [
+      "Accidente ou enfermidade grave.",
+      "Accidente ou enfermidade moi grave.",
+      "Enfermidade moi grave."
+    ],
+    "respuestaCorrecta": "Accidente ou enfermidade moi grave.",
+    "tema": [
+      "C1_Adquisicion_2024_A",
+      "Ley 2/2015"
     ]
   }
 ]
