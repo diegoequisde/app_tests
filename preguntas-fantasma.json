@@ -531,5 +531,37 @@
       "Ten dereito á carreira profesional horizontal."
     ],
     "respuestaCorrecta": "É nomeado e cesado libremente."
+  },
+
+  {
+    "id": 1765791181758,
+    "tema": [
+      "C2_Adquisicion_2022_B",
+      "C2_Adquisicion_2021_B",
+      "C1_Adquisicion_2022_B",
+      "Ley 1/2016"
+    ],
+    "enunciado": "De conformidade co establecido no artigo 28.1 da Lei 1/2016 do 18 de xaneiro, de transparencia e bo goberno, en relación á solicitude de acceso á información pública:",
+    "opciones": [
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse o recurso administrativo que corresponda.",
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso poderá interpoñerse unha reclamación ante o Valedor do Pobo ou un recurso contencioso-administrativo.",
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo."
+    ],
+    "respuestaCorrecta": "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo."
+  },
+    {
+    "id": 1765735404382,
+    "tema": [
+      "C2_Ingreso_2024_B",
+      "Ley 1/2016"
+    ],
+    "enunciado": "De conformidade co establecido no artigo 28.1 da Lei 1/2016 do 18 de xaneiro, de transparencia e bo goberno, en relación á solicitude de acceso á información pública:",
+    "opciones": [
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse o recurso administrativo que corresponda.",
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso poderá interpoñerse unha reclamación ante o Valedor do Pobo ou un recurso contencioso-administrativo.",
+      "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo.",
+      "Contra a resolución expresa do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso extraordinario de revisión."
+    ],
+    "respuestaCorrecta": "Contra a resolución expresa ou presunta do Consello Galego de Relacións Laborais, en materia de acceso só poderá interpoñerse un recurso contencioso-administrativo."
   }
 ]
