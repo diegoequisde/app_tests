@@ -4,7 +4,7 @@ Corto plazo:
 ejecutando script (node scripts/detectar-duplicados.js)****
 ****- en cada pregunta se muestra a qué temas pertenece (tags)****
 
-- añadir examenes c1 (faltan 2)
+- añadir examenes c1 (falta 1)
 - buscar el resto de modelos (A/B) , (adquisicion/ingreso)... 
 - preguntas tema 1, ue, etc...
 - preguntas leyes especificas C1 (RDL 2/2015: Ley del Estatuto de los trabajadores, RDL 8/2015: LGSS). (buscar examenes parte especifica)
