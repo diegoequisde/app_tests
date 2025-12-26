@@ -5398,5 +5398,425 @@
       "C1_Adquisicion_2021_B",
       "Ley 40/2015"
     ]
+  },
+  {
+    "id": 1766687916656,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 39/2015"
+    ],
+    "enunciado": "A Administración xeral do Estado, as comunidades autónomas e as entidades locais manterán actualizado un rexistro, ou outro sistema equivalente, onde constarán os funcionarios habilitados para a identificación ou sinatura regulada no artigo 12 da Lei 39/2015. Estes rexistros deberán ser interoperables e estar interconectados:",
+    "opciones": [
+      "Para os efectos de comprobar a validez das citadas habilitacións.",
+      "Para os efectos de axilizar a tramitación dos procedementos administrativos.",
+      "Para os efectos de garantir os principios de transparencia e proximidade ao cidadán."
+    ],
+    "respuestaCorrecta": "Para os efectos de comprobar a validez das citadas habilitacións."
+  },
+  {
+    "id": 1766687916657,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Respecto dos rexistros, establece o artigo 16 da Lei 39/2015 que para facer o correspondente asento de todo documento presentado ou recibido:",
+    "opciones": [
+      "Cada Administración disporá dun rexistro electrónico xeral.",
+      "Existirá un rexistro electrónico xeral para todas as administracións públicas.",
+      "Existirá un rexistro electrónico xeral para todas as administracións públicas, sen prexuízo de rexistros propios."
+    ],
+    "respuestaCorrecta": "Cada Administración disporá dun rexistro electrónico xeral."
+  },
+  {
+    "id": 1766687916658,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 39/2015"
+    ],
+    "enunciado": "En cal dos seguintes casos se suspenderá obrigatoriamente o transcurso do prazo máximo legal para resolver e notificar? (art. 22)",
+    "opciones": [
+      "Cando se inicien negociacións con vistas á conclusión dun pacto ou convenio.",
+      "Cando exista un procedemento non finalizado no ámbito da UE que condicione directamente o contido da resolución.",
+      "Cando os interesados promovan a recusación en calquera momento da tramitación."
+    ],
+    "respuestaCorrecta": "Cando os interesados promovan a recusación en calquera momento da tramitación."
+  },
+  {
+    "id": 1766687916659,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Segundo o artigo 32 da Lei 39/2015, a Administración poderá conceder unha ampliación dos prazos establecidos:",
+    "opciones": [
+      "Salvo precepto en contrario.",
+      "Que non exceda en ningún caso de dez días.",
+      "Unicamente a petición dos interesados."
+    ],
+    "respuestaCorrecta": "Salvo precepto en contrario."
+  },
+  {
+    "id": 1766687916660,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 39/2015"
+    ],
+    "enunciado": "A proposta de iniciación do procedemento formulada por órgano non competente que tivo coñecemento dos feitos denomínase (art. 61):",
+    "opciones": [
+      "Petición razoada.",
+      "Denuncia.",
+      "Orde superior."
+    ],
+    "respuestaCorrecta": "Petición razoada."
+  },
+  {
+    "id": 1766687916661,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Segundo o artigo 74 da Lei 39/2015, as cuestións incidentais que se susciten no procedemento suspenderán a súa tramitación:",
+    "opciones": [
+      "Só se se refiren á nulidade de actuacións.",
+      "Só se se trata da recusación.",
+      "Si, en todo caso."
+    ],
+    "respuestaCorrecta": "Só se se trata da recusación."
+  },
+  {
+    "id": 1766687916662,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Segundo o artigo 87 da Lei 39/2015, as actuacións complementarias deberán practicarse nun prazo:",
+    "opciones": [
+      "Non superior a quince días.",
+      "Non superior a dez días.",
+      "Non superior a sete días."
+    ],
+    "respuestaCorrecta": "Non superior a quince días."
+  },
+  {
+    "id": 1766687916663,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 39/2015"
+    ],
+    "enunciado": "Respecto da renuncia, sinala o artigo 94 da Lei 39/2015 que:",
+    "opciones": [
+      "Todo interesado poderá renunciar aos seus dereitos.",
+      "Todo interesado poderá renunciar aos seus dereitos antes da proposta de resolución.",
+      "Todo interesado poderá renunciar aos seus dereitos cando iso non estea prohibido polo ordenamento xurídico."
+    ],
+    "respuestaCorrecta": "Todo interesado poderá renunciar aos seus dereitos cando iso non estea prohibido polo ordenamento xurídico."
+  },
+  {
+    "id": 1766687916664,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 8 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, a titularidade e o exercicio das competencias atribuídas aos órganos administrativos poderán ser desconcentradas:",
+    "opciones": [
+      "Non cabe a desconcentración de competencias noutros órganos administrativos.",
+      "Noutros órganos xerarquicamente independentes daqueles.",
+      "Noutros órganos xerarquicamente dependentes daqueles."
+    ],
+    "respuestaCorrecta": "Noutros órganos xerarquicamente dependentes daqueles."
+  },
+  {
+    "id": 1766687916665,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 9 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, a delegación será revogable en calquera momento por:",
+    "opciones": [
+      "As Cortes Xerais.",
+      "O órgano que a conferiu.",
+      "A delegación é irrevogable."
+    ],
+    "respuestaCorrecta": "O órgano que a conferiu."
+  },
+  {
+    "id": 1766687916666,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 14 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, poderán dirixirse ao órgano que se atope coñecendo dun asunto para que decline a súa competencia e remita as actuacións ao órgano competente:",
+    "opciones": [
+      "O órgano administrativo que se estime incompetente.",
+      "Calquera cidadán maior de idade.",
+      "Os interesados que sexan parte no procedemento."
+    ],
+    "respuestaCorrecta": "Os interesados que sexan parte no procedemento."
+  },
+  {
+    "id": 1766687916667,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 24 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, contra as resolucións adoptadas en materia de recusación:",
+    "opciones": [
+      "Poderá interporse recurso de reposición.",
+      "Poderá interporse recurso de alzada.",
+      "Non caberá recurso."
+    ],
+    "respuestaCorrecta": "Non caberá recurso."
+  },
+  {
+    "id": 1766687916668,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 28 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, os grupos de afectados, as unións e entidades sen personalidade xurídica e os patrimonios independentes ou autónomos poderán ser sancionadas por feitos constitutivos de infracción administrativa:",
+    "opciones": [
+      "Cando unha lei lles recoñeza capacidade de obrar.",
+      "En ningún caso poderán ser sancionados.",
+      "Cando unha norma de rango regulamentario lles recoñeza capacidade xurídica."
+    ],
+    "respuestaCorrecta": "Cando unha lei lles recoñeza capacidade de obrar."
+  },
+  {
+    "id": 1766687916669,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 30 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, o prazo de prescrición das infraccións comezará a contarse:",
+    "opciones": [
+      "Desde o día en que a infracción se cometese.",
+      "Desde o día seguinte a aquel en que sexa executable a resolución pola que se impón a sanción.",
+      "Desde o día seguinte a aquel en que transcorra o prazo para recorrer a sanción."
+    ],
+    "respuestaCorrecta": "Desde o día en que a infracción se cometese."
+  },
+  {
+    "id": 1766687916670,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 30 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, interromperá a prescrición das infraccións a iniciación, con coñecemento do interesado, dun procedemento administrativo de natureza:",
+    "opciones": [
+      "Especial.",
+      "Común.",
+      "Sancionadora."
+    ],
+    "respuestaCorrecta": "Sancionadora."
+  },
+  {
+    "id": 1766687916671,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 32 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, o dereito dos particulares a ser indemnizados polas administracións públicas correspondentes encádrase dentro do principio de:",
+    "opciones": [
+      "Proporcionalidade.",
+      "Responsabilidade.",
+      "Tipicidade."
+    ],
+    "respuestaCorrecta": "Responsabilidade."
+  },
+  {
+    "id": 1766687916672,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Conforme ao disposto no artigo 32 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, a anulación en vía administrativa ou pola orde xurisdicional contencioso administrativo dos actos ou disposicións administrativas:",
+    "opciones": [
+      "Presupón, en todo caso, dereito á indemnización.",
+      "Non presupón, por si mesma, dereito á indemnización.",
+      "Presupón dereito á indemnización unicamente cando os danos deriven da aplicación dunha norma contraria ao dereito da Unión Europea."
+    ],
+    "respuestaCorrecta": "Non presupón, por si mesma, dereito á indemnización."
+  },
+  {
+    "id": 1766687916673,
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 40/2015"
+    ],
+    "enunciado": "Nos supostos de responsabilidade patrimonial, segundo dispón o artigo 34 da Lei 40/2015, do 1 de outubro, de réxime xurídico do sector público, a indemnización procedente:",
+    "opciones": [
+      "Poderase substituír por unha compensación en especie, pero non poderá ser aboada mediante pagos periódicos.",
+      "Poderá ser aboada mediante pagos periódicos, pero non se poderá substituír por unha compensación en especie.",
+      "Poderase substituír por unha compensación en especie ou ser aboada mediante pagos periódicos."
+    ],
+    "respuestaCorrecta": "Poderase substituír por unha compensación en especie ou ser aboada mediante pagos periódicos."
+  },
+  {
+    "id": 1766741973023,
+    "enunciado": "De acordo co establecido no artigo 23 da Lei 2/2015, de 29 abril, do emprego público de Galicia, para que poida procederse ao nomeamento de persoal funcionario interino ten que concorrer algunha das seguintes circunstancias:",
+    "opciones": [
+      "A existencia de postos vacantes, con dotación orzamentaria, cando non sexa posible a súa cobertura por persoal eventual.",
+      "A execución de programas de duración indeterminada que respondan a necesidades permanentes da Administración.",
+      "A substitución transitoria das persoas titulares dos postos."
+    ],
+    "respuestaCorrecta": "A substitución transitoria das persoas titulares dos postos.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766742032077,
+    "enunciado": "O artigo 34 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, indica que os contratos laborais de alta dirección do persoal directivo incluirán un pacto de permanencia e non competencia poscontractual:",
+    "opciones": [
+      "Polos dous anos seguintes á extinción do contrato.",
+      "Polos tres anos seguintes á extinción do contrato.",
+      "Polos cinco anos seguintes á extinción do contrato."
+    ],
+    "respuestaCorrecta": "Polos dous anos seguintes á extinción do contrato.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766742072105,
+    "enunciado": "Segundo a redacción do artigo 72 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, as empregadas públicas vítimas de violencia de xénero teñen, entre outros, dereito:",
+    "opciones": [
+      "Á consideración como xustificadas das faltas de asistencia, totais ou parciais, polo tempo e nas condicións en que así o determinen os servizos sociais de atención ou de saúde, segundo proceda.",
+      "Á consideración como xustificadas das faltas de asistencia, totais ou parciais, por un período dun ano, prorrogable por períodos de seis meses.",
+      "Á consideración como xustificadas das faltas de asistencia, totais ou parciais, por un período dun ano, prorrogable por períodos de seis meses, nas condicións en que así o determinen os servizos sociais de atención ou de saúde, segundo proceda."
+    ],
+    "respuestaCorrecta": "Á consideración como xustificadas das faltas de asistencia, totais ou parciais, polo tempo e nas condicións en que así o determinen os servizos sociais de atención ou de saúde, segundo proceda.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766742123381,
+    "enunciado": "Segundo o artigo 89 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, no caso de postos de persoal funcionario da Administración xeral, o persoal funcionario de carreira que estea adscrito por motivos de saúde ou rehabilitación a un posto de traballo en distinta localidade daquela na que teña o seu destino definitivo estará obrigado a participar nos concursos de provisión, para postos adecuados ao seu corpo ou escala, que se convoquen e a solicitar:",
+    "opciones": [
+      "Todos os postos situados na mesma provincia do posto ao que figure adscrito provisionalmente.",
+      "Todos os postos situados a menos de 30 quilómetros da localidade do posto ao que figure adscrito provisionalmente.",
+      "Todos os postos situados na mesma localidade do posto ao que figure adscrito provisionalmente."
+    ],
+    "respuestaCorrecta": "Todos os postos situados na mesma localidade do posto ao que figure adscrito provisionalmente.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766742157603,
+    "enunciado": "Segundo o artigo 97 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, o persoal funcionario que cese nun posto de traballo provisto por libre designación percibirá as retribucións complementarias correspondentes ao posto que ocupase con carácter definitivo:",
+    "opciones": [
+      "Mentres non obteña outro posto con carácter definitivo polos procedementos ordinarios de provisión previstos no capítulo III do título VI da lei e durante un prazo máximo de tres meses.",
+      "Mentres non obteña outro posto con carácter definitivo polos procedementos ordinarios de provisión previstos no capítulo III do título VI da lei e durante un prazo máximo de seis meses.",
+      "Mentres non obteña outro posto con carácter definitivo polos procedementos ordinarios de provisión previstos no capítulo III do título VI da lei e durante un prazo máximo de doce meses."
+    ],
+    "respuestaCorrecta": "Mentres non obteña outro posto con carácter definitivo polos procedementos ordinarios de provisión previstos no capítulo III do título VI da lei e durante un prazo máximo de tres meses.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 2/2015"
+    ]
+  },
+  {
+    "id": 1766742202660,
+    "enunciado": "De acordo co artigo 2 do Real decreto lexislativo 1/2013, do 29 de novembro, polo que se aproba o texto refundido da Lei xeral de dereitos das persoas con discapacidade e da súa inclusión social, enténdese por normalización:",
+    "opciones": [
+      "A adopción de medidas de carácter específico consistentes en evitar ou compensar as desvantaxes derivadas da discapacidade.",
+      "A adopción de medidas de carácter específico consistentes en promover valores compartidos orientados ao ben común e á cohesión social.",
+      "O principio en virtude do cal as persoas con discapacidade deben poder levar unha vida en igualdade de condicións e acceder aos mesmos lugares, ámbitos, bens e servizos que están á disposición de calquera outra persoa."
+    ],
+    "respuestaCorrecta": "O principio en virtude do cal as persoas con discapacidade deben poder levar unha vida en igualdade de condicións e acceder aos mesmos lugares, ámbitos, bens e servizos que están á disposición de calquera outra persoa.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "RDL 1/2013"
+    ]
+  },
+  {
+    "id": 1766742249771,
+    "enunciado": "De conformidade co establecido no artigo 21.3 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, con relación á reutilización da información do sector público autonómico:",
+    "opciones": [
+      "Os órganos e unidades da Administración xeral velarán por que os documentos poidan estar dispoñibles en calquera formato para a súa reutilización.",
+      "Os órganos e unidades da Administración xeral velarán por que os documentos poidan estar dispoñibles no formato máis adecuado en cada caso para a súa reutilización.",
+      "Os órganos e unidades da Administración xeral velarán por que os documentos poidan estar dispoñibles en formato aberto para a súa reutilización."
+    ],
+    "respuestaCorrecta": "Os órganos e unidades da Administración xeral velarán por que os documentos poidan estar dispoñibles en formato aberto para a súa reutilización.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 1/2016"
+    ]
+  },
+  {
+    "id": 1766742298283,
+    "enunciado": "De conformidade co establecido no artigo 25.3 da Lei 1/2016, do 18 de xaneiro, de transparencia e bo goberno, en relación ao acceso da información pública:",
+    "opciones": [
+      "As limitacións ao dereito de acceso serán de aplicación durante un tempo predeterminado polas resolucións que acordan o acceso e mentres se manteña a razón que as xustifique.",
+      "As limitacións ao dereito de acceso fixarán a súa duración e, en todo caso, ata que se solicite novamente o acceso.",
+      "As limitacións ao dereito de acceso só serán de aplicación durante o período de tempo determinado polas leis ou mentres se manteña a razón que as xustifique."
+    ],
+    "respuestaCorrecta": "As limitacións ao dereito de acceso só serán de aplicación durante o período de tempo determinado polas leis ou mentres se manteña a razón que as xustifique.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 1/2016"
+    ]
+  },
+  {
+    "id": 1766742336170,
+    "enunciado": "Conforme ao disposto no artigo 52 de Decreto lexislativo 2/2015, do 12 febreiro, polo que se aproba o texto refundido das disposicións legais da Comunidade Autónoma de Galicia en materia de igualdade, enténdese a existencia de predominancia cando no corpo, escala, grupo ou categoría exista unha diferenza porcentual entre o número de mulleres e o número de homes de polo menos:",
+    "opciones": [
+      "20 puntos.",
+      "10 puntos.",
+      "25 puntos."
+    ],
+    "respuestaCorrecta": "20 puntos.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "DL 2/2015(derogado) -> 7/2023"
+    ]
+  },
+  {
+    "id": 1766742371364,
+    "enunciado": "A que medio de execución dos previstos na Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas se acudirá cando se trate de actos que, por non ser persoalísimos, poidan ser realizados por un suxeito distinto do obrigado (artigo 102 da LPAC)?:",
+    "opciones": [
+      "Execución subsidiaria.",
+      "Multa coercitiva.",
+      "Constrinximento sobre o patrimonio."
+    ],
+    "respuestaCorrecta": "Execución subsidiaria.",
+    "tema": [
+      "C1_Adquisicion_2022_B",
+      "Ley 39/2015"
+    ]
+  },
+  {
+    "id": 1766742417221,
+    "enunciado": "Os documentos electrónicos deberán conservarse nun formato que permita garantir a autenticidade, integridade e conservación do documento, así como a súa consulta, con independencia do tempo transcorrido desde a súa emisión. Asegurarase en todo caso (artigo 17 da LPAC):",
+    "opciones": [
+      "Que a eliminación dos devanditos documentos deba ser autorizada expresamente polo interesado.",
+      "Que esta consulta non teña custo ningún para o interesado, salvo naqueles casos en que así se determine polas normas reguladoras de cada procedemento.",
+      "A posibilidade de trasladar os datos a outros formatos e soportes que garantan o acceso desde diferentes aplicacións."
+    ],
+    "respuestaCorrecta": "A posibilidade de trasladar os datos a outros formatos e soportes que garantan o acceso desde diferentes aplicacións.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 39/2015"
+    ]
+  },
+  {
+    "id": 1766742457985,
+    "enunciado": "Segundo o artigo 113 da Lei 2/2015, do 29 de abril, do emprego público de Galicia, nos casos de nacemento de fillos prematuros ou que por calquera causa deban permanecer hospitalizados a continuación do parto, o persoal funcionario ten dereito a ausentarse do posto de traballo:",
+    "opciones": [
+      "Un máximo de tres horas diarias mentres dure o período de hospitalización, coa percepción íntegra das súas retribucións.",
+      "Un máximo de dúas horas diarias mentres dure o período de hospitalización, coa diminución proporcional das súas retribucións.",
+      "Un máximo de dúas horas diarias mentres dure o período de hospitalización, coa percepción íntegra das súas retribucións."
+    ],
+    "respuestaCorrecta": "Un máximo de dúas horas diarias mentres dure o período de hospitalización, coa percepción íntegra das súas retribucións.",
+    "tema": [
+      "C1_Adquisicion_2021_B",
+      "Ley 2/2015"
+    ]
   }
 ]

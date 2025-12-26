@@ -3,21 +3,25 @@ Corto plazo:
 ****- Detectar preguntas duplicadas (porque están en examenes de varios años) y pasarlas como una unica pregunta con varios temas (examen 2023, examen 2024, ley 39)
 ejecutando script (node scripts/detectar-duplicados.js)****
 ****- en cada pregunta se muestra a qué temas pertenece (tags)****
+****- añadir examenes c1 *****
 
-- añadir examenes c1 (falta 1)
+
+- migrar el sistema json a sql (antes de meter más preguntas e idioma)
 - buscar el resto de modelos (A/B) , (adquisicion/ingreso)... 
 - preguntas tema 1, ue, etc...
 - preguntas leyes especificas C1 (RDL 2/2015: Ley del Estatuto de los trabajadores, RDL 8/2015: LGSS). (buscar examenes parte especifica)
 - preguntas parte especifica C2 (libreoffice, calc...) (buscar examenes parte especifica)
-- maquetar /preguntas 
+- maquetar /preguntas
+- filtro por tema en /editarpreguntas
 - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
 - detectar preguntas con más apariciones (más temas)
 - migrar el sistema json a sql sobra una de C2_Adquisicion_2024_A y de C2_Ingreso_2024_B (hay 66 preguntas y deberia haber 65)
 (más bien falta alguna porque hay repetidas)***
 - randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden)
+- gal / castellano
 
 Medio plazo:
-- migrar el sistema json a sql
+
 - que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta.
 - Test parciales:Refuerza lo aprendido en cada bloque de materias con preguntas de todos los temas.
 - Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. /    Focus test.)
