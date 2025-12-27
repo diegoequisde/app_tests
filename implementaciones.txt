@@ -7,6 +7,10 @@ ejecutando script (node scripts/detectar-duplicados.js)****
 
 
 - migrar el sistema json a sql (antes de meter más preguntas e idioma)
+- ejecutar node db/verify-migration.js y comprobar manualmente que pasa con las preguntas que están mal (probablemente saltos de linea, espacios, etc.) -> quiza se pueda hacer un script
+- eliminar scripts innecesarios creados en /db/ y archivos que comiencen con ELIMINAR (una vez comprobada que la migracion fue OK y se corrigieron las preguntas correspondientes.)
+
+
 - buscar el resto de modelos (A/B) , (adquisicion/ingreso)... 
 - preguntas tema 1, ue, etc...
 - preguntas leyes especificas C1 (RDL 2/2015: Ley del Estatuto de los trabajadores, RDL 8/2015: LGSS). (buscar examenes parte especifica)

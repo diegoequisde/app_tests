@@ -4,6 +4,7 @@ const path = require('path');
 const filePath = path.join(__dirname, '../preguntas.json');
 const temasPath = path.join(__dirname, '../data/temas.json');
 
+
 // Leer JSON
 function loadPreguntas() {
   const data = fs.readFileSync(filePath, 'utf-8');
