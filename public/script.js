@@ -14,6 +14,9 @@ const resultList = document.getElementById('result-list');
 const scoreEl = document.getElementById('score');
 const backHomeBtn = document.getElementById('btn-back-home');
 
+// Las preguntas del test se guardan en localStorage
+// como estado temporal del test generado desde BD
+
 // Cargar preguntas desde localStorage
 testState.questions = JSON.parse(localStorage.getItem("testQuestions")) || [];
 

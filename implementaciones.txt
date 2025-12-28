@@ -7,6 +7,7 @@ ejecutando script (node scripts/detectar-duplicados.js)****
 
 
 - migrar el sistema json a sql (antes de meter más preguntas e idioma)
+- eliminar bd y hacer migración de nuevo corrigiendo errores (tema "DL 2/2015 (derogado) -> 7/2023" no lo aplica en alguna de ellas)
 - ejecutar node db/verify-migration.js y comprobar manualmente que pasa con las preguntas que están mal (probablemente saltos de linea, espacios, etc.) -> quiza se pueda hacer un script
 - eliminar scripts innecesarios creados en /db/ y archivos que comiencen con ELIMINAR (una vez comprobada que la migracion fue OK y se corrigieron las preguntas correspondientes.)
 

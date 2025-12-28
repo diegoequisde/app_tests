@@ -68,11 +68,18 @@ function getPreguntasByTema(tema, limit) {
       p.enunciado,
       p.opciones,
       p.respuesta_correcta,
-      GROUP_CONCAT(t.nombre) AS temas
+      GROUP_CONCAT(t_all.nombre) AS temas
     FROM preguntas p
-    JOIN pregunta_tema pt ON pt.pregunta_id = p.id
-    JOIN temas t ON t.id = pt.tema_id
-    WHERE t.nombre = ?
+
+    -- JOIN SOLO para filtrar
+    JOIN pregunta_tema pt_filter ON pt_filter.pregunta_id = p.id
+    JOIN temas t_filter ON t_filter.id = pt_filter.tema_id
+
+    -- JOIN para reconstruir TODOS los temas
+    JOIN pregunta_tema pt_all ON pt_all.pregunta_id = p.id
+    JOIN temas t_all ON t_all.id = pt_all.tema_id
+
+    WHERE t_filter.nombre = ?
     GROUP BY p.id
     ORDER BY RANDOM()
     LIMIT ?

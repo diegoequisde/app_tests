@@ -1,38 +1,105 @@
-<%- include('partials/header', { title: 'Admin' }) %>
+<%- include('partials/header', { title: 'Administración' }) %>
 <%- include('partials/navbar') %>
 
-<h1>Preguntas</h1>
+<h1>Administración de preguntas</h1>
 
+<div class="admin-filters">
+  <input
+    type="text"
+    id="searchInput"
+    placeholder="Buscar por enunciado o tema..."
+  >
 
-<button type="button" onclick="location.href='/preguntas/crear'"> Añadir pregunta </button>
+  <select id="temaFilter">
+    <option value="">Todos los temas</option>
+    <% 
+      const todosLosTemas = new Set();
+      preguntas.forEach(p => p.tema.forEach(t => todosLosTemas.add(t)));
+      Array.from(todosLosTemas).sort().forEach(t => {
+    %>
+      <option value="<%= t %>"><%= t %></option>
+    <% }) %>
+  </select>
+</div>
 
+<div class="admin-actions">
+  <button onclick="location.href='/preguntas/crear'">Añadir pregunta</button>
+</div>
 
-<ul>
+<div class="preguntas-list">
   <% preguntas.forEach(p => { %>
-    <li>
-      <strong><%= p.enunciado %></strong>
-      <br>
-      <form action="/preguntas/eliminar/<%= p.id %>" method="POST" style="display:inline;" class="form-eliminar">
-        <button class="eliminar">Eliminar</button>
-      </form>
+    <div class="pregunta-card"
+      data-enunciado="<%= p.enunciado.toLowerCase() %>"
+      data-temas="<%= p.tema.join(',').toLowerCase() %>"
+    >
+      
+      <h3 class="pregunta-enunciado">
+        <%= p.enunciado %>
+      </h3>
 
-      <button type="button" onclick="location.href='/preguntas/editar/<%= p.id %>'"> Editar </button>
-     
-    </li>
+      <% if (p.tema && p.tema.length) { %>
+        <div class="pregunta-temas">
+          <% p.tema.forEach(t => { %>
+            <span class="theme-tag"><%= t %></span>
+          <% }) %>
+        </div>
+      <% } %>
+
+      <div class="pregunta-meta">
+        <span>Respuesta correcta: <strong><%= p.respuestaCorrecta %></strong></span>
+      </div>
+
+      <div class="pregunta-actions">
+        <button onclick="location.href='/preguntas/editar/<%= p.id %>'">Editar</button>
+
+        <form action="/preguntas/eliminar/<%= p.id %>" method="POST" class="form-eliminar">
+          <button class="eliminar">Eliminar</button>
+        </form>
+      </div>
+
+    </div>
   <% }) %>
-</ul>
+</div>
 
 <script>
-// Confirmación antes de eliminar
-document.querySelectorAll('.form-eliminar').forEach(form => {
-  form.addEventListener('submit', (e) => {
-    const confirmar = confirm('¿Estás seguro de que quieres eliminar esta pregunta?');
-    if (!confirmar) {
-      e.preventDefault(); // cancela el submit si el usuario cancela
-    }
+  // Confirmación antes de eliminar
+  document.querySelectorAll('.form-eliminar').forEach(form => {
+    form.addEventListener('submit', (e) => {
+      if (!confirm('¿Estás seguro de que quieres eliminar esta pregunta?')) {
+        e.preventDefault();
+      }
+    });
   });
-});
 
+  const searchInput = document.getElementById('searchInput');
+  const temaFilter = document.getElementById('temaFilter');
+  const cards = document.querySelectorAll('.pregunta-card');
+
+  function aplicarFiltros() {
+    const texto = searchInput.value.toLowerCase().trim();
+    const temaSeleccionado = temaFilter.value.toLowerCase();
+
+    cards.forEach(card => {
+      const enunciado = card.dataset.enunciado;
+      const temas = card.dataset.temas;
+
+      const coincideTexto =
+        !texto ||
+        enunciado.includes(texto) ||
+        temas.includes(texto);
+
+      const coincideTema =
+        !temaSeleccionado ||
+        temas.includes(temaSeleccionado);
+
+      card.style.display =
+        coincideTexto && coincideTema ? 'block' : 'none';
+    });
+  }
+
+  searchInput.addEventListener('input', aplicarFiltros);
+  temaFilter.addEventListener('change', aplicarFiltros);
+  
 </script>
 
 <%- include('partials/footer') %>

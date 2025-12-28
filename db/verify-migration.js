@@ -10,9 +10,45 @@ const preguntasOriginales = JSON.parse(fs.readFileSync(preguntasJsonPath, 'utf-8
 let errores = 0;
 
 preguntasOriginales.forEach(preg => {
-    // Buscamos posibles coincidencias por enunciado
+
+    // ===============================
+    // AUDITORÍA DEL CAMPO "tema" (JSON)
+    // ===============================
+    if (!('tema' in preg)) {
+        console.log(`🚨 SIN CAMPO "tema": "${preg.id} ${preg.enunciado}"`);
+        errores++;
+        return;
+    }
+
+    if (preg.tema === null) {
+        console.log(`🚨 "tema" ES null: "${preg.id} ${preg.enunciado}"`);
+        errores++;
+        return;
+    }
+
+    if (!Array.isArray(preg.tema)) {
+        console.log(`🚨 "tema" NO es array (${typeof preg.tema}): "${preg.id} ${preg.enunciado}"`);
+        console.log(`   Valor real:`, preg.tema);
+        errores++;
+        return;
+    }
+
+    if (preg.tema.length === 0) {
+        console.log(`🚨 "tema" VACÍO: "${preg.id} ${preg.enunciado}"`);
+        errores++;
+        return;
+    }
+
+    // ===============================
+    // BÚSQUEDA EN BD
+    // ===============================
     const rows = db.prepare(`
-        SELECT p.id, p.enunciado, p.opciones, p.respuesta_correcta, GROUP_CONCAT(t.nombre) AS temas
+        SELECT 
+            p.id,
+            p.enunciado,
+            p.opciones,
+            p.respuesta_correcta,
+            GROUP_CONCAT(t.nombre) AS temas
         FROM preguntas p
         LEFT JOIN pregunta_tema pt ON pt.pregunta_id = p.id
         LEFT JOIN temas t ON t.id = pt.tema_id
@@ -21,27 +57,31 @@ preguntasOriginales.forEach(preg => {
     `).all(preg.enunciado);
 
     if (rows.length === 0) {
-        console.log(`❌ Pregunta no encontrada en BD: "${preg.enunciado}"`);
+        console.log(`❌ Pregunta no encontrada en BD: "${preg.id} ${preg.enunciado}"`);
         errores++;
         return;
     }
 
-    // Comprobamos todas las coincidencias posibles
+    // ===============================
+    // COMPARACIÓN EXACTA
+    // ===============================
     const match = rows.find(r => {
         const opcionesDb = JSON.parse(r.opciones);
         const temasDb = r.temas ? r.temas.split(',') : [];
+
         return (
             JSON.stringify(opcionesDb) === JSON.stringify(preg.opciones) &&
             r.respuesta_correcta === preg.respuestaCorrecta &&
-            JSON.stringify(temasDb.sort()) === JSON.stringify(preg.tema.sort())
+            JSON.stringify(temasDb.sort()) === JSON.stringify([...preg.tema].sort())
         );
     });
 
     if (!match) {
-        console.log(`❌ Coincidencia exacta no encontrada para: "${preg.enunciado}"`);
+        console.log(`❌ Coincidencia exacta no encontrada para: "${preg.id} ${preg.enunciado}"`);
         rows.forEach(r => {
             const opcionesDb = JSON.parse(r.opciones);
             const temasDb = r.temas ? r.temas.split(',') : [];
+
             console.log(`   -> ID BD: ${r.id}`);
             console.log(`      Opciones BD: ${JSON.stringify(opcionesDb)}`);
             console.log(`      Opciones JSON: ${JSON.stringify(preg.opciones)}`);
