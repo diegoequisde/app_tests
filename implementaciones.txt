@@ -4,33 +4,36 @@ Corto plazo:
 ejecutando script (node scripts/detectar-duplicados.js)****
 ****- en cada pregunta se muestra a qué temas pertenece (tags)****
 ****- añadir examenes c1 *****
+****- migrar el sistema json a sql (antes de meter más preguntas e idioma)****
+****- eliminar bd y hacer migración de nuevo corrigiendo errores (tema "DL 2/2015 (derogado) -> 7/2023" no lo aplica en alguna de ellas)****
+****- ejecutar node db/verify-migration.js y comprobar manualmente que pasa con las preguntas que están mal (probablemente saltos de linea, espacios, etc.) -> quiza se pueda hacer un script
+****- eliminar scripts innecesarios creados en /db/ y archivos que comiencen con ELIMINAR (una vez comprobada que la migracion fue OK y se corrigieron las preguntas correspondientes.)
+****- maquetar /preguntas
+****- sobra una de C2_Adquisicion_2024_A y de C2_Ingreso_2024_B (hay 66 preguntas y deberia haber 65) (más bien falta alguna porque hay repetidas)***
 
-
-- migrar el sistema json a sql (antes de meter más preguntas e idioma)
-- eliminar bd y hacer migración de nuevo corrigiendo errores (tema "DL 2/2015 (derogado) -> 7/2023" no lo aplica en alguna de ellas)
-- ejecutar node db/verify-migration.js y comprobar manualmente que pasa con las preguntas que están mal (probablemente saltos de linea, espacios, etc.) -> quiza se pueda hacer un script
-- eliminar scripts innecesarios creados en /db/ y archivos que comiencen con ELIMINAR (una vez comprobada que la migracion fue OK y se corrigieron las preguntas correspondientes.)
-
-
+- añadir boton de eliminar tema en editar pregunta (C2_Tema_5_lei_1_2016_transparencia_sen_respostas_gal_______ pregunta 10 - deberia ser una nueva con 3 opciones y quitar el tema Plantilla C2 de la que tiene 4 opciones)
+(lo mismo con pregunta 14 de C2_Tema_6_DL_2_2015_igualdade_sen_respostas_gal________)
+- para temas debería haber un editar/crear/eliminar?
+- añadir preguntas de A1, A2, AP
+- añadir preguntas modelo xunta por temas (ya descargadas cast?/gal?/ambas?)
 - buscar el resto de modelos (A/B) , (adquisicion/ingreso)... 
 - preguntas tema 1, ue, etc...
 - preguntas leyes especificas C1 (RDL 2/2015: Ley del Estatuto de los trabajadores, RDL 8/2015: LGSS). (buscar examenes parte especifica)
 - preguntas parte especifica C2 (libreoffice, calc...) (buscar examenes parte especifica)
-- maquetar /preguntas
 - filtro por tema en /editarpreguntas
 - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
 - detectar preguntas con más apariciones (más temas)
-- migrar el sistema json a sql sobra una de C2_Adquisicion_2024_A y de C2_Ingreso_2024_B (hay 66 preguntas y deberia haber 65)
-(más bien falta alguna porque hay repetidas)***
-- randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden)
+- randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand)
 - gal / castellano
 
 Medio plazo:
-
-- que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta.
-- Test parciales:Refuerza lo aprendido en cada bloque de materias con preguntas de todos los temas.
-- Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. /    Focus test.)
+- que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta. 
+(link al boe, sino es muchisimo contenido a meter en la BD, además si cambia la ley se ve mejor)
+- Test parciales: Refuerza lo aprendido en cada bloque de materias con preguntas de todos los temas.
+- Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. / Focus test.)
 - Simulacros de examen Demuestra todo lo aprendido en la prueba final, un test adaptado en duración y forma al exigido en tu oposición.
+- revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
 
 Largo plazo:
-- Compilar y convertir en apk (ultimo de todo) -> mirar como se pueden sincronizar datos añadidos desde movil para actualizar la bd
+- Compilar para poder usar en otros pcs 
+- movil: convertir en apk (ultimo de todo) -> mirar como se pueden sincronizar datos añadidos desde movil para actualizar la bd
