@@ -10,9 +10,11 @@ ejecutando script (node scripts/detectar-duplicados.js)****
 ****- eliminar scripts innecesarios creados en /db/ y archivos que comiencen con ELIMINAR (una vez comprobada que la migracion fue OK y se corrigieron las preguntas correspondientes.)
 ****- maquetar /preguntas
 ****- sobra una de C2_Adquisicion_2024_A y de C2_Ingreso_2024_B (hay 66 preguntas y deberia haber 65) (más bien falta alguna porque hay repetidas)***
-
-- añadir boton de eliminar tema en editar pregunta (C2_Tema_5_lei_1_2016_transparencia_sen_respostas_gal_______ pregunta 10 - deberia ser una nueva con 3 opciones y quitar el tema Plantilla C2 de la que tiene 4 opciones)
+**** - añadir boton de eliminar tema en editar pregunta (C2_Tema_5_lei_1_2016_transparencia_sen_respostas_gal_______ pregunta 10 - deberia ser una nueva con 3 opciones y quitar el tema Plantilla C2 de la que tiene 4 opciones)
 (lo mismo con pregunta 14 de C2_Tema_6_DL_2_2015_igualdade_sen_respostas_gal________)
+(quitar el tema en C1_adquisicion 2024 A en  http://localhost:3000/preguntas/editar/40)
+**** - boton eliminar tema en editar pregunta
+
 - para temas debería haber un editar/crear/eliminar?
 - añadir preguntas de A1, A2, AP
 - añadir preguntas modelo xunta por temas (ya descargadas cast?/gal?/ambas?)

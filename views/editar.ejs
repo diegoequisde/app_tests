@@ -16,7 +16,7 @@
     <% }) %>
   </div>
 
-  <button type="button" id="add-option">Añadir opción</button>
+  <button type="button" id="add-option">+ Añadir opción</button>
   
   <div>
     <label>Tema:</label>
@@ -28,6 +28,7 @@
               <option value="<%= opt %>" <%= opt === t ? 'selected' : '' %>><%= opt %></option>
             <% }) %>
           </select>
+          <button type="button" class="btn-eliminar-tema">X</button>
         </div>
       <% }) %>
     </div>
