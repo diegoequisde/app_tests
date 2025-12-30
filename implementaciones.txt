@@ -1,4 +1,33 @@
 Corto plazo:
+- para temas debería haber un editar/crear/eliminar? -> implica que si se modifica un tema, todas las preguntas que tengan ese tema se modifiquen. Si se elimina también.
+- añadir preguntas modelo xunta por temas (ya descargadas cast?/gal?/ambas?)
+- añadir preguntas de A1, A2, AP examenes anteriores
+- buscar el resto de modelos (A/B) , (adquisicion/ingreso)... 
+- preguntas tema 1, ue, etc...
+- preguntas leyes especificas C1 (RDL 2/2015: Ley del Estatuto de los trabajadores, RDL 8/2015: LGSS). (buscar examenes parte especifica)
+- preguntas parte especifica C2 (libreoffice, calc...) (buscar examenes parte especifica)
+- filtro por varios temas en /editarpreguntas
+- en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
+- detectar preguntas con más apariciones (más temas)
+- randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand)
+- gal / castellano (como aplicar esto...?)
+
+Medio plazo:
+- que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta. 
+(link al boe, sino es muchisimo contenido a meter en la BD, además si cambia la ley se ve mejor)
+- Test parciales: Refuerza lo aprendido en cada bloque de materias con preguntas de todos los temas.
+- Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. / Focus test .)
+    (todas las preguntas de un mismo tema (o que al seleccionar numero haya una opción de meter TODAS las que pertenecen a ese tema))
+- Simulacros de examen Demuestra todo lo aprendido en la prueba final, un test adaptado en duración y forma al exigido en tu oposición.
+- revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
+
+Largo plazo:
+- Compilar para poder usar en otros pcs 
+- movil: convertir en apk (ultimo de todo) -> mirar como se pueden sincronizar datos añadidos desde movil para actualizar la bd
+
+
+
+COMPLETADAS:
 ****- añadir preguntas examen 2021 de la 56 a la 65 ****
 ****- Detectar preguntas duplicadas (porque están en examenes de varios años) y pasarlas como una unica pregunta con varios temas (examen 2023, examen 2024, ley 39)
 ejecutando script (node scripts/detectar-duplicados.js)****
@@ -14,28 +43,4 @@ ejecutando script (node scripts/detectar-duplicados.js)****
 (lo mismo con pregunta 14 de C2_Tema_6_DL_2_2015_igualdade_sen_respostas_gal________)
 (quitar el tema en C1_adquisicion 2024 A en  http://localhost:3000/preguntas/editar/40)
 **** - boton eliminar tema en editar pregunta
-
-- para temas debería haber un editar/crear/eliminar?
-- añadir preguntas de A1, A2, AP
-- añadir preguntas modelo xunta por temas (ya descargadas cast?/gal?/ambas?)
-- buscar el resto de modelos (A/B) , (adquisicion/ingreso)... 
-- preguntas tema 1, ue, etc...
-- preguntas leyes especificas C1 (RDL 2/2015: Ley del Estatuto de los trabajadores, RDL 8/2015: LGSS). (buscar examenes parte especifica)
-- preguntas parte especifica C2 (libreoffice, calc...) (buscar examenes parte especifica)
-- filtro por tema en /editarpreguntas
-- en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
-- detectar preguntas con más apariciones (más temas)
-- randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand)
-- gal / castellano
-
-Medio plazo:
-- que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta. 
-(link al boe, sino es muchisimo contenido a meter en la BD, además si cambia la ley se ve mejor)
-- Test parciales: Refuerza lo aprendido en cada bloque de materias con preguntas de todos los temas.
-- Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. / Focus test.)
-- Simulacros de examen Demuestra todo lo aprendido en la prueba final, un test adaptado en duración y forma al exigido en tu oposición.
-- revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
-
-Largo plazo:
-- Compilar para poder usar en otros pcs 
-- movil: convertir en apk (ultimo de todo) -> mirar como se pueden sincronizar datos añadidos desde movil para actualizar la bd
+**** - filtro por tema y buscador en /editarpreguntas
