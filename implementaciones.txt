@@ -1,16 +1,18 @@
 Corto plazo:
+- filtro por varios temas en /editarpreguntas
 - para temas debería haber un editar/crear/eliminar? -> implica que si se modifica un tema, todas las preguntas que tengan ese tema se modifiquen. Si se elimina también.
 - añadir preguntas modelo xunta por temas (ya descargadas cast?/gal?/ambas?)
+- gal / castellano (como aplicar esto...?)
 - añadir preguntas de A1, A2, AP examenes anteriores
 - buscar el resto de modelos (A/B) , (adquisicion/ingreso)... 
 - preguntas tema 1, ue, etc...
 - preguntas leyes especificas C1 (RDL 2/2015: Ley del Estatuto de los trabajadores, RDL 8/2015: LGSS). (buscar examenes parte especifica)
 - preguntas parte especifica C2 (libreoffice, calc...) (buscar examenes parte especifica)
-- filtro por varios temas en /editarpreguntas
+
 - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
 - detectar preguntas con más apariciones (más temas)
 - randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand)
-- gal / castellano (como aplicar esto...?)
+
 
 Medio plazo:
 - que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta. 
