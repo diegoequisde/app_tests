@@ -13,7 +13,6 @@ Corto plazo:
 - detectar preguntas con más apariciones (más temas)
 - randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand)
 
-
 Medio plazo:
 - que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta. 
 (link al boe, sino es muchisimo contenido a meter en la BD, además si cambia la ley se ve mejor)
