@@ -11,7 +11,10 @@ Corto plazo:
 
 - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
 - detectar preguntas con más apariciones (más temas)
-- randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand)
+- randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand- prescindible-)
+- poder editar una pregunta o mejor marcar (flag) para revisar o editar después -> implica pestaña "preguntas marcadas" o algo así.
+- (en línea a lo anterior, poder marcar preguntas como "favoritas" o "refuerzo" para volver sobre ellas más adelante o generar tests con ellas.)
+
 
 Medio plazo:
 - que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta. 
@@ -19,6 +22,7 @@ Medio plazo:
 - Test parciales: Refuerza lo aprendido en cada bloque de materias con preguntas de todos los temas.
 - Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. / Focus test .)
     (todas las preguntas de un mismo tema (o que al seleccionar numero haya una opción de meter TODAS las que pertenecen a ese tema))
+    (( aprende de tus errores conllevaría llevar un historial de preguntas (veces aparecida, veces fallada..., % de adcierto, algo así, para eso implicaría: USUARIOS Y SESIONES)))
 - Simulacros de examen Demuestra todo lo aprendido en la prueba final, un test adaptado en duración y forma al exigido en tu oposición.
 - revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
 
