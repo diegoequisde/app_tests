@@ -1,38 +1,39 @@
 Corto plazo:
-- filtro por varios temas en /editarpreguntas
+- poner un contador a nivel informativo para saber cuantas preguntas hay de cada tema.
+- filtrar por varios temas en /editarpreguntas
 - para temas debería haber un editar/crear/eliminar? -> implica que si se modifica un tema, todas las preguntas que tengan ese tema se modifiquen. Si se elimina también.
-- añadir preguntas modelo xunta por temas (ya descargadas cast?/gal?/ambas?)
-- gal / castellano (como aplicar esto...?)
 - añadir preguntas de A1, A2, AP examenes anteriores
-- buscar el resto de modelos (A/B) , (adquisicion/ingreso)... 
-- preguntas tema 1, ue, etc...
-- preguntas leyes especificas C1 (RDL 2/2015: Ley del Estatuto de los trabajadores, RDL 8/2015: LGSS). (buscar examenes parte especifica)
-- preguntas parte especifica C2 (libreoffice, calc...) (buscar examenes parte especifica)
-
 - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
 - detectar preguntas con más apariciones (más temas)
-- randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand- prescindible-)
 - poder editar una pregunta o mejor marcar (flag) para revisar o editar después -> implica pestaña "preguntas marcadas" o algo así.
 - (en línea a lo anterior, poder marcar preguntas como "favoritas" o "refuerzo" para volver sobre ellas más adelante o generar tests con ellas.)
 
-
 Medio plazo:
-- que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta. 
-(link al boe, sino es muchisimo contenido a meter en la BD, además si cambia la ley se ve mejor)
-- Test parciales: Refuerza lo aprendido en cada bloque de materias con preguntas de todos los temas.
+- revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
+TIPOS DE TEST:
 - Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. / Focus test .)
     (todas las preguntas de un mismo tema (o que al seleccionar numero haya una opción de meter TODAS las que pertenecen a ese tema))
-    (( aprende de tus errores conllevaría llevar un historial de preguntas (veces aparecida, veces fallada..., % de adcierto, algo así, para eso implicaría: USUARIOS Y SESIONES)))
-- Simulacros de examen Demuestra todo lo aprendido en la prueba final, un test adaptado en duración y forma al exigido en tu oposición.
-- revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
+    (( aprende de tus errores conllevaría llevar un historial de preguntas (veces aparecida, veces fallada..., % de acierto, algo así, 
+    para eso implicaría: USUARIOS Y SESIONES)))
+- Simulacros de examen: test adaptado en duración y forma al exigido en tu oposición.
 
 Largo plazo:
 - Compilar para poder usar en otros pcs 
 - movil: convertir en apk (ultimo de todo) -> mirar como se pueden sincronizar datos añadidos desde movil para actualizar la bd
 
+Opcionales:
+- gal / castellano (como aplicar esto...? o siquiera si aplicarlo... mucho curro)
+- Test parciales:  preguntas de todos los temas.  (MEH)
+- que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta. (link al boe, sino es muchisimo contenido a meter en la BD, además si cambia la ley se ve mejor)
+- randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand- prescindible-)
 
 
 COMPLETADAS:
+**** - preguntas tema 1, ue, etc...****
+**** - preguntas leyes especificas C1 (RDL 2/2015: Ley del Estatuto de los trabajadores, RDL 8/2015: LGSS). (buscar examenes parte especifica)****
+**** - preguntas parte especifica C2 (libreoffice, calc...) (buscar examenes parte especifica)****
+**** - añadir preguntas modelo xunta por temas (ya descargadas cast?/gal?/ambas?)****
+****- buscar el resto de modelos (A/B) , (adquisicion/ingreso)... ****
 ****- añadir preguntas examen 2021 de la 56 a la 65 ****
 ****- Detectar preguntas duplicadas (porque están en examenes de varios años) y pasarlas como una unica pregunta con varios temas (examen 2023, examen 2024, ley 39)
 ejecutando script (node scripts/detectar-duplicados.js)****
