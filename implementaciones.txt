@@ -7,6 +7,7 @@ Corto plazo:
 - detectar preguntas con más apariciones (más temas)
 - poder editar una pregunta o mejor marcar (flag) para revisar o editar después -> implica pestaña "preguntas marcadas" o algo así.
 - (en línea a lo anterior, poder marcar preguntas como "favoritas" o "refuerzo" para volver sobre ellas más adelante o generar tests con ellas.)
+- revisar las preguntas que no entran en el temario indicado (por ej: articulos 42-55 del estatuto autonomia)
 
 Medio plazo:
 - revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
