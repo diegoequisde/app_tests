@@ -17,6 +17,7 @@ TIPOS DE TEST:
     (( aprende de tus errores conllevaría llevar un historial de preguntas (veces aparecida, veces fallada..., % de acierto, algo así, 
     para eso implicaría: USUARIOS Y SESIONES)))
 - Simulacros de examen: test adaptado en duración y forma al exigido en tu oposición.
+- boton de revisar respuesta? que te indique la correcta sin terminar el examen? (opcional)
 
 Largo plazo:
 - Compilar para poder usar en otros pcs 
