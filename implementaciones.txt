@@ -1,4 +1,5 @@
 Corto plazo:
+-  ERROR - al filtrar por DL 2/2015 tambien coge RDL 2/2015 (ET) porque contiene el string.
 - poner un contador a nivel informativo para saber cuantas preguntas hay de cada tema.
 - filtrar por varios temas en /editarpreguntas
 - para temas debería haber un editar/crear/eliminar? -> implica que si se modifica un tema, todas las preguntas que tengan ese tema se modifiquen. Si se elimina también.
