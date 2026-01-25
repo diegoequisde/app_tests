@@ -1,7 +1,7 @@
 Corto plazo:
 -  ERROR - al filtrar por DL 2/2015 tambien coge RDL 2/2015 (ET) porque contiene el string.
 - poner un contador a nivel informativo para saber cuantas preguntas hay de cada tema.
-- filtrar por varios temas en /editarpreguntas
+- filtrar por varios temas en /editarpreguntas (que sale? preguntas que peprtenezcan a las 2 o preguntas de los 2 temas mezcladas?)
 - para temas debería haber un editar/crear/eliminar? -> implica que si se modifica un tema, todas las preguntas que tengan ese tema se modifiquen. Si se elimina también.
 - añadir preguntas de A1, A2, AP examenes anteriores
 - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
