@@ -7,6 +7,7 @@ Corto plazo:
 - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
 - detectar preguntas con más apariciones (más temas)
 - poder editar una pregunta o mejor marcar (flag) para revisar o editar después -> implica pestaña "preguntas marcadas" o algo así.
+- contador de "veces contestada" para poder hacer test sólo con las que no se han contestado todavía
 - (en línea a lo anterior, poder marcar preguntas como "favoritas" o "refuerzo" para volver sobre ellas más adelante o generar tests con ellas.)
 - revisar las preguntas que no entran en el temario indicado (por ej: articulos 42-55 del estatuto autonomia)
 
