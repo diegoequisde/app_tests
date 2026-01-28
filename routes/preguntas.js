@@ -66,11 +66,28 @@ router.post('/eliminar/:id', (req, res) => {
   res.redirect('/preguntas');
 });
 
-// API: devolver todos los temas
+// API: devolver todos los temas con contador de preguntas
 router.get('/api/temas', (req, res) => {
   const temas = temasRepo.getAllTemas();
-  res.json(temas);
+  const preguntas = preguntasRepo.getAllPreguntas();
+
+  const temasConCount = temas.map(nombreTema => {
+    const total = preguntas.filter(p => {
+      if (!Array.isArray(p.tema)) return false;
+      return p.tema.includes(nombreTema);
+    }).length;
+
+    return {
+      tema: nombreTema,
+      total
+    };
+  });
+
+  res.json(temasConCount);
 });
+
+
+
 
 // API: crear tema nuevo 
 router.post('/api/temas/nuevo', (req, res) => {

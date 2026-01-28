@@ -7,7 +7,10 @@ document.addEventListener("DOMContentLoaded", () => {
     try {
       const res = await fetch('/preguntas/api/temas');
       const temas = await res.json();
-      temaSelect.innerHTML = temas.map(t => `<option value="${t}">${t}</option>`).join('');
+      // temaSelect.innerHTML = temas.map(t => `<option value="${t}">${t}</option>`).join('');
+      temaSelect.innerHTML = temas
+      .map(t => `<option value="${t.tema}">${t.tema} (${t.total})</option>`)
+      .join('');
     } catch (err) {
       console.error("Error cargando temas:", err);
     }

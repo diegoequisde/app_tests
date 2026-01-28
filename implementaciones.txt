@@ -1,6 +1,5 @@
 Corto plazo:
--  ERROR - al filtrar por DL 2/2015 tambien coge RDL 2/2015 (ET) porque contiene el string.
-- poner un contador a nivel informativo para saber cuantas preguntas hay de cada tema.
+- ERROR - al filtrar por DL 2/2015 tambien coge RDL 2/2015 (ET) porque contiene el string.
 - filtrar por varios temas en /editarpreguntas (que sale? preguntas que peprtenezcan a las 2 o preguntas de los 2 temas mezcladas?)
 - para temas debería haber un editar/crear/eliminar? -> implica que si se modifica un tema, todas las preguntas que tengan ese tema se modifiquen. Si se elimina también.
 - añadir preguntas de A1, A2, AP examenes anteriores
@@ -9,7 +8,7 @@ Corto plazo:
 - poder editar una pregunta o mejor marcar (flag) para revisar o editar después -> implica pestaña "preguntas marcadas" o algo así.
 - contador de "veces contestada" para poder hacer test sólo con las que no se han contestado todavía
 - (en línea a lo anterior, poder marcar preguntas como "favoritas" o "refuerzo" para volver sobre ellas más adelante o generar tests con ellas.)
-- revisar las preguntas que no entran en el temario indicado (por ej: articulos 42-55 del estatuto autonomia)
+- revisar las preguntas que NO entran en el temario indicado (por ej: articulos 42-55 del estatuto autonomia)
 
 Medio plazo:
 - revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
@@ -33,6 +32,7 @@ Opcionales:
 
 
 COMPLETADAS:
+****- poner un contador a nivel informativo para saber cuantas preguntas hay de cada tema.****
 **** - preguntas tema 1, ue, etc...****
 **** - preguntas leyes especificas C1 (RDL 2/2015: Ley del Estatuto de los trabajadores, RDL 8/2015: LGSS). (buscar examenes parte especifica)****
 **** - preguntas parte especifica C2 (libreoffice, calc...) (buscar examenes parte especifica)****
