@@ -8,7 +8,10 @@ Corto plazo:
 - poder editar una pregunta o mejor marcar (flag) para revisar o editar después -> implica pestaña "preguntas marcadas" o algo así.
 - contador de "veces contestada" para poder hacer test sólo con las que no se han contestado todavía
 - (en línea a lo anterior, poder marcar preguntas como "favoritas" o "refuerzo" para volver sobre ellas más adelante o generar tests con ellas.)
-- revisar las preguntas que NO entran en el temario indicado (por ej: articulos 42-55 del estatuto autonomia)
+- revisar las preguntas que NO entran en el temario indicado (por ej: articulos 42-55 del estatuto autonomia-check-
+117-136 y 159-169 CE -check- 31/1995 check - 16 check - ley 39 check -ley 40 check
+)
+- al darle a pregunta anterior mientras no se haya finalizdo el test que no muestre la respuesta correcta.
 
 Medio plazo:
 - revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
