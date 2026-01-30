@@ -87,14 +87,28 @@ router.get('/api/temas', (req, res) => {
 });
 
 
-
-
 // API: crear tema nuevo 
 router.post('/api/temas/nuevo', (req, res) => {
   const { tema } = req.body;
   temasRepo.createTema(tema);
   res.json({ ok: true });
 });
+
+// editar tema
+router.put('/api/temas/renombrar', (req, res) => {
+  const { antiguo, nuevo } = req.body;
+  temasRepo.renameTema(antiguo, nuevo);
+  res.json({ ok: true });
+});
+
+
+// eliminar tema
+router.delete('/api/temas/eliminar', (req, res) => {
+  const { tema } = req.body;
+  temasRepo.deleteTema(tema);
+  res.json({ ok: true });
+});
+
 
 // API: listado completo de preguntas
 router.get('/api/listado', (req, res) => {
@@ -108,5 +122,10 @@ router.get('/api/test', (req, res) => {
   const preguntas = preguntasRepo.getPreguntasByTema(tema, Number(cantidad));
   res.json(preguntas);
 });
+
+router.get('/temas', (req, res) => {
+  res.render('preguntas/temas');
+});
+
 
 module.exports = router;

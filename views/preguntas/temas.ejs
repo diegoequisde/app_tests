@@ -1,0 +1,25 @@
+<%- include('../partials/header', { title: 'Gestión de temas' }) %>
+<%- include('../partials/navbar') %>
+
+<h1>Gestión de temas</h1>
+<button id="btn-nuevo-tema">+ Nuevo tema</button>
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Tema</th>
+      <th>Preguntas</th>
+      <th>Acciones</th>
+    </tr>
+  </thead>
+  <tbody id="tabla-temas">
+    <!-- JS -->
+  </tbody>
+</table>
+
+<br>
+
+
+
+<script src="/temas.js"></script>
+
+<%- include('../partials/footer') %>
