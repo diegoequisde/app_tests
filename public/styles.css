@@ -218,10 +218,46 @@ button.inicio:hover { background-color: #62026e; }
 
 .navigation-buttons button:last-child { margin-right: 0; }
 
+
+/* ---------- Panel de navegación de preguntas ---------- */
+#question-nav {
+  display: grid;
+  grid-template-columns: repeat(5, 40px);
+  gap: 6px;
+  margin-top: 10px;
+}
+
+#question-nav button {
+  height: 36px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background: #eee;
+  cursor: pointer;
+}
+
+#question-nav button.current {
+  background: #2c7be5;
+  color: white;
+  font-weight: bold;
+}
+
+#question-nav button.unanswered {
+  background: #f0f0f0;
+}
+
+#question-counter {
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: #555;
+}
+
 /* ---------- Listado de resultados ---------- */
 #result-list {
-    list-style: none;
-    margin-top: 20px;
+    display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 6px;
+  list-style: none;
+  padding: 0;
 }
 
 #result-list li {
@@ -231,6 +267,25 @@ button.inicio:hover { background-color: #62026e; }
 }
 
 #result-list li:hover { background-color: #f0f0f0; }
+
+.question-number {
+  border: 1px solid #aaa;
+  padding: 6px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.question-number.unanswered {
+  background-color: #ddd;
+}
+
+.question-number.correct {
+  background-color: #9be59b;
+}
+
+.question-number.incorrect {
+  background-color: #ff9a9a;
+}
 
 /* ---------- Botón volver al inicio ---------- */
 #btn-back-home {
