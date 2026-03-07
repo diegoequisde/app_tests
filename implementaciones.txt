@@ -1,18 +1,11 @@
 Corto plazo:
-BUGS:
--- opción para poder desmarcar una respuesta al volver a clickar
--- al darle aGenerador de Tests (inicio) más bien al generar un nuevo test, que no salga el último test guardado (saveState()) 
--- no funciona el botón finalizar test
-*****
-Al finalizar test, me da el error: Uncaught TypeError: can't access property "innerHTML", resultList is null
-Aprovechar la maquetación de miniaturas:
-->Al finalizar test, se mostrarán el resultado de las respuestas visualmente (correcta verde, incorrecta rojo, no contestada amarillo)
-->Mientras se esté realizando el test solo se muestre si se ha respondido o no.
-******
--- realmente necesito el botón volver al inicio?? en el panel lateral
-- al filtrar por DL 2/2015 tambien coge RDL 2/2015 (ET) porque contiene el string.
 
-FEATURES:
+-- opción para poder desmarcar una respuesta al volver a clickar
+-- realmente necesito el botón volver al inicio?? en el panel lateral
+-- que la no contestada y la contestada intercambien colores (gris/blanco)
+-- la miniatura actual se marca al hacer clic en la respuesta, debería estar marcada ya al cargar la pregunta
+- 
+- al filtrar por DL 2/2015 tambien coge RDL 2/2015 (ET) porque contiene el string.
 - filtrar por varios temas en /editarpreguntas (que sale? preguntas que peprtenezcan a las 2 o preguntas de los 2 temas mezcladas?)
 - añadir preguntas de A1, A2, AP examenes anteriores
 - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
@@ -46,6 +39,10 @@ Opcionales:
 
 
 COMPLETADAS:
+***** Aprovechar la maquetación de miniaturas:
+->Al finalizar test, se mostrarán el resultado de las respuestas visualmente (correcta verde, incorrecta rojo, no contestada amarillo)
+->Mientras se esté realizando el test solo se muestre si se ha respondido o no.
+******
 **** - para temas debería haber un editar/crear/eliminar? -> implica que si se modifica un tema, todas las preguntas que tengan ese tema se modifiquen. Si se elimina también.
 ****- poner un contador a nivel informativo para saber cuantas preguntas hay de cada tema.****
 **** - preguntas tema 1, ue, etc...****

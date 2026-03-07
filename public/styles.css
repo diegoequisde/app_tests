@@ -236,13 +236,28 @@ button.inicio:hover { background-color: #62026e; }
 }
 
 #question-nav button.current {
-  background: #2c7be5;
+  background: #78b1fc;
   color: white;
   font-weight: bold;
 }
 
 #question-nav button.unanswered {
-  background: #f0f0f0;
+  background: #b6b5b5;
+}
+
+#question-nav button.correct {
+  background-color: #28a745;
+  color: white;
+}
+
+#question-nav button.incorrect {
+  background-color: #dc3545;
+  color: white;
+}
+
+#question-nav button.not-answered {
+  background-color: #ffc107;
+  color: black;
 }
 
 #question-counter {
