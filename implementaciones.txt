@@ -1,6 +1,4 @@
 Corto plazo:
-
--- opción para poder desmarcar una respuesta al volver a clickar
 -- realmente necesito el botón volver al inicio?? en el panel lateral
 -- que la no contestada y la contestada intercambien colores (gris/blanco)
 -- la miniatura actual se marca al hacer clic en la respuesta, debería estar marcada ya al cargar la pregunta
@@ -39,6 +37,7 @@ Opcionales:
 
 
 COMPLETADAS:
+**** -- opción para poder desmarcar una respuesta al volver a clickar
 ***** Aprovechar la maquetación de miniaturas:
 ->Al finalizar test, se mostrarán el resultado de las respuestas visualmente (correcta verde, incorrecta rojo, no contestada amarillo)
 ->Mientras se esté realizando el test solo se muestre si se ha respondido o no.

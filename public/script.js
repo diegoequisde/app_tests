@@ -82,6 +82,7 @@ function loadQuestion() {
   prevBtn.disabled = testState.currentIndex === 0;
   nextBtn.disabled = false;
   renderQuestionNav();
+  updateButtons();
 }
 
 // renderizar la navegación de preguntas y el contador de respondidas
@@ -151,14 +152,24 @@ function renderQuestionNav() {
 
 // --------- Selección de opción ---------
 function selectOption(questionId, option, element) {
-   if (testState.finished) return;
-  testState.answers[questionId] = option;
-  
-  document.querySelectorAll('.option').forEach(opt =>
-    opt.classList.remove('selected')
-  );
-  element.classList.add('selected');
-  
+
+  if (testState.finished) return;
+  const currentAnswer = testState.answers[questionId];
+
+  // Si se pulsa la misma opción, se desmarca
+  if (currentAnswer === option) {
+    delete testState.answers[questionId];
+    element.classList.remove('selected');
+
+  } else {
+    testState.answers[questionId] = option;
+    document.querySelectorAll('.option').forEach(opt =>
+      opt.classList.remove('selected')
+    );
+
+    element.classList.add('selected');
+  }
+
   renderQuestionNav();
   saveState();
 }
@@ -200,6 +211,7 @@ function getFirstUnansweredIndex() {
 
 // --------- Finalizar test ---------
 finishBtn.addEventListener('click', () => {
+  if (!confirm("¿Seguro que quieres finalizar el test?")) return;
   showResults();
 });
 
@@ -254,6 +266,19 @@ function reviewQuestion(index) {
   // Actualizar botones de navegación
   prevBtn.disabled = index === 0;
   nextBtn.disabled = index === testState.questions.length - 1;
+}
+
+
+function updateButtons() {
+
+  if (testState.finished) {
+    finishBtn.style.display = "none";
+    backHomeBtn.style.display = "block";
+  } else {
+    finishBtn.style.display = "block";
+    backHomeBtn.style.display = "none";
+  }
+
 }
 
 // --------- Volver al inicio ---------

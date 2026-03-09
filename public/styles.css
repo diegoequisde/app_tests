@@ -306,7 +306,16 @@ button.inicio:hover { background-color: #62026e; }
 #btn-back-home {
     margin-top: 15px;
     background-color: #800091;
+    width: 100%;
+    display: none;
 }
+
+#finish-btn {
+    margin-top: 15px;
+    width: 100%;
+}
+
+
 
 /* ---------- Filtros administración ---------- */
 .admin-filters {
