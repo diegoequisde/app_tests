@@ -51,8 +51,9 @@ function loadQuestion() {
 
   questionContainer.innerHTML = `
     ${temasHTML}
+    <p>Pregunta ${testState.currentIndex + 1} de ${testState.questions.length}</p>
     <h2>${q.enunciado}</h2>
-    <p>Pregunta ${testState.currentIndex + 1} de ${testState.questions.length}</p>`;
+    `;
 
   optionsContainer.innerHTML = '';
   q.opciones.forEach(opt => {
@@ -123,7 +124,7 @@ function renderQuestionNav() {
 
     if (!testState.finished) {
 
-      if (!userAnswer) {
+      if (!userAnswer && index !== testState.currentIndex) {
         btn.classList.add("unanswered");
       }
 
@@ -241,8 +242,8 @@ function reviewQuestion(index) {
   
 
   questionContainer.innerHTML = `
-    <h2>${q.enunciado}</h2>
     <p>Pregunta ${index + 1} de ${testState.questions.length}</p>
+    <h2>${q.enunciado}</h2>
   `;
 
   optionsContainer.innerHTML = '';

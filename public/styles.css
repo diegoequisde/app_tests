@@ -231,7 +231,8 @@ button.inicio:hover { background-color: #62026e; }
   height: 36px;
   border-radius: 6px;
   border: 1px solid #ccc;
-  background: #eee;
+  background: #b6b5b5;
+  /* color: black; */
   cursor: pointer;
 }
 
@@ -242,7 +243,8 @@ button.inicio:hover { background-color: #62026e; }
 }
 
 #question-nav button.unanswered {
-  background: #b6b5b5;
+  background: #fff;
+  color: black;
 }
 
 #question-nav button.correct {
