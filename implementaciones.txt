@@ -9,7 +9,6 @@ CORTO PLAZO:
 - revisar las preguntas que NO entran en el temario indicado (por ej: articulos 42-55 del estatuto autonomia-check-
 117-136 y 159-169 CE -check- 31/1995 check - 16 check - ley 39 check -ley 40 check)
 
-
 MEDIO PLAZO:
 - revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
 - añadir preguntas de A1, A2, AP examenes anteriores

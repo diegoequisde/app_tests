@@ -237,8 +237,7 @@ button.inicio:hover { background-color: #62026e; }
 }
 
 #question-nav button.current {
-  background: #78b1fc;
-  color: white;
+  border: 3px solid #2c7be5;
   font-weight: bold;
 }
 

@@ -94,19 +94,19 @@ function renderQuestionNav() {
 
   nav.innerHTML = "";
 
-  let answered = Object.keys(testState.answers).length;
-  let total = testState.questions.length;
+  const total = testState.questions.length;
+  const answered = Object.keys(testState.answers).length;
 
+  // contador
   if (!testState.finished) {
+
     counter.textContent = `Respondidas: ${answered} / ${total}`;
-  }
 
-  if (testState.finished) {
-    let correct = 0;
+  } else {
 
-    testState.questions.forEach(q => {
-      if (testState.answers[q.id] === q.respuestaCorrecta) correct++;
-    });
+    const correct = testState.questions.filter(
+      q => testState.answers[q.id] === q.respuestaCorrecta
+    ).length;
 
     counter.textContent = `Resultado: ${correct} / ${total}`;
   }
@@ -116,27 +116,35 @@ function renderQuestionNav() {
     const btn = document.createElement("button");
     btn.textContent = index + 1;
 
+    const userAnswer = testState.answers[q.id];
+
+    // pregunta actual
     if (index === testState.currentIndex) {
       btn.classList.add("current");
     }
 
-    const userAnswer = testState.answers[q.id];
-
+    // estado durante examen
     if (!testState.finished) {
 
       if (!userAnswer && index !== testState.currentIndex) {
         btn.classList.add("unanswered");
       }
 
-    } else {
+    }
+
+    // estado tras finalizar
+    if (testState.finished) {
 
       if (userAnswer === undefined) {
         btn.classList.add("not-answered");
-      } else if (userAnswer === q.respuestaCorrecta) {
+      }
+      else if (userAnswer === q.respuestaCorrecta) {
         btn.classList.add("correct");
-      } else {
+      }
+      else {
         btn.classList.add("incorrect");
       }
+
     }
 
     btn.addEventListener("click", () => {
@@ -150,7 +158,6 @@ function renderQuestionNav() {
   });
 
 }
-
 // --------- Selección de opción ---------
 function selectOption(questionId, option, element) {
 
