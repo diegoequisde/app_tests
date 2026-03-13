@@ -1,0 +1,20 @@
+<%- include('partials/header', { title: 'Login' }) %>
+<%- include('partials/navbar') %>
+
+<div class="auth-container">
+  <h2>Iniciar sesión</h2>
+
+  <form action="/login" method="POST">
+    <label>Usuario</label>
+    <input type="text" name="username" required>
+
+    <label>Contraseña</label>
+    <input type="password" name="password" required>
+
+    <button type="submit">Entrar</button>
+  </form>
+
+  <p>¿No tienes cuenta? <a href="/register">Registrarse</a></p>
+</div>
+
+<%- include('partials/footer') %>
