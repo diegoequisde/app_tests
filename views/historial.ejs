@@ -1,0 +1,42 @@
+<%- include('partials/header', { title: 'Historial de tests' }) %>
+<%- include('partials/navbar') %>
+
+<div class="container">
+
+  <h2>Historial de tests</h2>
+
+  <% if (results.length === 0) { %>
+
+    <p>Aún no has realizado ningún test.</p>
+
+  <% } else { %>
+
+    <table class="results-table">
+      <thead>
+        <tr>
+          <th>Fecha</th>
+          <th>Resultado</th>
+          <th>Porcentaje</th>
+        </tr>
+      </thead>
+
+      <tbody>
+
+      <% results.forEach(r => { %>
+
+        <tr>
+          <td><%= new Date(r.created_at).toLocaleString() %></td>
+          <td><%= r.score %> / <%= r.total %></td>
+          <td><%= Math.round((r.score / r.total) * 100) %>%</td>
+        </tr>
+
+      <% }) %>
+
+      </tbody>
+    </table>
+
+  <% } %>
+
+</div>
+
+<%- include('partials/footer') %>

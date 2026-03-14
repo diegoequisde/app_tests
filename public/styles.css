@@ -284,6 +284,23 @@ button.inicio:hover { background-color: #62026e; }
 
 #result-list li:hover { background-color: #f0f0f0; }
 
+/* ---------- Listado de resultados del Historial ---------- */
+.results-table td:last-child {
+  font-weight: bold;
+}
+
+.results-table td:last-child[data-score="low"] {
+  color: red;
+}
+
+.results-table td:last-child[data-score="medium"] {
+  color: orange;
+}
+
+.results-table td:last-child[data-score="high"] {
+  color: green;
+}
+
 .question-number {
   border: 1px solid #aaa;
   padding: 6px;

@@ -3,6 +3,7 @@ const app = express();
 const port = 3000;
 const preguntasRoutes = require('./routes/preguntas');
 const authRoutes = require("./routes/auth");
+const db = require("./db/db");
 
 // Servir archivos estáticos
 app.use(express.static('public'));
@@ -55,6 +56,72 @@ function requireAuth(req, res, next) {
 
   next();
 }
+
+// Historial de resultados
+app.get("/historial", requireAuth, (req, res) => {
+  const userId = req.session.userId;
+
+  const results = db.prepare(`
+    SELECT score, total, created_at
+    FROM test_results
+    WHERE user_id = ?
+    ORDER BY created_at DESC
+  `).all(userId);
+
+  res.render("historial", { results });
+
+});
+
+
+app.post("/api/test-result", requireAuth, (req, res) => {
+
+  const { score, total } = req.body;
+  const userId = req.session.userId;
+
+  const stmt = db.prepare(`
+    INSERT INTO test_results (user_id, score, total)
+    VALUES (?, ?, ?)
+  `);
+
+  stmt.run(userId, score, total);
+
+  res.json({ success: true });
+
+});
+
+app.post("/api/test-answers", requireAuth, (req, res) => {
+
+  const userId = req.session.userId;
+  const answers = req.body.answers;
+
+  const stmt = db.prepare(`
+    INSERT INTO test_answers 
+    (user_id, question_id, selected_answer, correct_answer, is_correct)
+    VALUES (?, ?, ?, ?, ?)
+  `);
+
+  const insertMany = db.transaction((answers) => {
+
+    for (const a of answers) {
+
+      stmt.run(
+        userId,
+        a.questionId,
+        a.selectedAnswer,
+        a.correctAnswer,
+        a.isCorrect ? 1 : 0
+      );
+
+    }
+
+  });
+
+  insertMany(answers);
+
+  res.json({ success: true });
+
+});
+
 
 // Iniciar servidor
 app.listen(port, () => {

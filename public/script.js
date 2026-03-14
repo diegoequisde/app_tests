@@ -226,9 +226,53 @@ finishBtn.addEventListener('click', () => {
 // --------- Mostrar resultados y revisión --------- 
 function showResults() {
 
+  const total = testState.questions.length;
+
+  const correct = testState.questions.filter(
+    q => testState.answers[q.id] === q.respuestaCorrecta
+  ).length;
+
   testState.finished = true;
 
   saveState();
+
+  // preparar respuestas individuales
+  const answersData = testState.questions.map(q => {
+
+    const selected = testState.answers[q.id];
+
+    return {
+      questionId: q.id,
+      selectedAnswer: selected || null,
+      correctAnswer: q.respuestaCorrecta,
+      isCorrect: selected === q.respuestaCorrecta
+    };
+
+  });
+
+  // guardar respuestas
+  fetch("/api/test-answers", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      answers: answersData
+    })
+  });
+  
+  // enviar resultado al servidor
+  fetch("/api/test-result", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      score: correct,
+      total: total
+    })
+  })
+  .catch(err => console.error("Error guardando resultado:", err));
 
   renderQuestionNav();
   loadQuestion();
