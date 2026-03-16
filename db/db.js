@@ -18,6 +18,24 @@ db.prepare(`
   )
 `).run();
 
+// Comprobar si la columna role existe
+const columns = db.prepare(`PRAGMA table_info(users)`).all();
+
+const hasRole = columns.some(col => col.name === "role");
+
+if (!hasRole) {
+  db.prepare(`
+    ALTER TABLE users ADD COLUMN role TEXT DEFAULT 'user'
+  `).run();
+}
+
+// db.prepare(`
+// UPDATE users
+// SET role = 'admin'
+// WHERE username = 'Diego'
+// `).run();
+
+
 // tabla resultados
 db.prepare(`
   CREATE TABLE IF NOT EXISTS test_results (
