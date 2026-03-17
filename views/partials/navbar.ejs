@@ -1,5 +1,6 @@
 <nav class="navbar">
-  <div>
+
+  <div class="nav-left">
     <ul>
       <li><a href="/">Generador de Tests</a></li>
       <li><a href="/preguntas/crear">Crear preguntas</a></li>
@@ -7,19 +8,27 @@
       <li><a href="/preguntas/temas">Gestionar temas</a></li>
     </ul>
   </div>
-  <div>
-    <% if (userId) { %>
-      <a href="/quiz">Nuevo test</a>
-      <a href="/historial">Historial</a>
-      <a href="/logout">Cerrar sesión</a>
-    <% } else { %>
-      <a href="/login">Login</a>
-      <a href="/register">Registro</a>
-    <% } %>
+
+  <div class="nav-right">
+    <ul>
+      <% if (userId) { %>
+        <li><a href="/quiz">Nuevo test</a></li>
+        <li><a href="/historial">Historial</a></li>
+        <% if (user) { %>
+          <li><span class="nav-user"><%= user.username %></span></li>
+        <% } %>
+        <% if (user && user.role === "admin") { %>
+          <li><a href="/admin">Admin</a></li>
+        <% } %>
+        <li><a href="/logout">Cerrar sesión</a></li>
+      <% } 
+        else { %>
+          <li><a href="/login">Login</a></li>
+          <li><a href="/register">Registro</a></li>
+      <% } %>
+    </ul>
   </div>
-  <div>
-    <% if (user && user.role === "admin") { %>
-    <a href="/admin">Admin</a>
-    <% } %>
-  </div>
+
 </nav>
+
+<div class="container">
