@@ -28,10 +28,10 @@ document.addEventListener("DOMContentLoaded", () => {
     window.location.href = "/quiz";
   });
 
-  // Administración
-  document.getElementById("btn-crear").addEventListener("click", () => window.location.href = "/preguntas/crear");
-  document.getElementById("btn-editar").addEventListener("click", () => window.location.href = "/preguntas");
-  document.getElementById("btn-temas").addEventListener("click", () => window.location.href = "/preguntas/temas");
+  // // Administración
+  // document.getElementById("btn-crear").addEventListener("click", () => window.location.href = "/preguntas/crear");
+  // document.getElementById("btn-editar").addEventListener("click", () => window.location.href = "/preguntas");
+  // document.getElementById("btn-temas").addEventListener("click", () => window.location.href = "/preguntas/temas");
 
   cargarTemas();
 });

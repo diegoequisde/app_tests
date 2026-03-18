@@ -4,31 +4,29 @@ CORTO PLAZO:
 - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
 - detectar preguntas con más apariciones (más temas)
 - poder editar una pregunta o mejor marcar (flag) para revisar o editar después -> implica pestaña "preguntas marcadas" o algo así.
-- (en línea a lo anterior, poder marcar preguntas como "favoritas" o "refuerzo" para volver sobre ellas más adelante o poder usarlas para generar tests con ellas.)
+- (en línea a lo anterior, poder marcar preguntas como "favoritas" o "revisión" para volver sobre ellas más adelante o poder usarlas para generar tests con ellas.)
 - contador de "veces contestada" para poder hacer test sólo con las que no se han contestado todavía
 - revisar las preguntas que NO entran en el temario indicado (por ej: articulos 42-55 del estatuto autonomia-check-
 117-136 y 159-169 CE -check- 31/1995 check - 16 check - ley 39 check -ley 40 check)
-
-MEDIO PLAZO:
-- revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
-- añadir preguntas de A1, A2, AP examenes anteriores
 - TIPOS DE TEST: Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. / Focus test .)
     (todas las preguntas de un mismo tema (o que al seleccionar numero haya una opción de meter TODAS las que pertenecen a ese tema))
     (( aprende de tus errores conllevaría llevar un historial de preguntas (veces aparecida, veces fallada..., % de acierto, algo así, 
-    para eso implicaría: USUARIOS Y SESIONES)))
+    para eso implicaría: USUARIOS Y SESIONES))) -> YA ESTÁ DESARROLLADO
 - Simulacros de examen: test adaptado en duración y forma al exigido en tu oposición.
-- boton de revisar respuesta? que te indique la correcta sin terminar el examen? (opcional)
+
+MEDIO PLAZO:
+- revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
 
 LARGO PLAZO:
 - Compilar para poder usar en otros pcs 
-- movil: convertir en apk (ultimo de todo) -> mirar como se pueden sincronizar datos añadidos desde movil para actualizar la bd
+- movil: convertir en apk (ultimo de todo) -> mirar como se pueden sincronizar datos añadidos desde movil para actualizar la bd -> (SERVER)
 
 Opcionales:
+- añadir preguntas de A1, A2, AP examenes anteriores
+- boton de revisar respuesta? que te indique la correcta sin terminar el examen? (opcional)
 - gal / castellano (como aplicar esto...? o siquiera si aplicarlo... mucho curro)
-- Test parciales:  preguntas de todos los temas.  (MEH)
 - que en cada pregunta se pueda consultar el articulo completo de la ley del que pregunta, para poder revisar que la respuesta indicada es correcta. (link al boe, sino es muchisimo contenido a meter en la BD, además si cambia la ley se ve mejor)
 - randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand- prescindible-)
-
 
 COMPLETADAS:
 **** - gestor de usuarios y sesiones (crear un admin -> Diego 1234)
