@@ -71,7 +71,7 @@ body {
     padding: 25px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    text-align: center;
+    /* text-align: center; */
 }
 
 /* ---------- Títulos ---------- */
@@ -147,7 +147,7 @@ button.inicio:hover { background-color: #62026e; }
 .opcion button.remove-option:hover { background-color: #a71d2a; }
 
 /* ---------- Select e inputs ---------- */
-#tema, #cantidad {
+.tema, .cantidad {
     padding: 10px;
     margin-bottom: 15px;
     border-radius: 5px;
