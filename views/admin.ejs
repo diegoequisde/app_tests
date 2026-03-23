@@ -76,26 +76,26 @@
   const cards = document.querySelectorAll('.pregunta-card');
 
   function aplicarFiltros() {
-    const texto = searchInput.value.toLowerCase().trim();
-    const temaSeleccionado = temaFilter.value.toLowerCase();
+  const texto = searchInput.value.toLowerCase().trim();
+  const temaSeleccionado = temaFilter.value.toLowerCase();
 
-    cards.forEach(card => {
-      const enunciado = card.dataset.enunciado;
-      const temas = card.dataset.temas;
+  cards.forEach(card => {
+    const enunciado = card.dataset.enunciado;
+    const temasArray = card.dataset.temas.split(',');
 
-      const coincideTexto =
-        !texto ||
-        enunciado.includes(texto) ||
-        temas.includes(texto);
+    const coincideTexto =
+      !texto ||
+      enunciado.includes(texto) ||
+      temasArray.some(t => t.includes(texto));
 
-      const coincideTema =
-        !temaSeleccionado ||
-        temas.includes(temaSeleccionado);
+    const coincideTema =
+      !temaSeleccionado ||
+      temasArray.some(t => t.trim() === temaSeleccionado);
 
-      card.style.display =
-        coincideTexto && coincideTema ? 'block' : 'none';
-    });
-  }
+    card.style.display =
+      coincideTexto && coincideTema ? 'block' : 'none';
+  });
+}
 
   searchInput.addEventListener('input', aplicarFiltros);
   temaFilter.addEventListener('change', aplicarFiltros);

@@ -8,6 +8,8 @@ function getAllTemas() {
 }
 
 function createTema(nombre) {
+  nombre = nombre.trim();
+
   const existing = db.prepare(`
     SELECT id FROM temas WHERE nombre = ?
   `).get(nombre);

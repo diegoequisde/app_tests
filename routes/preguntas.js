@@ -74,7 +74,7 @@ router.get('/api/temas', (req, res) => {
   const temasConCount = temas.map(nombreTema => {
     const total = preguntas.filter(p => {
       if (!Array.isArray(p.tema)) return false;
-      return p.tema.includes(nombreTema);
+      return p.tema.some(t => t === nombreTema);
     }).length;
 
     return {
