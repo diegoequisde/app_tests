@@ -23,18 +23,26 @@ const savedState = localStorage.getItem("testState");
 if (savedState) {
   const parsed = JSON.parse(savedState);
 
-  // Si el test estaba finalizado, limpiamos todo
-  if (parsed.finished) {
+  if (!parsed.finished && parsed.questions && parsed.questions.length > 0) {
+    // restaurar TODO el estado
+    testState.questions = parsed.questions;
+    testState.currentIndex = parsed.currentIndex || 0;
+    testState.answers = parsed.answers || {};
+    testState.finished = false;
+  } else {
+    // limpiar si no es válido
     localStorage.removeItem("testState");
     localStorage.removeItem("testQuestions");
-  } else {
-    Object.assign(testState, parsed);
   }
-}
-
-if (testState.questions.length === 0) {
+} else {
+  // test nuevo
   const questions = JSON.parse(localStorage.getItem("testQuestions")) || [];
   testState.questions = questions;
+}
+
+if (!testState.questions || testState.questions.length === 0) {
+  console.log("No hay preguntas, redirigiendo...");
+  window.location.href = "/";
 }
 
 // --------- Función para mostrar pregunta actual ---------

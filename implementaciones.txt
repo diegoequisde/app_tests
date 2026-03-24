@@ -1,7 +1,5 @@
 CORTO PLAZO:
 - ir finalizando el proyecto (decidir que se hace y que no ya)
-- al generar test a veces los genera vacíos (sobre todo si no es el prinero que se genera, o no se ha finalizado el test anterior, a veces de primeras tambien)
-- en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar o si has contestado todas mensaje de que has contestado todas y puedes finalizar
 - detectar preguntas con más apariciones (más temas)
 - poder marcar (flag) para revisar para volver sobre ellas más adelante o poder usarlas para generar tests con ellas.
 - contador de "veces contestada" para poder hacer test sólo con las que no se han contestado todavía
@@ -13,6 +11,7 @@ CORTO PLAZO:
 - Simulacros de examen: test adaptado en duración y forma al exigido en tu oposición.
 
 MEDIO PLAZO:
+- UX / UI
 - revisar todas las respuestas (manualmente -> ir haciendo por filtros y busqueda. ej: todas las del art 1 Ley 39 con la ley al lado)
 - revisar las preguntas que NO entran en el temario indicado (por ej: articulos 42-55 del estatuto autonomia-check-
 117-136 y 159-169 CE -check- 31/1995 check - 16 check - ley 39 check -ley 40 check)
@@ -30,6 +29,8 @@ Opcionales:
 - randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand- prescindible-)
 
 COMPLETADAS:
+**** - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar  
+**** - al generar test a veces los genera vacíos (sobre todo si no es el prinero que se genera, o no se ha finalizado el test anterior, a veces de primeras tambien)
 **** - al filtrar por DL 2/2015 tambien coge RDL 2/2015 (ET) porque contiene el string.
 **** - Filtrar por varios temas al generar tests
 **** - gestor de usuarios y sesiones (crear un admin -> Diego 1234)

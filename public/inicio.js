@@ -60,6 +60,21 @@ document.addEventListener("DOMContentLoaded", () => {
   // Generar test
   startBtn.addEventListener("click", async () => {
 
+  const savedState = localStorage.getItem("testState");
+
+  if (savedState) {
+      const parsed = JSON.parse(savedState);
+
+      if (!parsed.finished) {
+        const continuar = confirm("Tienes un test sin terminar. ¿Quieres empezar uno nuevo?");
+        if (!continuar) return;
+      }
+    }
+
+    // limpiar después de confirmar
+    localStorage.removeItem("testState");
+    localStorage.removeItem("testQuestions");
+
     const filas = document.querySelectorAll(".tema-row");
 
     let todasLasPreguntas = [];
@@ -84,6 +99,40 @@ document.addEventListener("DOMContentLoaded", () => {
 
   });
 
+  const resumeBtn = document.getElementById("resume-btn");
+
+  resumeBtn.addEventListener("click", () => {
+  const savedState = localStorage.getItem("testState");
+
+  if (!savedState) return;
+
+  const parsed = JSON.parse(savedState);
+
+  if (!parsed.questions || parsed.questions.length === 0) {
+    alert("El test no es válido");
+    return;
+  }
+
+  window.location.href = "/quiz";
+});
+
+// comprobar si hay test en curso
+    function checkResumeTest() {
+  const savedState = localStorage.getItem("testState");
+
+  if (!savedState) return;
+
+  const parsed = JSON.parse(savedState);
+
+  if (!parsed.finished && parsed.questions && parsed.questions.length > 0) {
+    resumeBtn.style.display = "block";
+    resumeBtn.style.backgroundColor = "red";
+    resumeBtn.textContent = `Continuar test (${parsed.currentIndex + 1}/${parsed.questions.length})`;
+  }
+}
+  
   cargarTemas();
+  
+  checkResumeTest();
 
 });
