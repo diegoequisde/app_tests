@@ -1,5 +1,8 @@
 CORTO PLAZO:
-- ir finalizando el proyecto (decidir que se hace y que no ya)
+- ir finalizando el proyecto (decidir que se hace y que no ya y exportar al menso para uso personal (AR)) 
+- enfocar a proyecto final (anteproyecto) o tirar por otra opcion:
+    - pensar en el usuario - (user persona / analisis de competencia)
+    - pensar cómo y de donde beben las preguntas (además de que las cree el usuario)
 - detectar preguntas con más apariciones (más temas)
 - poder marcar (flag) para revisar para volver sobre ellas más adelante o poder usarlas para generar tests con ellas.
 - contador de "veces contestada" para poder hacer test sólo con las que no se han contestado todavía
