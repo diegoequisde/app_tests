@@ -11,6 +11,7 @@ const prevBtn = document.getElementById('prev-btn');
 const nextBtn = document.getElementById('next-btn');
 const finishBtn = document.getElementById('finish-btn');
 const backHomeBtn = document.getElementById('btn-back-home');
+let flaggedQuestions = new Set();
 
 // Las preguntas del test se guardan en localStorage como estado temporal del test generado desde BD
 function saveState() {
@@ -45,6 +46,19 @@ if (!testState.questions || testState.questions.length === 0) {
   window.location.href = "/";
 }
 
+
+// cargar preguntas marcadas al iniciar
+async function loadFlags() {
+  try {
+    const res = await fetch("/api/flagged-questions");
+    const data = await res.json();
+    flaggedQuestions = new Set(data);
+  } catch (err) {
+    console.error("Error cargando flags", err);
+  }
+}
+
+
 // --------- Función para mostrar pregunta actual ---------
 function loadQuestion() {
   const q = testState.questions[testState.currentIndex];
@@ -58,11 +72,40 @@ function loadQuestion() {
   : '';
 
   questionContainer.innerHTML = `
-    ${temasHTML}
+  ${temasHTML}
     <p>Pregunta ${testState.currentIndex + 1} de ${testState.questions.length}</p>
     <h2>${q.enunciado}</h2>
-    `;
+    <button id="flag-btn">🚩 Marcar</button>
+  `;
 
+  const flagBtn = document.getElementById("flag-btn");
+
+  if (flaggedQuestions.has(q.id)) {
+    flagBtn.textContent = "🚩 Marcada";
+  }
+
+  flagBtn.addEventListener("click", async () => {
+
+    const res = await fetch("/api/flag-question", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ questionId: q.id })
+    });
+
+    const data = await res.json();
+
+    if (data.flagged) {
+      flaggedQuestions.add(q.id);
+      flagBtn.textContent = "🚩 Marcada";
+    } else {
+      flaggedQuestions.delete(q.id);
+      flagBtn.textContent = "🚩 Marcar";
+    }
+
+  });
+  
   optionsContainer.innerHTML = '';
   q.opciones.forEach(opt => {
     const div = document.createElement('div');
@@ -352,4 +395,9 @@ backHomeBtn.addEventListener('click', () => {
 });
 
 // --------- Inicializar ---------
-loadQuestion();
+async function init() {
+  await loadFlags();
+  loadQuestion();
+}
+
+init();

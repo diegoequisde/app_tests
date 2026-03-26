@@ -295,6 +295,19 @@ button.inicio:hover { background-color: #62026e; }
   color: #555;
 }
 
+/* ---------- boton marcar preguntas ---------- */
+#flag-btn {
+  margin-top: 10px;
+  background: #ffc107;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+#flag-btn:hover {
+  background: #e0a800;
+}
+
 /* ---------- Listado de resultados ---------- */
 #result-list {
     display: grid;

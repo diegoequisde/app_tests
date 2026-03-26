@@ -116,9 +116,30 @@ router.get('/api/listado', (req, res) => {
   res.json(preguntas);
 });
 
+// API: preguntas por tema y cantidad
+router.get('/api/test/frecuentes', (req, res) => {
+  const { cantidad } = req.query;
+  const preguntas = preguntasRepo.getPreguntasFrecuentes(Number(cantidad));
+  res.json(preguntas);
+});
+
 // API: generar test por tema y cantidad
 router.get('/api/test', (req, res) => {
-  const { tema, cantidad } = req.query;
+  const { tema, cantidad, frecuentes, flagged } = req.query;
+
+  if (flagged) {
+    const preguntas = preguntasRepo.getPreguntasFlagged(
+      req.session.userId,
+      Number(cantidad)
+    );
+    return res.json(preguntas);
+  }
+
+  if (frecuentes) {
+    const preguntas = preguntasRepo.getPreguntasFrecuentes(Number(cantidad));
+    return res.json(preguntas);
+  }
+
   const preguntas = preguntasRepo.getPreguntasByTema(tema, Number(cantidad));
   res.json(preguntas);
 });

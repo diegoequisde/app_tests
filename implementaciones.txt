@@ -3,8 +3,8 @@ CORTO PLAZO:
 - enfocar a proyecto final (anteproyecto) o tirar por otra opcion:
     - pensar en el usuario - (user persona / analisis de competencia)
     - pensar cómo y de donde beben las preguntas (además de que las cree el usuario)
-- detectar preguntas con más apariciones (más temas)
-- poder marcar (flag) para revisar para volver sobre ellas más adelante o poder usarlas para generar tests con ellas.
+
+- problema con marcar/desmarcar preguntas: Uncaught (in promise) SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data.
 - contador de "veces contestada" para poder hacer test sólo con las que no se han contestado todavía
 
 - TIPOS DE TEST: Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. / Focus test .)
@@ -32,6 +32,8 @@ Opcionales:
 - randomizar el orden de las opciones. (aunque en los examenes repetidos se mantiene el orden. que sea una opción rand- prescindible-)
 
 COMPLETADAS:
+**** - poder marcar (flag) para revisar para volver sobre ellas más adelante o poder usarlas para generar tests con ellas.
+**** - detectar preguntas con más apariciones (más temas)
 **** - en la ultima pregunta del test si le das a siguiente te iría a la siguiente que tengas sin contestar  
 **** - al generar test a veces los genera vacíos (sobre todo si no es el prinero que se genera, o no se ha finalizado el test anterior, a veces de primeras tambien)
 **** - al filtrar por DL 2/2015 tambien coge RDL 2/2015 (ET) porque contiene el string.

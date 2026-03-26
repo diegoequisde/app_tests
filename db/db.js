@@ -60,4 +60,15 @@ db.prepare(`
   )
 `).run();
 
+// tabla para preguntas marcadas por el usuario
+db.prepare(`
+  CREATE TABLE IF NOT EXISTS user_flags (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id INTEGER NOT NULL,
+    question_id INTEGER NOT NULL,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE(user_id, question_id)
+  )
+`).run();
+
 module.exports = db;

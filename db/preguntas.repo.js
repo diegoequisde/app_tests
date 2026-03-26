@@ -169,11 +169,72 @@ function deletePregunta(id) {
   tx();
 }
 
+// obtener preguntas frecuentes (las que pertenecen a más temas)
+function getPreguntasFrecuentes(limit) {
+  const rows = db.prepare(`
+    SELECT
+      p.id,
+      p.enunciado,
+      p.opciones,
+      p.respuesta_correcta,
+      COUNT(pt.tema_id) as total_temas,
+      GROUP_CONCAT(t.nombre) as temas
+    FROM preguntas p
+    JOIN pregunta_tema pt ON pt.pregunta_id = p.id
+    JOIN temas t ON t.id = pt.tema_id
+    GROUP BY p.id
+    ORDER BY total_temas DESC, RANDOM()
+    LIMIT ?
+  `).all(limit);
+
+  return rows.map(r => ({
+    id: r.id,
+    enunciado: r.enunciado,
+    opciones: JSON.parse(r.opciones),
+    respuestaCorrecta: r.respuesta_correcta,
+    tema: r.temas ? r.temas.split(',') : []
+  }));
+}
+
+// obtener preguntas marcadas por el usuario
+function getPreguntasFlagged(userId, limit) {
+  const rows = db.prepare(`
+    SELECT
+      p.id,
+      p.enunciado,
+      p.opciones,
+      p.respuesta_correcta,
+      GROUP_CONCAT(t.nombre) AS temas
+    FROM preguntas p
+
+    JOIN user_flags uf ON uf.question_id = p.id
+
+    LEFT JOIN pregunta_tema pt ON pt.pregunta_id = p.id
+    LEFT JOIN temas t ON t.id = pt.tema_id
+
+    WHERE uf.user_id = ?
+
+    GROUP BY p.id
+    ORDER BY RANDOM()
+    LIMIT ?
+  `).all(userId, limit);
+
+  return rows.map(r => ({
+    id: r.id,
+    enunciado: r.enunciado,
+    opciones: JSON.parse(r.opciones),
+    respuestaCorrecta: r.respuesta_correcta,
+    tema: r.temas ? r.temas.split(',') : []
+  }));
+}
+
 module.exports = {
   getAllPreguntas,
   getPreguntaById,
   getPreguntasByTema,
   createPregunta,
   updatePregunta,
-  deletePregunta
+  deletePregunta,
+  getPreguntasFrecuentes,
+  getPreguntasFlagged
 };

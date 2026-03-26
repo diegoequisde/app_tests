@@ -22,15 +22,24 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   
   // ---------- Rellenar todos los selects ----------
-  function rellenarSelects() {
-    const selects = document.querySelectorAll(".tema");
+function rellenarSelects() {
+  const selects = document.querySelectorAll(".tema");
 
-    selects.forEach(select => {
-      select.innerHTML = temasDisponibles
-        .map(t => `<option value="${t.tema}">${t.tema} (${t.total})</option>`)
-        .join('');
-    });
-  }
+  selects.forEach(select => {
+
+    let opciones = `
+      <option value="">-- Selecciona --</option>
+      <option value="__frecuentes__">🔥 Preguntas frecuentes</option>
+      <option value="__flagged__">🚩 Preguntas marcadas</option>
+    `;
+
+    opciones += temasDisponibles
+      .map(t => `<option value="${t.tema}">${t.tema} (${t.total})</option>`)
+      .join('');
+
+    select.innerHTML = opciones;
+  });
+}
 
   // ---------- Añadir nueva fila ----------
   addTemaBtn.addEventListener("click", () => {
@@ -79,16 +88,28 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let todasLasPreguntas = [];
 
-    for (const fila of filas) {
+   for (const fila of filas) {
 
-      const tema = fila.querySelector(".tema").value;
-      const cantidad = parseInt(fila.querySelector(".cantidad").value);
+    const tema = fila.querySelector(".tema").value;
+    const cantidad = parseInt(fila.querySelector(".cantidad").value);
 
-      const res = await fetch(`/preguntas/api/test?tema=${encodeURIComponent(tema)}&cantidad=${cantidad}`);
-      const preguntas = await res.json();
+    let url;
 
-      todasLasPreguntas = todasLasPreguntas.concat(preguntas);
+    if (tema === "__frecuentes__") {
+      url = `/preguntas/api/test?frecuentes=true&cantidad=${cantidad}`;
     }
+    else if (tema === "__flagged__") {
+      url = `/preguntas/api/test?flagged=true&cantidad=${cantidad}`;
+    }
+    else {
+      url = `/preguntas/api/test?tema=${encodeURIComponent(tema)}&cantidad=${cantidad}`;
+    }
+
+    const res = await fetch(url);
+    const preguntas = await res.json();
+
+    todasLasPreguntas = todasLasPreguntas.concat(preguntas);
+  }
     
     // mezclar preguntas
     todasLasPreguntas.sort(() => Math.random() - 0.5);

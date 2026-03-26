@@ -62,4 +62,51 @@ router.post("/api/test-answers", requireAuth, (req, res) => {
 
 });
 
+// preguntas marcadas por el usuario
+router.post("/api/flag-question", requireAuth, (req, res) => {
+
+  const userId = req.session.userId;
+  const { questionId } = req.body;
+
+  const existing = db.prepare(`
+    SELECT id FROM user_flags
+    WHERE user_id = ? AND question_id = ?
+  `).get(userId, questionId);
+
+  if (existing) {
+    // quitar flag
+    db.prepare(`
+      DELETE FROM user_flags
+      WHERE user_id = ? AND question_id = ?
+    `).run(userId, questionId);
+
+    return res.json({ flagged: false });
+  }
+
+  // añadir flag
+  db.prepare(`
+    INSERT INTO user_flags (user_id, question_id)
+    VALUES (?, ?)
+  `).run(userId, questionId);
+
+  res.json({ flagged: true });
+
+});
+
+// obtener preguntas marcadas
+router.get("/api/flagged-questions", requireAuth, (req, res) => {
+
+  const userId = req.session.userId;
+
+  const rows = db.prepare(`
+    SELECT question_id FROM user_flags
+    WHERE user_id = ?
+  `).all(userId);
+
+  const ids = rows.map(r => r.question_id);
+
+  res.json(ids);
+
+});
+
 module.exports = router;
