@@ -1,0 +1,70 @@
+
+1-    Unha descrición do teu proxecto
+
+        En que consiste o teu proxecto? Cal é o propósito principal do mesmo?
+
+        Aplicacion web (SAAS?) que permite generar tests de oposicion (limitado a Xunta? limitado a c1 c2 ?) en base a examenes oficiales 
+        y/o a preguntas creadas por los/el propio usuario. (habría que darle la opción a escoger entre una o las dos?)
+        Su propósito principal es ayudar a opositores a preparar los procesos selectivos...
+
+2-   Unha contextualización do mesmo, que identifique as necesidades ás que dará resposta o proxecto e defina o modelo de negocio
+
+        A quen vai destinado e por que? (Contexto social ou sector empresarial, tipo de persoas que a compoñen e como se organiza, tipo de
+        produtos ou servizos que ofrece...)
+        Cal é a necesidade ou necesidades que se pretenden cubrir ou satisfacer?
+        Existen na actualidade aplicacións que tenten dar resposta a esa(s) necesidade(s)? En que medida o conseguen?
+        O desenvolvemento do proxecto abre unha oportunidade de negocio? É posible a súa comercialización? Como?
+
+        Publico objetivo: estudiantes de oposicion ...
+        Necesidades a cubrir: dar una herramienta de estudio, alternativa a academias (muy caras y tienes que pagar por un temario , 
+        no puedes escoger solamente usar herramienta de test -estoy seguro de esto? todas lo hacen?-)
+        En la actualidad existen diversas herramientas que ofrecen este servicio. En que medida o conseguen?
+        abre unha oportunidade de negocio? É posible a súa comercialización?
+        si, es un mercado fiable? que va a seguir existiendo consistentemente, especialmente en los proximos X años debido a las jubilaciones
+        previstas de la gen boom (apoyar con datos)
+
+3-    Un análise preliminar do proxecto.
+
+        Que obxectivos pretende alcanzar o proxecto?
+
+        Cal será o seu alcance? Cales serán os principais requisitos?
+        Alcance:
+        *-  Limitar a Xunta de Galicia
+        
+        Requisitos: 
+        (revisar páginas 29-32 proyecto Juan como modelo)
+        - Generación de test personalizados
+        - Generación de test temáticos
+        - CRUD de preguntas y de temas
+        - Gestión de usuarios y sesiones
+        - Historial de progreso
+        - ...
+
+        Que actividades terás que levar a cabo para dar forma ao teu proxecto?
+        - Planificacion de tareas (pagina 12 proyecto Juan)
+        - Estudio de mercado
+        - Analisis de la competencia
+        *- Analisis DAFO (se incluye dentro del anterior)? 
+
+        - Diagrama de clases de uso
+
+        - Diseño de la BD
+            - Diagrama E-R 
+            - Diagrama de clases
+
+
+        - Prototipado
+
+        - Desarrollo
+
+        - Testeo (distintas fases)
+
+        Que tecnoloxías tes previsto empregar para levalo a cabo?
+        
+        Frontend: HTML, CSS, Javascript
+        Backend: Node.js + Express / PHP - Laravel ?
+        BD: MySQL / PosgreSQL ? -> tiene sentido?
+        Otros: 
+        - Excel y Trello: planificacion tareas
+        - Figma: prototipado
+        - Photoshop* ? creación de elementos gráficos

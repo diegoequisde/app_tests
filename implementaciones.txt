@@ -1,15 +1,19 @@
 CORTO PLAZO:
 - ir finalizando el proyecto (decidir que se hace y que no ya y exportar al menso para uso personal (AR)) 
 - enfocar a proyecto final (anteproyecto) o tirar por otra opcion:
-    - pensar en el usuario - (user persona / analisis de competencia)
+Si escogemos esta opción enfocarla de nuevo desde el principio pensando si estas tecnologias son las más correctas y si es necesario reescribir / adaptar (aprovechadno la BD ya hecha),
+tener en cuenta la toma de decisiones (por ejemplo, solo quiero examenes oficiales? )
+    - pensar en el usuario - (user persona / analisis de competencia) -> cómo se va a comportar con la aplicación, 
     - pensar cómo y de donde beben las preguntas (además de que las cree el usuario)
 - problema con marcar/desmarcar preguntas (si no estas logeado): Uncaught (in promise) SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data.
 - contador de "veces contestada" para poder hacer test sólo con las que no se han contestado todavía
 
 - TIPOS DE TEST: Test a tu medida: (Test personalizado. / Aprende de tus errores. / Test de refuerzo. / Focus test .)
-    (todas las preguntas de un mismo tema (o que al seleccionar numero haya una opción de meter TODAS las que pertenecen a ese tema)
-    aprende de tus errores conllevaría llevar un historial de preguntas (veces aparecida, veces fallada..., % de acierto, algo así))
-- Simulacros de examen: test adaptado en duración y forma al exigido en tu oposición.
+    aprende de tus errores conllevaría llevar un historial de preguntas (veces aparecida, veces fallada..., % de acierto, algo así)
+- Simulacros de examen: test adaptado en duración y forma al exigido en tu oposición. -> para esto debería poder escogerse entre distintas opos.
+Lo ideal sería enfocarlo a C1 y C2 solo (AP a lo mejor también) a nivel de muestra que luego se podría escalar a otras categorías.
+también sería interesante (opcional) distinguir entre Promoción interna o Acceso Libre (hay algun modo más? creo que si)
+
 
 MEDIO PLAZO:
 - UX / UI
@@ -18,7 +22,9 @@ MEDIO PLAZO:
 (por ej: articulos 42-55 del estatuto autonomia-check-117-136 y 159-169 CE -check- 31/1995 check - 16 check - ley 39 check -ley 40 check)
 
 LARGO PLAZO:
+- Realmente se deberá enfocar como un PaaS o Saas (product as a service) -> con sus fees mensual/anual
 - Compilar para usar en otros pcs 
+
 
 Opcionales:
 - (?) filtrar también por varios temas en /editarpreguntas ( preguntas que pertenezcan a las 2 temas? o preguntas de los 2 temas mezcladas?)
