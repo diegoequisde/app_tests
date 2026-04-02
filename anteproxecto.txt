@@ -75,10 +75,11 @@ Resultados de aprendizaxe:
 • RA1. Identifica necesidades do sector produtivo en relación con proxectos tipo que as poidan satisfacer.
 • RA2. Deseña proxectos relacionados coas competencias expresadas no título, onde se desenvolvan as súas fases.
 • RA3. Planifica a posta en funcionamento ou execución do proxecto, e determina o plan de intervención e a documentación asociada.
-• RA4. Define os procedementos para o seguimento e o control na execución do proxecto , e xustifica a selección das variables e dos instrumentos empregados.
+• RA4. Define os procedementos para o seguimento e o control na execución do proxecto, e xustifica a selección das variables e dos instrumentos empregados.
 • RA5. Elabora e expón o informe do proxecto realizado, e xustifica o procedemento seguido.
 
 Criterios de avaliación:
+(Estudio de Mercado)
 • Clasificáronse as empresas do sector polas súas características organizativas e o tipo de produto ou servizo que ofrecen.
 • Caracterizáronse as empresas tipo e indicouse a súa estrutura organizativa e as funcións de cada departamento.
 • Identificáronse as necesidades máis demandadas ás empresas.
@@ -87,7 +88,7 @@ Criterios de avaliación:
 • Determináronse as características específicas requiridas ao proxecto.
 • Determináronse as obrigas fiscais, laborais e de prevención de riscos e as súas condicións de aplicación.
 • Identificáronse as axudas e as subvencións para a incorporación de novas tecnoloxías de produción ou de servizo que se propoñan.
-
+(Planificación)
 • Elaborouse o guión de traballo para seguir na elaboración do proxecto.
 • Compilouse información relativa aos aspectos que se vaian tratar no proxecto.
 • Realizouse o estudo da viabilidade técnica do proxecto.
@@ -106,6 +107,7 @@ Criterios de avaliación:
 • Planificouse a asignación de recursos materiais e humanos e os tempos de execución.
 • Fíxose a valoración económica que dea resposta ás condicións da posta en práctica.
 • Definiuse e elaborouse a documentación necesaria para a posta en práctica ou execución.
+(Avaliación)
 • Definiuse o procedemento de avaliación das actividades ou intervencións.
 • Definíronse os indicadores de calidade para realizar a avaliación.
 • Definiuse o procedemento para a avaliación das incidencias que se poidan presentar durante a realización das actividades, así como a súa solución e o seu rexistro.
@@ -113,7 +115,7 @@ Criterios de avaliación:
 • Definiuse e elaborouse a documentación necesaria para a avaliación das actividades e do proxecto.
 • Estableceuse o procedemento para a participación na avaliación das persoas usuarias ou da clientela, e elaboráronse os documentos específicos.
 • Estableceuse un sistema para garantir o cumprimento do prego de condicións do proxecto, cando este exista.
-
+(Xustificación)
 • Enunciáronse os obxectivos do proxecto.
 • Describiuse o proceso seguido para a identificación das necesidades das empresas do sector.
 • Describiuse a solución adoptada a partir da documentación xerada no proceso de deseño.
