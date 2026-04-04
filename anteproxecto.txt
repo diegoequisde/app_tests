@@ -38,7 +38,7 @@
         - CRUD de preguntas y de temas
         - Gestión de usuarios y sesiones
         - Historial de progreso
-        - ...
+        - ....
 
         Que actividades terás que levar a cabo para dar forma ao teu proxecto?
         - Planificacion de tareas (pagina 12 proyecto Juan)
