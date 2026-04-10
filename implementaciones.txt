@@ -1,4 +1,9 @@
 CORTO PLAZO:
+
+-> Pasar versión funcional a andrea (se podría de manera sencilla hacer un git pull e instalar el ppoyecto en su pc para que solo tenga
+que ejecutar el node_app.js desde la consola?)
+
+
 - ir finalizando el proyecto (decidir que se hace y que no ya y exportar al menso para uso personal (AR)) 
 - enfocar a proyecto final (anteproyecto) o tirar por otra opcion:
 Si escogemos esta opción enfocarla de nuevo desde el principio pensando si estas tecnologias son las más correctas y si es necesario reescribir / adaptar (aprovechadno la BD ya hecha),
