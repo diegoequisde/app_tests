@@ -1,55 +1,86 @@
 1 - Unha descrición do teu proxecto
 
 En que consiste o teu proxecto? Cal é o propósito principal do mesmo?
-El proyecto a desarrollar consiste en el desarrollo de una aplicación web que permite generar tests de oposicion en base a examenes oficiales y/o a preguntas creadas por los/el propio usuario.
-Su propósito principal es ayudar a opositores a preparar los procesos selectivos 
-// con la que pueden repasar temas concretos o simular exámenes similares al del proceso selectivo al que se presentan.//
+El proyecto consiste en el desarrollo de una aplicación web orientada a la generación y gestión de tests de oposición, basada tanto en exámenes oficiales como en preguntas creadas por el propio usuario.
+Su propósito principal es facilitar la preparación de procesos selectivos, proporcionando una herramienta que permita a los opositores practicar de forma estructurada, ya sea mediante la realización de tests sobre temas concretos o a través de la simulación de exámenes similares a los oficiales.
+Además, la aplicación busca mejorar la eficiencia del estudio, permitiendo al usuario identificar sus áreas de mejora, reforzar conocimientos y llevar un seguimiento de su progreso.
+
 
 2 - Unha contextualización do mesmo, que identifique as necesidades ás que dará resposta o proxecto e defina o modelo de negocio
 
 A quen vai destinado e por que? (Contexto social ou sector empresarial, tipo de persoas que a compoñen e como se organiza, tipo de produtos ou servizos que ofrece...)
-Público objetivo: estudiantes de oposición ...
+El proyecto está dirigido a personas que se preparan para procesos selectivos de la administración pública.
+
+Este colectivo se caracteriza por ser heterogéneo en cuanto a edad, situación laboral y contexto socioeconómico. Aunque, a pesar de esta diversidad, todos comparten una necesidad común: la preparación intensiva de contenidos teóricos mediante técnicas de estudio y evaluación continua, siendo la realización de tests una de las metodologías más utilizadas.
+
+El proyecto se enmarca, por tanto, dentro del ámbito educativo y formativo, ofreciendo un servicio digital orientado al autoaprendizaje.
 
 Cal é a necesidade ou necesidades que se pretenden cubrir ou satisfacer?
 Ofrecer una herramienta de estudio, alternativa a academias (muy caras y tienes que pagar por un temario ,  no puedes escoger solamente usar herramienta de test)
 
+La principal necesidad que se pretende cubrir es la de disponer de una herramienta accesible, flexible y centrada en la práctica mediante tests, que permita al usuario evaluar sus conocimientos.
+Actualmente, muchos opositores recurren a academias o plataformas de formación que, si bien ofrecen servicios completos, suelen implicar costes elevados o estructuras poco flexibles, obligando al usuario a adaptarse a un programa cerrado.
+En este contexto, la aplicación propuesta busca ofrecer una alternativa que permita:
+Practicar mediante tests de forma autónoma.
+Centrarse en temas específicos según las necesidades del usuario.
+Simular exámenes reales para mejorar la preparación.
+Realizar un seguimiento del progreso y detectar áreas de mejora.
+
 Existen na actualidade aplicacións que tenten dar resposta a esa(s) necesidade(s)? En que medida o conseguen?
-En la actualidad existen diversas herramientas que ofrecen este servicio o similares:
+En la actualidad existen diversas aplicaciones y plataformas web que ofrecen servicios similares, entre las que se pueden agrupar en:
 
- testopositores.es
-www.opositatest.com 
- hacertest.com 
- easy-quizzz.com -> (tiene app)
+- Plataformas de test online:
+Opositatest
+Nosolotest
+Easy-quizzz
+Testopositores.es
+Daypo
+Opositor.com
+Hacertest.com 
+Leyesdeoposiciones.es
+
+- Academias que ofrecen tests en sus servicios:
+Adams
+Postal
+Formacion Ninja
+Meludus
 
 
- daypo.com 
- leyesdeoposiciones.es
 
-(Hace un pequeño análisis del tipo: 
-Personalmente estéticamente son muy feas, poco accesibles ¿? - mas bien poco navegables, mirar como explicarlo -  y con barreras de pago (y/o llenas de publi invasiva… ))
+Estas plataformas cubren en gran medida la necesidad de práctica mediante tests, ofreciendo amplios bancos de preguntas y funcionalidades básicas de evaluación.
+No obstante, presentan ciertas limitaciones, como pueden ser la falta de personalización, interfaces poco modernas, modelos de pago restrictivos o una escasa orientación al seguimiento detallado del progreso del usuario.
+En este contexto, el proyecto busca aportar valor mediante una experiencia más flexible, centrada en el usuario y adaptada a sus necesidades reales de estudio.
 
 O desenvolvemento do proxecto abre unha oportunidade de negocio? É posible a súa comercialización? Como?
-Si, es un mercado fiable? que va a seguir existiendo consistentemente, especialmente en los proximos X años debido a las jubilaciones previstas de la gen boom (apoyar con datos)
 
+El desarrollo del proyecto representa una oportunidad de negocio dentro de un sector consolidado y con una demanda sostenida en el tiempo, debida al carácter periódico de los procesos selectivos en la administración pública, así como al relevo generacional derivado de las jubilaciones previstas en los próximos años, lo que implica una oferta continua de empleo público y, por tanto, un flujo constante de opositores.
+En cuanto a su comercialización, se plantea bajo un modelo de servicio digital o SaaS (Software as a Service), en el que los usuarios acceden a la plataforma mediante suscripción, ya que el usuario requiere el servicio durante un periodo limitado de tiempo, generalmente vinculado a la preparación de una oposición concreta. 
+Entre las posibles estrategias de monetización se contemplan:
+Modelo freemium, con acceso básico gratuito y funcionalidades avanzadas de pago.
+Suscripción mensual o anual.
+Acceso a contenidos específicos o temarios concretos mediante pago.
+Este modelo permite adaptar el servicio a diferentes perfiles de usuario, facilitando su escalabilidad y viabilidad económica.
        
 3 - Un análise preliminar do proxecto.
 
 Que obxectivos pretende alcanzar o proxecto?
-
-Objetivos Generales
-Integración de conocimientos: Aplicar los lenguajes y tecnologías aprendidas (PHP, JavaScript, SQL, frameworks) durante el ciclo formativo.
-Desarrollo funcional: Crear una aplicación web operativa y útil, desde el diseño hasta el despliegue.
-Capacidad de análisis y síntesis: Resolver problemas reales, documentar el proceso y presentar resultados. 
-Objetivos Específicos Técnicos
-Base de datos: Diseñar e implementar una base de datos robusta para gestionar la persistencia de datos.
-Backend y seguridad: Desarrollar una lógica de servidor segura, incluyendo login, registro y gestión de sesiones.
-Frontend: Desarrollar una interfaz de usuario intuitiva, responsive y accesible.
-Gestión de contenidos: Implementar CRUDs (Crear, Leer, Actualizar, Borrar) para gestionar información.
-Uso de APIs: Integrar servicios externos para automatizar o enriquecer funciones 
-Objetivos de Documentación y Gestión
-Memoria Técnica: Elaborar un documento detallado que cubra la introducción, marco teórico, metodología, desarrollo y resultados.
-Planificación: Cumplir con un cronograma establecido, utilizando herramientas como Git para el control de versiones.
-Presentación: Exponer y defender el proyecto ante un tribunal docente.
+Obxectivos xerais
+Desenvolver unha aplicación web funcional orientada á xeración e realización de tests de oposición.
+Proporcionar unha ferramenta útil e accesible que facilite a preparación de procesos selectivos.
+Garantir unha experiencia de usuario sinxela, intuitiva e eficiente.
+Obxectivos específicos técnicos
+Deseñar e implementar unha base de datos que permita a xestión eficiente de preguntas, tests, usuarios e resultados.
+Desenvolver a lóxica de servidor que xestione a autenticación de usuarios, control de sesións e seguridade básica da aplicación.
+Crear unha interface de usuario responsive, accesible e orientada á usabilidade.
+Implementar operacións CRUD para a xestión de contidos (preguntas, temas, tests, etc.).
+Permitir a xeración dinámica de tests en función de criterios definidos polo usuario.
+Incorporar funcionalidades de seguimento do progreso do usuario.
+Integrar, se é necesario, servizos externos ou APIs que melloren a funcionalidade da aplicación.
+Obxectivos de xestión e documentación
+Elaborar unha memoria técnica que recolla todas as fases do proxecto: análise, deseño, desenvolvemento e resultados.
+Planificar e organizar o desenvolvemento do proxecto mediante un cronograma de tarefas.
+Utilizar ferramentas de control de versións (como Git) para a xestión do código.
+Presentar e defender o proxecto de forma clara e estruturada ante un tribunal.
 
 Cal será o seu alcance? Cales serán os principais requisitos?
 Alcance:
