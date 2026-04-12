@@ -1,4 +1,6 @@
 CORTO PLAZO:
+-> naming e identidad básica de la aplicacion 
+-> MIGRAR DE SQLITE A MYSQL (2-6 horas);
 
 -> Pasar versión funcional a andrea (se podría de manera sencilla hacer un git pull e instalar el ppoyecto en su pc para que solo tenga
 que ejecutar el node_app.js desde la consola?)

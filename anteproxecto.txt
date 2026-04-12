@@ -1,131 +1,116 @@
 1 - Unha descrición do teu proxecto
 
 En que consiste o teu proxecto? Cal é o propósito principal do mesmo?
-El proyecto consiste en el desarrollo de una aplicación web orientada a la generación y gestión de tests de oposición, basada tanto en exámenes oficiales como en preguntas creadas por el propio usuario.
-Su propósito principal es facilitar la preparación de procesos selectivos, proporcionando una herramienta que permita a los opositores practicar de forma estructurada, ya sea mediante la realización de tests sobre temas concretos o a través de la simulación de exámenes similares a los oficiales.
-Además, la aplicación busca mejorar la eficiencia del estudio, permitiendo al usuario identificar sus áreas de mejora, reforzar conocimientos y llevar un seguimiento de su progreso.
 
+O proxecto consiste no desenvolvemento dunha aplicación web orientada á xeración e xestión de tests de oposición, baseada tanto en exames oficiais como en preguntas creadas polo propio usuario.
+O seu propósito é facilitar a preparación de procesos selectivos, permitindo aos opositores practicar mediante tests por temas ou simulacións de exames similares en contido e duración aos oficiais.
+Ademais, a aplicación permitirá realizar un seguimento do progreso e identificar áreas de mellora, co obxectivo de optimizar o estudo.
 
 2 - Unha contextualización do mesmo, que identifique as necesidades ás que dará resposta o proxecto e defina o modelo de negocio
 
 A quen vai destinado e por que? (Contexto social ou sector empresarial, tipo de persoas que a compoñen e como se organiza, tipo de produtos ou servizos que ofrece...)
-El proyecto está dirigido a personas que se preparan para procesos selectivos de la administración pública.
 
-Este colectivo se caracteriza por ser heterogéneo en cuanto a edad, situación laboral y contexto socioeconómico. Aunque, a pesar de esta diversidad, todos comparten una necesidad común: la preparación intensiva de contenidos teóricos mediante técnicas de estudio y evaluación continua, siendo la realización de tests una de las metodologías más utilizadas.
-
-El proyecto se enmarca, por tanto, dentro del ámbito educativo y formativo, ofreciendo un servicio digital orientado al autoaprendizaje.
+O proxecto está dirixido a persoas que se preparan para procesos selectivos da administración pública. Trátase dun colectivo heteroxéneo en canto a idade e situación persoal, pero que comparte unha necesidade común: a preparación mediante estudo teórico e práctica continua a través de tests.
+O proxecto enmárcase no ámbito educativo, ofrecendo unha ferramenta dixital orientada ao autoaprendizaxe.
 
 Cal é a necesidade ou necesidades que se pretenden cubrir ou satisfacer?
-Ofrecer una herramienta de estudio, alternativa a academias (muy caras y tienes que pagar por un temario ,  no puedes escoger solamente usar herramienta de test)
 
-La principal necesidad que se pretende cubrir es la de disponer de una herramienta accesible, flexible y centrada en la práctica mediante tests, que permita al usuario evaluar sus conocimientos.
-Actualmente, muchos opositores recurren a academias o plataformas de formación que, si bien ofrecen servicios completos, suelen implicar costes elevados o estructuras poco flexibles, obligando al usuario a adaptarse a un programa cerrado.
-En este contexto, la aplicación propuesta busca ofrecer una alternativa que permita:
-Practicar mediante tests de forma autónoma.
-Centrarse en temas específicos según las necesidades del usuario.
-Simular exámenes reales para mejorar la preparación.
-Realizar un seguimiento del progreso y detectar áreas de mejora.
+
+A principal necesidade é dispoñer dunha ferramenta accesible e flexible que permita practicar mediante tests e avaliar coñecementos.
+Actualmente, moitos opositores recorren a academias ou plataformas que, aínda sendo completas, poden resultar pouco flexibles ou con custos elevados.
+A aplicación proposta permitirá:
+Practicar mediante a realización de tests.
+Centrarse en temas concretos.
+Simular exames reais.
+Realizar un seguimento do progreso.
 
 Existen na actualidade aplicacións que tenten dar resposta a esa(s) necesidade(s)? En que medida o conseguen?
-En la actualidad existen diversas aplicaciones y plataformas web que ofrecen servicios similares, entre las que se pueden agrupar en:
 
-- Plataformas de test online:
-Opositatest
-Nosolotest
-Easy-quizzz
-Testopositores.es
-Daypo
-Opositor.com
-Hacertest.com 
-Leyesdeoposiciones.es
-
-- Academias que ofrecen tests en sus servicios:
-Adams
-Postal
-Formacion Ninja
-Meludus
-
-
-
-Estas plataformas cubren en gran medida la necesidad de práctica mediante tests, ofreciendo amplios bancos de preguntas y funcionalidades básicas de evaluación.
-No obstante, presentan ciertas limitaciones, como pueden ser la falta de personalización, interfaces poco modernas, modelos de pago restrictivos o una escasa orientación al seguimiento detallado del progreso del usuario.
-En este contexto, el proyecto busca aportar valor mediante una experiencia más flexible, centrada en el usuario y adaptada a sus necesidades reales de estudio.
-
+Na actualidade existen academias de formación (Adams, Postal, Formacion Ninja, Meludus…) e plataformas de tests online ( Opositatest, Nosolotest, Easy-quizzz, Testopositores.es, Daypo, Opositor.com, Hacertest.com , Leyesdeoposiciones.es.) que ofrecen servicios similares 
+Estas plataformas ofrecen gran cantidade de preguntas e funcionalidades básicas de avaliación, pero presentan limitacións, como a falta de personalización, interfaces anticuadas, modelos de pago restrictivos ou seguimiento pouco detallado do progreso do usuario.
+Este proxecto busca aportar valor mediante una experiencia máis flexible, centrada no usuario e adaptada ás súas necesidades reais de estudo.
 O desenvolvemento do proxecto abre unha oportunidade de negocio? É posible a súa comercialización? Como?
 
-El desarrollo del proyecto representa una oportunidad de negocio dentro de un sector consolidado y con una demanda sostenida en el tiempo, debida al carácter periódico de los procesos selectivos en la administración pública, así como al relevo generacional derivado de las jubilaciones previstas en los próximos años, lo que implica una oferta continua de empleo público y, por tanto, un flujo constante de opositores.
-En cuanto a su comercialización, se plantea bajo un modelo de servicio digital o SaaS (Software as a Service), en el que los usuarios acceden a la plataforma mediante suscripción, ya que el usuario requiere el servicio durante un periodo limitado de tiempo, generalmente vinculado a la preparación de una oposición concreta. 
-Entre las posibles estrategias de monetización se contemplan:
-Modelo freemium, con acceso básico gratuito y funcionalidades avanzadas de pago.
-Suscripción mensual o anual.
-Acceso a contenidos específicos o temarios concretos mediante pago.
-Este modelo permite adaptar el servicio a diferentes perfiles de usuario, facilitando su escalabilidad y viabilidad económica.
+O proxecto sitúase nun sector consolidado, cunha demanda constante debido aos procesos selectivos periódicos e ao relevo xeracional na Administración pública derivado das xubilacións previstas nos vindeiros anos.
+A aplicación poderá comercializarse baixo un modelo SaaS (Software as a Service), mediante subscrición.
+Entre as opcións de monetización:
+Modelo freemium (acceso básico gratuito e funcionalidades avanzadas de pago).
+Subscrición mensual ou anual.
+Acceso a contidos específicos de pago.
+Este modelo permite adaptar o servizo a distintos perfís de usuario e facilita a súa escalabilidade.
        
 3 - Un análise preliminar do proxecto.
 
 Que obxectivos pretende alcanzar o proxecto?
 Obxectivos xerais
 Desenvolver unha aplicación web funcional orientada á xeración e realización de tests de oposición.
-Proporcionar unha ferramenta útil e accesible que facilite a preparación de procesos selectivos.
-Garantir unha experiencia de usuario sinxela, intuitiva e eficiente.
+Proporcionar unha ferramenta útil e accesible para a preparación de procesos selectivos.
+Garantir unha experiencia de usuario sinxela e intuitiva.
 Obxectivos específicos técnicos
-Deseñar e implementar unha base de datos que permita a xestión eficiente de preguntas, tests, usuarios e resultados.
-Desenvolver a lóxica de servidor que xestione a autenticación de usuarios, control de sesións e seguridade básica da aplicación.
-Crear unha interface de usuario responsive, accesible e orientada á usabilidade.
-Implementar operacións CRUD para a xestión de contidos (preguntas, temas, tests, etc.).
+Deseñar e implementar unha base de datos para xestionar usuarios, preguntas e resultados.
+Desenvolver a lóxica de backend con autenticación e control de sesións.
+Crear unha interface responsiva, accesible e usable.
+Implementar operacións CRUD para a xestión de contidos.
 Permitir a xeración dinámica de tests en función de criterios definidos polo usuario.
-Incorporar funcionalidades de seguimento do progreso do usuario.
-Integrar, se é necesario, servizos externos ou APIs que melloren a funcionalidade da aplicación.
+Incorporar seguimento do progreso do usuario.
 Obxectivos de xestión e documentación
-Elaborar unha memoria técnica que recolla todas as fases do proxecto: análise, deseño, desenvolvemento e resultados.
-Planificar e organizar o desenvolvemento do proxecto mediante un cronograma de tarefas.
-Utilizar ferramentas de control de versións (como Git) para a xestión do código.
-Presentar e defender o proxecto de forma clara e estruturada ante un tribunal.
+Elaborar unha memoria técnica do proxecto.
+Planificar o desenvolvemento do proxecto nun cronograma de tarefas.
+Empregar control de versións con Git.
+Presentar e defender o proxecto.
 
 Cal será o seu alcance? Cales serán os principais requisitos?
-Alcance:
-- Limitar a Xunta de Galicia
-- Limitar a C2, C1 (AP?) 
 
-Requisitos: 
-- Generación de test personalizados
-- Generación de test temáticos
-- CRUD de preguntas y de temas
-- Gestión de usuarios y sesiones
-- Historial de progreso del usuario
--
--
--
+O proxecto estará centrado nas oposicións da Xunta de Galicia para Administrativo (C1) e Auxiliar administrativo (C2). Esta delimitación permite acoutar o volume de contido, facilitando o desenvolvemento e validación da aplicación.
+Non obstante, a aplicación será deseñada de forma modular, permitindo a súa escabilidade futura a outros corpos ou administracións.
+Requisitos funcionais
+Rexistro e autenticación de usuarios.
+Realización de tests.
+Selección de temas.
+Navegación entre preguntas.
+Gardado de respostas.
+Visualización de resultados.
+Xestión de preguntas (CRUD).
+Xeración dinámica de tests.
+Requisitos non funcionais
+Aplicación accesible desde navegador.
+Interface responsive.
+Seguridade básica de datos.
+Código estruturado e documentado.
 
 Que actividades terás que levar a cabo para dar forma ao teu proxecto?
-- Planificacion de tareas
-- Cronograma
-- Estudio de mercado
-- Análisis de la competencia
-- Configuración del entorno ( entorno local (XAMPP, Docker, VS Code). control de versiones, -> Github)
-- Diagrama de clases de uso
-
-- Diseño de la Base de Datos
-- Diagrama Entidad-Relación 
-- Diagrama de clases
-- Desarrollo del Backend
-- Desarrollo del Frontend
-- Testeo
-- Despliegue
-- Memoria / Documentación / Manual de uso
-- Presentación
+Fase de análise e planificación
+Planificación e cronograma de tarefas.
+Estudo de mercado e análise da competencia.
+Fase de deseño
+Deseño da arquitectura da aplicación.
+Modelo entidade-relación.
+Diagramas de clases e de casos de uso.
+Fase de desenvolvemento
+Configuración do contorno de traballo.
+Desenvolvemento do backend e do frontend.
+Integración da base de datos.
+Fase de probas
+Testeo funcional da aplicación.
+Corrección de erros e melloras.
+Fase de despregamento e documentación
+Despregamento da aplicación.
+Documentación.
+Preparación da defensa do proxecto.
 
 Que tecnoloxías tes previsto empregar para levalo a cabo?
-        
-Frontend: HTML, CSS, Javascript
-Backend: Node.js + Express / PHP - Laravel ?
-BD: MySQL / PosgreSQL ? -> tiene sentido?
-Otros: 
-- Excel y Trello: planificacion tareas
-- Figma: prototipado
-- Photoshop creación de elementos gráficos
 
- 
+No frontend utilizaranse HTML5, CSS3 e JavaScript.
+
+No backend empregarase Node.js e Express.
+
+Para a base de datos empregarase MySQL
+
+Como ferramentas de apoio VS Code para o desenvolvemento e GitHub para o control de versións.
+
+
+
+
 
 
 
