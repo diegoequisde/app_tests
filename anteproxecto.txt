@@ -1,21 +1,13 @@
-1 - Unha descrición do teu proxecto
-
-En que consiste o teu proxecto? Cal é o propósito principal do mesmo?
+1 - Descrición do proxecto
 
 O proxecto consiste no desenvolvemento dunha aplicación web orientada á xeración e xestión de tests de oposición, baseada tanto en exames oficiais como en preguntas creadas polo propio usuario.
 O seu propósito é facilitar a preparación de procesos selectivos, permitindo aos opositores practicar mediante tests por temas ou simulacións de exames similares en contido e duración aos oficiais.
-Ademais, a aplicación permitirá realizar un seguimento do progreso e identificar áreas de mellora, co obxectivo de optimizar o estudo.
+Ademais, a aplicación permitirá realizar un seguimento do progreso e identificar áreas de mellora.
 
-2 - Unha contextualización do mesmo, que identifique as necesidades ás que dará resposta o proxecto e defina o modelo de negocio
+2 - Contextualización
 
-A quen vai destinado e por que? (Contexto social ou sector empresarial, tipo de persoas que a compoñen e como se organiza, tipo de produtos ou servizos que ofrece...)
-
-O proxecto está dirixido a persoas que se preparan para procesos selectivos da administración pública. Trátase dun colectivo heteroxéneo en canto a idade e situación persoal, pero que comparte unha necesidade común: a preparación mediante estudo teórico e práctica continua a través de tests.
+O proxecto está dirixido a persoas que se preparan para procesos selectivos da administración pública. Trátase dun colectivo heteroxéneo en canto a idade e situación persoal, pero comparten unha necesidade común: a preparación mediante o estudo e a práctica continua a través de tests.
 O proxecto enmárcase no ámbito educativo, ofrecendo unha ferramenta dixital orientada ao autoaprendizaxe.
-
-Cal é a necesidade ou necesidades que se pretenden cubrir ou satisfacer?
-
-
 A principal necesidade é dispoñer dunha ferramenta accesible e flexible que permita practicar mediante tests e avaliar coñecementos.
 Actualmente, moitos opositores recorren a academias ou plataformas que, aínda sendo completas, poden resultar pouco flexibles ou con custos elevados.
 A aplicación proposta permitirá:
@@ -23,47 +15,41 @@ Practicar mediante a realización de tests.
 Centrarse en temas concretos.
 Simular exames reais.
 Realizar un seguimento do progreso.
-
-Existen na actualidade aplicacións que tenten dar resposta a esa(s) necesidade(s)? En que medida o conseguen?
-
 Na actualidade existen academias de formación (Adams, Postal, Formacion Ninja, Meludus…) e plataformas de tests online ( Opositatest, Nosolotest, Easy-quizzz, Testopositores.es, Daypo, Opositor.com, Hacertest.com , Leyesdeoposiciones.es.) que ofrecen servicios similares 
 Estas plataformas ofrecen gran cantidade de preguntas e funcionalidades básicas de avaliación, pero presentan limitacións, como a falta de personalización, interfaces anticuadas, modelos de pago restrictivos ou seguimiento pouco detallado do progreso do usuario.
 Este proxecto busca aportar valor mediante una experiencia máis flexible, centrada no usuario e adaptada ás súas necesidades reais de estudo.
-O desenvolvemento do proxecto abre unha oportunidade de negocio? É posible a súa comercialización? Como?
 
 O proxecto sitúase nun sector consolidado, cunha demanda constante debido aos procesos selectivos periódicos e ao relevo xeracional na Administración pública derivado das xubilacións previstas nos vindeiros anos.
-A aplicación poderá comercializarse baixo un modelo SaaS (Software as a Service), mediante subscrición.
-Entre as opcións de monetización:
+A aplicación poderá comercializarse baixo un modelo SaaS (Software as a Service), con varias opcións de monetización:
 Modelo freemium (acceso básico gratuito e funcionalidades avanzadas de pago).
 Subscrición mensual ou anual.
 Acceso a contidos específicos de pago.
 Este modelo permite adaptar o servizo a distintos perfís de usuario e facilita a súa escalabilidade.
        
-3 - Un análise preliminar do proxecto.
-
-Que obxectivos pretende alcanzar o proxecto?
-Obxectivos xerais
+3 - Análise preliminar do proxecto.
+3.1 Obxectivos:
+3.1.1 Obxectivos xerais
 Desenvolver unha aplicación web funcional orientada á xeración e realización de tests de oposición.
 Proporcionar unha ferramenta útil e accesible para a preparación de procesos selectivos.
 Garantir unha experiencia de usuario sinxela e intuitiva.
-Obxectivos específicos técnicos
+3.1.2 Obxectivos específicos técnicos
 Deseñar e implementar unha base de datos para xestionar usuarios, preguntas e resultados.
 Desenvolver a lóxica de backend con autenticación e control de sesións.
 Crear unha interface responsiva, accesible e usable.
 Implementar operacións CRUD para a xestión de contidos.
 Permitir a xeración dinámica de tests en función de criterios definidos polo usuario.
 Incorporar seguimento do progreso do usuario.
-Obxectivos de xestión e documentación
+3.1.3 Obxectivos de xestión e documentación
 Elaborar unha memoria técnica do proxecto.
 Planificar o desenvolvemento do proxecto nun cronograma de tarefas.
 Empregar control de versións con Git.
 Presentar e defender o proxecto.
 
-Cal será o seu alcance? Cales serán os principais requisitos?
+3.2 Alcance e requisitos:
 
 O proxecto estará centrado nas oposicións da Xunta de Galicia para Administrativo (C1) e Auxiliar administrativo (C2). Esta delimitación permite acoutar o volume de contido, facilitando o desenvolvemento e validación da aplicación.
 Non obstante, a aplicación será deseñada de forma modular, permitindo a súa escabilidade futura a outros corpos ou administracións.
-Requisitos funcionais
+3.2.1. Requisitos funcionais
 Rexistro e autenticación de usuarios.
 Realización de tests.
 Selección de temas.
@@ -72,41 +58,42 @@ Gardado de respostas.
 Visualización de resultados.
 Xestión de preguntas (CRUD).
 Xeración dinámica de tests.
-Requisitos non funcionais
+3.2.2 Requisitos non funcionais
 Aplicación accesible desde navegador.
 Interface responsive.
 Seguridade básica de datos.
 Código estruturado e documentado.
 
-Que actividades terás que levar a cabo para dar forma ao teu proxecto?
-Fase de análise e planificación
+3.3 Fases do proxecto:
+3.3.1 Fase de análise e planificación
 Planificación e cronograma de tarefas.
 Estudo de mercado e análise da competencia.
-Fase de deseño
+3.3.2 Fase de deseño
 Deseño da arquitectura da aplicación.
 Modelo entidade-relación.
 Diagramas de clases e de casos de uso.
-Fase de desenvolvemento
+3.3.3 Fase de desenvolvemento
 Configuración do contorno de traballo.
 Desenvolvemento do backend e do frontend.
 Integración da base de datos.
-Fase de probas
+3.3.4 Fase de probas
 Testeo funcional da aplicación.
 Corrección de erros e melloras.
-Fase de despregamento e documentación
+3.3.5 Fase de despregamento e documentación
 Despregamento da aplicación.
 Documentación.
 Preparación da defensa do proxecto.
 
-Que tecnoloxías tes previsto empregar para levalo a cabo?
+3.4 Tecnoloxías:
 
 No frontend utilizaranse HTML5, CSS3 e JavaScript.
 
 No backend empregarase Node.js e Express.
 
-Para a base de datos empregarase MySQL
+Para a base de datos empregarase MySQL.
 
-Como ferramentas de apoio VS Code para o desenvolvemento e GitHub para o control de versións.
+Como ferramentas de apoio: VS Code para o desenvolvemento e GitHub para o control de versións.
+
 
 
 
